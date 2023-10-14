@@ -1,0 +1,6 @@
+baseURL = 'https://effl-lab.github.io'
+languageCode = 'en-us'
+title = ''
+theme = 'hugo-book'
+
+[menu]
