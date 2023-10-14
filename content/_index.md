@@ -4,7 +4,7 @@ type: docs
 bookToc: false
 ---
 
-Efficient Learning Laboratory (or simply *EffL*) is
+Efficient Learning Lab (a.k.a. *EffL*) is
 
 - an **ML-focused** research group led by [Jaeho Lee](https://jaeho-lee.github.io)
 - a part of [POSTECH EE](https://ee.postech.ac.kr) and the [Graduate School of AI](https://ai.postech.ac.kr)
