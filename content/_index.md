@@ -41,7 +41,7 @@ One conference paper and three workshop papers has been presented.
 {{< tab "TMLR" >}}
 A paper on spurious correlation of conditional generative model has been published.
 
-This is a joint work with [Samsung Advanced Institute of Technology](https://www.sait.samsung.co.kr/).
+This is a joint work with [Samsung Advanced Institute of Technology](https://www.sait.samsung.co.kr/).  
 (2023.06)
 {{< /tab >}}
 
