@@ -1,7 +1,7 @@
 ---
 title: Interns 🐥
 type: docs
-bookToc: true
+bookToc: false
 weight: 2
 ---
 

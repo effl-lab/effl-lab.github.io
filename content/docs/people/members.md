@@ -1,5 +1,5 @@
 ---
-title: Current
+title: Members
 type: docs
 bookToc: false
 weight: 1
@@ -20,7 +20,7 @@ Visiting Researcher @ [Google](https://research.google) (23.09--)
 Graduate Student @ POSTECH EE (22.03--)  
 Office Team Lead @ EffL  
 **Keywords:** Model Merging, Federated Learning, Knowledge Distillation  
-[mail](mailto:jwlee9702@postech.ac.kr)
+[webpage](/docs/people/member/jiwoon/), [mail](mailto:jwlee9702@postech.ac.kr)
 
 ### **Junwon Seo**
 `Blazing-Fast Neural Field Generation 🔥`  
