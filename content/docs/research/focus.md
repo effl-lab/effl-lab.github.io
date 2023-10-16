@@ -5,7 +5,7 @@ bookToc: true
 weight: 1
 ---
 
-The long-term goal of EffL is to make AI more *responsible*--accessible, sustainable, and righteous.
+The long-term goal of EffL is to make AI more responsible--accessible, sustainable, and righteous.
 
 As the first step, we are focusing on various facets of **Efficient ML**, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.
 
