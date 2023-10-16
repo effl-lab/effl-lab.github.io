@@ -8,15 +8,10 @@ weight: 1
 
 
 ### **Jaeho Lee**
-Assistant Professor @ POSTECH EE (22.03--)  
-Principal Investigator @ EffL (22.03--)  
-Visiting Researcher @ Google (23.09--)  
+Assistant Professor @ [POSTECH EE](https://ee.postech.ac.kr) (22.03--)  
+Principal Investigator @ [EffL](https://effl.postech.ac.kr) (22.03--)  
+Visiting Researcher @ [Google](https://research.google) (23.09--)  
 [webpage](https://jaeho-lee.github.io), [mail](mailto:jaeho.lee@postech.ac.kr), [twitter](https://twitter.com/jaeho_lee_)  
-
----
-### **Seung-Ah Song**
-Administrative Staff @ EffL (22.03--)  
-[mail](mailto:tmddk@postech.ac.kr)
 
 ---
 
@@ -68,3 +63,7 @@ Graduate Student @ POSTECH EE (23.09--)
 [mail](mailto:jywee@postech.ac.kr)  
 
 
+---
+### **Seung-Ah Song**
+Administrative Staff @ EffL (22.03--)  
+[mail](mailto:tmddk@postech.ac.kr)

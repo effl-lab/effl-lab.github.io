@@ -5,11 +5,18 @@ bookToc: false
 weight: 2
 ---
 
-### **Interns (2023 Fall)**  
-**Sangyoon Lee** _Fast Neural Field Generation_  
-**Jiyun Bae** (remote) _Visual Prompt Tuning_  
-**Sangbeom Ha** _Large-Scale Transformer Quantization_  
-**Minyoung Kang** _Neural Cellular Automata_  
-**Yousung Roh** _Byte-Processing Neural Networks_
+### **Interns**  
+**Sangyoon Lee** (Summer '23--)  
+_Fast Neural Field Generation_  
 
+**Jiyun Bae** (Summer '23--)  
+_Visual Prompt Tuning_  
 
+**Sangbeom Ha** (Summer '23--)  
+_Large-Scale Transformer Quantization_  
+
+**Minyoung Kang** (Fall '23--)  
+_Neural Cellular Automata_  
+
+**Yousung Roh** (Fall '23--)  
+_Byte-Processing Neural Networks_

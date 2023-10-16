@@ -7,6 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://effl-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Current</title>
+      <link>https://effl-lab.github.io/docs/people/current/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/people/current/</guid>
+      <description>Jaeho Lee # Assistant Professor @ POSTECH EE (22.03&amp;ndash;)
+Principal Investigator @ EffL (22.03&amp;ndash;)
+Visiting Researcher @ Google (23.09&amp;ndash;)
+webpage, mail, twitter
+Jiwoon Lee # Efficient ML in the Wild 🐊
+Graduate Student @ POSTECH EE (22.03&amp;ndash;)
+Office Team Lead @ EffL
+Keywords: Model Merging, Federated Learning, Knowledge Distillation
+mail
+Junwon Seo # Blazing-Fast Neural Field Generation 🔥
+Graduate Student @ POSTECH EE (22.03&amp;ndash;)
+Infrastructure Team Lead @ EffL</description>
+    </item>
+    
+    <item>
       <title>Focus</title>
       <link>https://effl-lab.github.io/docs/research/focus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16,6 +36,83 @@
 As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.
 In particular, we work on three dimensions:
 Inference. We develop fast, low-resource methods to serve massive multimodal AI. Area: Model Compression, Advanced Decoding, Batch Scheduling Training. We resolve the compute and memory bottlenecks for training large-scale models.</description>
+    </item>
+    
+    <item>
+      <title>M.S./Ph.D. 🎓</title>
+      <link>https://effl-lab.github.io/docs/how-to-join/graduate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/how-to-join/graduate/</guid>
+      <description>We have 2&amp;ndash;3 openings, through POSTECH EE and Graduate School of AI.
+(as of October 2023)
+Please email Jaeho with your
+Transcript (with rank) CV/Résumé A short statement of your research interests We will have a short coffee chat to discuss the next steps.
+Advising Statement # As an advisor, I am commited to these principles:
+keeping the group handleable-sized, having individual weekly meetings (30&amp;ndash;60mins at least), and keeping non-academic burdens minimal.</description>
+    </item>
+    
+    <item>
+      <title>Interns</title>
+      <link>https://effl-lab.github.io/docs/people/intern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/people/intern/</guid>
+      <description>Interns # Sangyoon Lee (Summer &amp;lsquo;23&amp;ndash;)
+Fast Neural Field Generation
+Jiyun Bae (Summer &amp;lsquo;23&amp;ndash;)
+Visual Prompt Tuning
+Sangbeom Ha (Summer &amp;lsquo;23&amp;ndash;)
+Large-Scale Transformer Quantization
+Minyoung Kang (Fall &amp;lsquo;23&amp;ndash;)
+Neural Cellular Automata
+Yousung Roh (Fall &amp;lsquo;23&amp;ndash;)
+Byte-Processing Neural Networks</description>
+    </item>
+    
+    <item>
+      <title>Interns 🐥</title>
+      <link>https://effl-lab.github.io/docs/how-to-join/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/how-to-join/future/</guid>
+      <description>We always welcome interns to our group.
+What will you do? # See here for a brief description of what interns will be doing.
+How to Apply? # Send an email to Jaeho, with a brief description of your:
+Educational background, e.g., the courses you took. Research interests and experiences (if any). </description>
+    </item>
+    
+    <item>
+      <title>Alumni</title>
+      <link>https://effl-lab.github.io/docs/people/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/people/past/</guid>
+      <description>Past Interns # Jegwang Ryu (Summer &amp;lsquo;23)
+Test-time Training with Masked Modeling
+Dohyun Kim (Summer &amp;lsquo;23)
+Zero-th Order Optimization
+Juyun Wee (Spring &amp;lsquo;23 → EffL)
+Time-Series Modeling with Transformers
+Soochang Song (Winter &amp;lsquo;22 &amp;ndash; Spring &amp;lsquo;23)
+Model Interpolation with SIRENs
+Jeonghun Cho (Winter &amp;lsquo;22)
+Pruning Models under Challenging Scenarios
+Seyeon Park (Winter &amp;lsquo;21 → Yonsei)
+Efficient Attentions for Language Models
+Hagyeong Lee (Winter &amp;lsquo;21 → EffL)
+Data Compression with Implicit Neural Representations</description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>https://effl-lab.github.io/docs/how-to-join/intern_program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/how-to-join/intern_program/</guid>
+      <description>Internship Program # We treat interns differently with respect to your skill levels.
+(1) Level System # We&amp;rsquo;ll put you into one of three groups: L1, L2, L3, depending on your level of expertise.
+L1. You know very little about ML/DL. Goal: Complete an online DL coursework (e.g., this, this or this). L2. You are familiar with DL, but not research. Goal: Select a research topic and learn how to read papers.</description>
     </item>
     
     <item>

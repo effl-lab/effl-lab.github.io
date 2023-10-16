@@ -7,21 +7,23 @@ weight: 3
 
 ### **Past Interns**
 
-#### **2023 Summer**
-Jegwang Ryu  
-Jiyun Bae  
-Sangyoon Lee  
-Dohyun Kim  
-Sangbeom Ha  
+**Jegwang Ryu** (Summer '23)  
+Test-time Training with Masked Modeling  
 
-#### **2023 Spring**  
-Soochang Song  
-Juyun Wee (→ EffL)
+**Dohyun Kim** (Summer '23)  
+Zero-th Order Optimization  
 
-#### **2022 Winter**  
-Jeonghun Cho  
-Soochang Song 
+**Juyun Wee** (Spring '23 → EffL)  
+Time-Series Modeling with Transformers  
 
-#### **2021 Winter**
-Seyeon Park (→ Yonsei)  
-Hagyeong Lee (→ EffL)  
+**Soochang Song** (Winter '22 -- Spring '23)  
+Model Interpolation with SIRENs  
+
+**Jeonghun Cho** (Winter '22)  
+Pruning Models under Challenging Scenarios  
+
+**Seyeon Park** (Winter '21 → Yonsei)  
+Efficient Attentions for Language Models
+
+**Hagyeong Lee** (Winter '21 → EffL)  
+Data Compression with Implicit Neural Representations

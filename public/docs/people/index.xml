@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People on EffL @ POSTECH</title>
+    <title>EffL @ POSTECH</title>
     <link>https://effl-lab.github.io/docs/people/</link>
-    <description>Recent content in People on EffL @ POSTECH</description>
+    <description>Recent content on EffL @ POSTECH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://effl-lab.github.io/docs/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Current</title>
+      <link>https://effl-lab.github.io/docs/people/current/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/people/current/</guid>
+      <description>Jaeho Lee # Assistant Professor @ POSTECH EE (22.03&amp;ndash;)
+Principal Investigator @ EffL (22.03&amp;ndash;)
+Visiting Researcher @ Google (23.09&amp;ndash;)
+webpage, mail, twitter
+Jiwoon Lee # Efficient ML in the Wild 🐊
+Graduate Student @ POSTECH EE (22.03&amp;ndash;)
+Office Team Lead @ EffL
+Keywords: Model Merging, Federated Learning, Knowledge Distillation
+mail
+Junwon Seo # Blazing-Fast Neural Field Generation 🔥
+Graduate Student @ POSTECH EE (22.03&amp;ndash;)
+Infrastructure Team Lead @ EffL</description>
+    </item>
+    
+    <item>
+      <title>Interns</title>
+      <link>https://effl-lab.github.io/docs/people/intern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/people/intern/</guid>
+      <description>Interns # Sangyoon Lee (Summer &amp;lsquo;23&amp;ndash;)
+Fast Neural Field Generation
+Jiyun Bae (Summer &amp;lsquo;23&amp;ndash;)
+Visual Prompt Tuning
+Sangbeom Ha (Summer &amp;lsquo;23&amp;ndash;)
+Large-Scale Transformer Quantization
+Minyoung Kang (Fall &amp;lsquo;23&amp;ndash;)
+Neural Cellular Automata
+Yousung Roh (Fall &amp;lsquo;23&amp;ndash;)
+Byte-Processing Neural Networks</description>
+    </item>
+    
+    <item>
+      <title>Alumni</title>
+      <link>https://effl-lab.github.io/docs/people/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/people/past/</guid>
+      <description>Past Interns # Jegwang Ryu (Summer &amp;lsquo;23)
+Test-time Training with Masked Modeling
+Dohyun Kim (Summer &amp;lsquo;23)
+Zero-th Order Optimization
+Juyun Wee (Spring &amp;lsquo;23 → EffL)
+Time-Series Modeling with Transformers
+Soochang Song (Winter &amp;lsquo;22 &amp;ndash; Spring &amp;lsquo;23)
+Model Interpolation with SIRENs
+Jeonghun Cho (Winter &amp;lsquo;22)
+Pruning Models under Challenging Scenarios
+Seyeon Park (Winter &amp;lsquo;21 → Yonsei)
+Efficient Attentions for Language Models
+Hagyeong Lee (Winter &amp;lsquo;21 → EffL)
+Data Compression with Implicit Neural Representations</description>
+    </item>
+    
   </channel>
 </rss>
