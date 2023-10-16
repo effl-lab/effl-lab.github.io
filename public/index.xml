@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EffL Lab on EffL @ POSTECH</title>
-    <link>https://effl-lab.github.io/</link>
+    <link>https://effl.postech.ac.kr/</link>
     <description>Recent content in EffL Lab on EffL @ POSTECH</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://effl-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://effl.postech.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Focus</title>
-      <link>https://effl-lab.github.io/docs/research/focus/</link>
+      <link>https://effl.postech.ac.kr/docs/research/focus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/research/focus/</guid>
+      <guid>https://effl.postech.ac.kr/docs/research/focus/</guid>
       <description>The long-term goal of EffL is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.
 As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.
 In particular, we work on three dimensions:
@@ -20,10 +20,10 @@ Inference. We develop fast, low-resource methods to serve massive multimodal AI.
     
     <item>
       <title>M.S./Ph.D. 🎓</title>
-      <link>https://effl-lab.github.io/docs/how-to-join/graduate/</link>
+      <link>https://effl.postech.ac.kr/docs/how-to-join/graduate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/how-to-join/graduate/</guid>
+      <guid>https://effl.postech.ac.kr/docs/how-to-join/graduate/</guid>
       <description>We have 2&amp;ndash;3 openings, through POSTECH EE and Graduate School of AI.
 (as of October 2023)
 Please email Jaeho with your
@@ -34,10 +34,10 @@ keeping the group handleable-sized, having individual weekly meetings (30&amp;nd
     
     <item>
       <title>Members</title>
-      <link>https://effl-lab.github.io/docs/people/members/</link>
+      <link>https://effl.postech.ac.kr/docs/people/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/members/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/members/</guid>
       <description>Jaeho Lee # Assistant Professor @ POSTECH EE (22.03&amp;ndash;)
 Principal Investigator @ EffL (22.03&amp;ndash;)
 Visiting Researcher @ Google (23.09&amp;ndash;)
@@ -54,10 +54,10 @@ Infrastructure Team Lead @ EffL</description>
     
     <item>
       <title>Interns</title>
-      <link>https://effl-lab.github.io/docs/people/intern/</link>
+      <link>https://effl.postech.ac.kr/docs/people/intern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/intern/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/intern/</guid>
       <description>Interns # Sangyoon Lee (Summer &amp;lsquo;23&amp;ndash;)
 Fast Neural Field Generation
 Jiyun Bae (Summer &amp;lsquo;23&amp;ndash;)
@@ -72,10 +72,10 @@ Byte-Processing Neural Networks</description>
     
     <item>
       <title>Interns 🐥</title>
-      <link>https://effl-lab.github.io/docs/how-to-join/interns/</link>
+      <link>https://effl.postech.ac.kr/docs/how-to-join/interns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/how-to-join/interns/</guid>
+      <guid>https://effl.postech.ac.kr/docs/how-to-join/interns/</guid>
       <description>We always welcome interns to our group.
 What will you do? # See here for a brief description of what interns will be doing.
 How to Apply? # Send an email to Jaeho, with a brief description of your:
@@ -84,10 +84,10 @@ Educational background, e.g., the courses you took. Research interests and exper
     
     <item>
       <title>Alumni</title>
-      <link>https://effl-lab.github.io/docs/people/past/</link>
+      <link>https://effl.postech.ac.kr/docs/people/past/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/past/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/past/</guid>
       <description>Past Interns # Jegwang Ryu (Summer &amp;lsquo;23)
 Test-time Training with Masked Modeling
 Dohyun Kim (Summer &amp;lsquo;23)
@@ -106,10 +106,10 @@ Data Compression with Implicit Neural Representations</description>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/how-to-join/intern_program/</link>
+      <link>https://effl.postech.ac.kr/docs/how-to-join/intern_program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/how-to-join/intern_program/</guid>
+      <guid>https://effl.postech.ac.kr/docs/how-to-join/intern_program/</guid>
       <description>Internship Program # We treat interns differently with respect to your skill levels.
 (1) Level System # We&amp;rsquo;ll put you into one of three groups: L1, L2, L3, depending on your level of expertise.
 L1. You know very little about ML/DL. Goal: Complete an online DL coursework (e.g., this, this or this). L2. You are familiar with DL, but not research. Goal: Select a research topic and learn how to read papers.</description>
@@ -117,73 +117,73 @@ L1. You know very little about ML/DL. Goal: Complete an online DL coursework (e.
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/hagyeong/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/hagyeong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/hagyeong/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/hagyeong/</guid>
       <description>Hagyeong Lee # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/jiwoon/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/jiwoon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/jiwoon/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/jiwoon/</guid>
       <description>Jiwoon Lee # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/junwon/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/junwon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/junwon/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/junwon/</guid>
       <description>Junwon Seo # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/juyun/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/juyun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/juyun/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/juyun/</guid>
       <description>Juyun Wee # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/minkyu/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/minkyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/minkyu/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/minkyu/</guid>
       <description>Minkyu Kim # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/seungwoo/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/seungwoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/seungwoo/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/seungwoo/</guid>
       <description>Seungwoo Son # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/yuji/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/yuji/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/yuji/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/yuji/</guid>
       <description>Yu Ji Byun # (say something)</description>
     </item>
     
     <item>
       <title>Papers</title>
-      <link>https://effl-lab.github.io/docs/research/papers/</link>
+      <link>https://effl.postech.ac.kr/docs/research/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/research/papers/</guid>
+      <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
       <description>2023 # Learning Large-scale Neural Fields via Context Pruned Meta-learning
 Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz
 NeurIPS 2023 (ICLR 2023 Workshop: Neural Fields across Fields)

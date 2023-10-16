@@ -1,4 +1,4 @@
-baseURL = 'https://effl-lab.github.io'
+baseURL = 'https://effl.postech.ac.kr'
 languageCode = 'en-us'
 title = 'EffL @ POSTECH'
 theme = 'hugo-book'

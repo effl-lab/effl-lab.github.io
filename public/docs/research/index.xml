@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EffL @ POSTECH</title>
-    <link>https://effl-lab.github.io/docs/research/</link>
+    <link>https://effl.postech.ac.kr/docs/research/</link>
     <description>Recent content on EffL @ POSTECH</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://effl-lab.github.io/docs/research/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://effl.postech.ac.kr/docs/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Focus</title>
-      <link>https://effl-lab.github.io/docs/research/focus/</link>
+      <link>https://effl.postech.ac.kr/docs/research/focus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/research/focus/</guid>
+      <guid>https://effl.postech.ac.kr/docs/research/focus/</guid>
       <description>The long-term goal of EffL is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.
 As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.
 In particular, we work on three dimensions:
@@ -20,10 +20,10 @@ Inference. We develop fast, low-resource methods to serve massive multimodal AI.
     
     <item>
       <title>Papers</title>
-      <link>https://effl-lab.github.io/docs/research/papers/</link>
+      <link>https://effl.postech.ac.kr/docs/research/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/research/papers/</guid>
+      <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
       <description>2023 # Learning Large-scale Neural Fields via Context Pruned Meta-learning
 Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz
 NeurIPS 2023 (ICLR 2023 Workshop: Neural Fields across Fields)

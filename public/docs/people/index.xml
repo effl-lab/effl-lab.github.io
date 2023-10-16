@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EffL @ POSTECH</title>
-    <link>https://effl-lab.github.io/docs/people/</link>
+    <link>https://effl.postech.ac.kr/docs/people/</link>
     <description>Recent content on EffL @ POSTECH</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://effl-lab.github.io/docs/people/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://effl.postech.ac.kr/docs/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Members</title>
-      <link>https://effl-lab.github.io/docs/people/members/</link>
+      <link>https://effl.postech.ac.kr/docs/people/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/members/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/members/</guid>
       <description>Jaeho Lee # Assistant Professor @ POSTECH EE (22.03&amp;ndash;)
 Principal Investigator @ EffL (22.03&amp;ndash;)
 Visiting Researcher @ Google (23.09&amp;ndash;)
@@ -28,10 +28,10 @@ Infrastructure Team Lead @ EffL</description>
     
     <item>
       <title>Interns</title>
-      <link>https://effl-lab.github.io/docs/people/intern/</link>
+      <link>https://effl.postech.ac.kr/docs/people/intern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/intern/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/intern/</guid>
       <description>Interns # Sangyoon Lee (Summer &amp;lsquo;23&amp;ndash;)
 Fast Neural Field Generation
 Jiyun Bae (Summer &amp;lsquo;23&amp;ndash;)
@@ -46,10 +46,10 @@ Byte-Processing Neural Networks</description>
     
     <item>
       <title>Alumni</title>
-      <link>https://effl-lab.github.io/docs/people/past/</link>
+      <link>https://effl.postech.ac.kr/docs/people/past/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/past/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/past/</guid>
       <description>Past Interns # Jegwang Ryu (Summer &amp;lsquo;23)
 Test-time Training with Masked Modeling
 Dohyun Kim (Summer &amp;lsquo;23)
@@ -68,64 +68,64 @@ Data Compression with Implicit Neural Representations</description>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/hagyeong/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/hagyeong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/hagyeong/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/hagyeong/</guid>
       <description>Hagyeong Lee # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/jiwoon/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/jiwoon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/jiwoon/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/jiwoon/</guid>
       <description>Jiwoon Lee # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/junwon/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/junwon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/junwon/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/junwon/</guid>
       <description>Junwon Seo # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/juyun/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/juyun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/juyun/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/juyun/</guid>
       <description>Juyun Wee # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/minkyu/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/minkyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/minkyu/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/minkyu/</guid>
       <description>Minkyu Kim # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/seungwoo/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/seungwoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/seungwoo/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/seungwoo/</guid>
       <description>Seungwoo Son # (say something)</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://effl-lab.github.io/docs/people/member/yuji/</link>
+      <link>https://effl.postech.ac.kr/docs/people/member/yuji/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://effl-lab.github.io/docs/people/member/yuji/</guid>
+      <guid>https://effl.postech.ac.kr/docs/people/member/yuji/</guid>
       <description>Yu Ji Byun # (say something)</description>
     </item>
     
