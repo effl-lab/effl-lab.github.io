@@ -1,9 +1,3 @@
 ---
-title: Research
-type: docs
-bookToc: false
+bookFlatSection: true
 ---
-
-Under construction.
-
-Meanwhile, see the [PI's webpage](https://jaeho-lee.github.io/docs/research/).  

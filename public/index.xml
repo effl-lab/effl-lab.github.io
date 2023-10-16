@@ -6,5 +6,26 @@
     <description>Recent content in EffL Lab on EffL @ POSTECH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://effl-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Focus</title>
+      <link>https://effl-lab.github.io/docs/research/focus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/research/focus/</guid>
+      <description>The long-term goal of EffL is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.
+As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.
+In particular, we work on three dimensions:
+Inference. We develop fast, low-resource methods to serve massive multimodal AI. Area: Model Compression, Advanced Decoding, Batch Scheduling Training. We resolve the compute and memory bottlenecks for training large-scale models.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://effl-lab.github.io/docs/research/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl-lab.github.io/docs/research/papers/</guid>
+      <description>Under construction.</description>
+    </item>
+    
   </channel>
 </rss>
