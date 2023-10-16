@@ -7,16 +7,16 @@ weight: 2
 
 ### **Interns**  
 **Sangyoon Lee** (Summer '23--)  
-_Fast Neural Field Generation_  
+Fast Neural Field Generation  
 
 **Jiyun Bae** (Summer '23--)  
-_Visual Prompt Tuning_  
+Visual Prompt Tuning  
 
 **Sangbeom Ha** (Summer '23--)  
-_Large-Scale Transformer Quantization_  
+Large-Scale Transformer Quantization  
 
 **Minyoung Kang** (Fall '23--)  
-_Neural Cellular Automata_  
+Neural Cellular Automata  
 
 **Yousung Roh** (Fall '23--)  
-_Byte-Processing Neural Networks_
+Byte-Processing Neural Networks
