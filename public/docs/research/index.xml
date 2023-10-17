@@ -24,13 +24,12 @@ Inference. We develop fast, low-resource methods to serve massive multimodal AI.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
-      <description>2023 # Learning Large-scale Neural Fields via Context Pruned Meta-learning
+      <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
+Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
+2023 # Learning Large-scale Neural Fields via Context Pruned Meta-learning
 Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz
 NeurIPS 2023 (ICLR 2023 Workshop: Neural Fields across Fields)
-Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling
-Junhyun Nam, Sangwoo Mo, Jaeho Lee, and Jinwoo Shin
-TMLR 2023 (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)
-Modality-Agnostic Variational Compression of Implicit Neural Representations</description>
+Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling</description>
     </item>
     
   </channel>

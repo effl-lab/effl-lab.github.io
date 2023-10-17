@@ -4,6 +4,10 @@ type: docs
 bookToc: true
 ---
 
+We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.  
+Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
+
+
 ### **2023**
 
 [**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  

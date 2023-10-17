@@ -28,8 +28,9 @@ Inference. We develop fast, low-resource methods to serve massive multimodal AI.
 (as of October 2023)
 Please email Jaeho with your
 Transcript (with rank) CV/Résumé A short statement of your research interests We will have a short coffee chat to discuss the next steps.
+Here are some notes by Jaeho.
 Advising Statement # As an advisor, I am commited to these principles:
-keeping the group handleable-sized, having individual weekly meetings (30&amp;ndash;60mins at least), and keeping non-academic burdens minimal.</description>
+keep the group handleable-sized, have individual weekly meetings (30&amp;ndash;60mins at least), be maximally supportive to the career decisions of the students, and keep non-academic burdens minimal.</description>
     </item>
     
     <item>
@@ -77,7 +78,7 @@ Byte-Processing Neural Networks</description>
       
       <guid>https://effl.postech.ac.kr/docs/how-to-join/interns/</guid>
       <description>We always welcome interns to our group.
-What will you do? # See here for a brief description of what interns will be doing.
+What will you do? # See this note for a brief description of what interns will be doing.
 How to Apply? # Send an email to Jaeho, with a brief description of your:
 Educational background, e.g., the courses you took. Research interests and experiences (if any). </description>
     </item>
@@ -184,13 +185,12 @@ L1. You know very little about ML/DL. Goal: Complete an online DL coursework (e.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
-      <description>2023 # Learning Large-scale Neural Fields via Context Pruned Meta-learning
+      <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
+Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
+2023 # Learning Large-scale Neural Fields via Context Pruned Meta-learning
 Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz
 NeurIPS 2023 (ICLR 2023 Workshop: Neural Fields across Fields)
-Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling
-Junhyun Nam, Sangwoo Mo, Jaeho Lee, and Jinwoo Shin
-TMLR 2023 (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)
-Modality-Agnostic Variational Compression of Implicit Neural Representations</description>
+Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling</description>
     </item>
     
   </channel>

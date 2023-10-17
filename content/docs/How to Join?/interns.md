@@ -8,7 +8,7 @@ weight: 2
 We always welcome interns to our group.
 
 ### **What will you do?**
-See [here](/docs/how-to-join/intern_program/) for a brief description of what interns will be doing.
+See [this note](/docs/how-to-join/intern_program/) for a brief description of what interns will be doing.
 
 
 ### **How to Apply?**  

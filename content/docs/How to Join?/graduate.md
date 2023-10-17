@@ -17,18 +17,26 @@ Please [email Jaeho](jaeho.lee@postech.ac.kr) with your
 We will have a short coffee chat to discuss the next steps.
 
 ---
+---
+
+Here are some notes by Jaeho.
+
 
 ### **Advising Statement**
 
 As an advisor, I am commited to these principles:
-- keeping the group handleable-sized,
-- having individual weekly meetings (30--60mins at least),
-- and keeping non-academic burdens minimal.
+- keep the group handleable-sized,
+- have individual weekly meetings (30--60mins at least),
+- be maximally supportive to the career decisions of the students,
+- and keep non-academic burdens minimal.
 
 I expect EffLers to
 - patiently lead their own research agenda,
+- maintain the highest level of academic honesty and intellectual humility,
 - gain top-notch expertise in their own area,
 - and willingly share their knowledge with fellow EffLers.
+
+
 
 ### **Resources & Financial Support**
 
