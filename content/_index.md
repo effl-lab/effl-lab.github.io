@@ -10,7 +10,8 @@ Efficient Learning Lab, or simply _EffL_, is a research group led by [Jaeho Lee]
 We develop theories, algorithms, and systems to make ML more efficient.
 
 To join us, apply us through [POSTECH EE](https://ee.postech.ac.kr) or [Graduate School of AI](https://ai.postech.ac.kr).  
-For details, see the [here](/docs/people/future/).
+For details, see [here](/docs/people/future/).
+
 
 
 ### **News**
