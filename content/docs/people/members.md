@@ -47,7 +47,7 @@ Academic Team Lead @ EffL
 `Harnessing Language Models for Multimodal Tasks 🎙️`  
 Graduate Student @ POSTECH AI (23.03--)  
 **Keywords:** Prefix Tuning, Multimodal Learning, Data Compression  
-[mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://minguinho-zeze.tistory.com), [recent project](https://prefixaac.github.io)  
+[webpage](/docs/people/member/minkyu/), [mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://minguinho-zeze.tistory.com), [recent project](https://prefixaac.github.io)  
 
 ### **Yu Ji Byun**
 `Completing High-Resolution Videos with Low Resources 📹`  
