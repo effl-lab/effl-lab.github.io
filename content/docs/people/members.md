@@ -34,7 +34,7 @@ Infrastructure Team Lead @ EffL
 Graduate Student @ POSTECH EE (22.03--)  
 Student Intern @ Google  
 **Keywords:** Large Language Models, Masked Modeling, Knowledge Distillation  
-[webpage](/docs/people/member/seungwoo/), [mail](mailto:swson@postech.ac.kr)
+[webpage](https://seungwoo-s.github.io/), [mail](mailto:swson@postech.ac.kr)
 
 ### **Hagyeong Lee**
 `Data Compression, but for more than what we see 🔮`  
