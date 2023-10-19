@@ -1,3 +1,9 @@
+---
+title: " "
+type: docs
+bookToc: false
+---
+
 ### **Jiwoon Lee**
 
 <br>
@@ -24,8 +30,8 @@ Pohang University of Science and Technology (POSTECH) <br>
 
 ### 📚 Publication
 ---
-**Jiwoon Lee**, Jaeho Lee, "Debiased Distillation by Transplanting the Last Layer", ArXiv preprint, 2023. [arxiv](https://arxiv.org/abs/2302.11187)
-
+- **Jiwoon Lee**, Jaeho Lee, "Debiased Distillation by Transplanting the Last Layer", ArXiv preprint, 2023. [arxiv](https://arxiv.org/abs/2302.11187) <br>
+ &emsp; - Preliminary version presented in Workshop on Image Processing and Image Understanding 2023.
 <br>
 
 ### 📞 Contact
