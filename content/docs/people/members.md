@@ -60,7 +60,7 @@ Captain @ ROKMC
 `Adaptive Processing of Extremely Long Data Sequences ⏳`  
 Graduate Student @ POSTECH EE (23.09--)  
 **Keywords:** Time-Series Forecasting, Test-Time Training, Self-supervised Learning  
-[mail](mailto:jywee@postech.ac.kr)  
+[webpage](/docs/people/member/juyun/), [mail](mailto:jywee@postech.ac.kr)  
 
 
 ---
