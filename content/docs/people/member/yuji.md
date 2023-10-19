@@ -14,9 +14,9 @@ Image Inpainting, Computer Vision
 ### 🏫 Education
 ---
 
-- (2011.02 ~ 2015.02) B.S. in Naval Academy <br>
+- (2011.02 ~ 2015.02) B.S. in Computer Science at Naval Academy <br>
   
-- (2023.02 ~ Present) M.S. candidate in POSTECH <br>
+- (2023.02 ~ Present) M.S. candidate in Defense Science at POSTECH <br>
 
 <br>
 
