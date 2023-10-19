@@ -27,7 +27,7 @@ Office Team Lead @ EffL
 Graduate Student @ POSTECH EE (22.03--)  
 Infrastructure Team Lead @ EffL  
 **Keywords:** Neural Field, Training Efficiency, Implicit Bias of SGD  
-[mail](mailto:junwon.seo@postech.ac.kr)
+[webpage](/docs/people/member/junwon/), [mail](mailto:junwon.seo@postech.ac.kr)
 
 ### **Seungwoo Son**
 `Compress Gigantic Transformers, but Efficiently 🤑`  
