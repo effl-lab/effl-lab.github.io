@@ -26,9 +26,9 @@ Pohang University of Science and Technology (POSTECH) <br>
 
 ### 🏢 Experience
 ---
-(2017.06 ~ 2017.07) *Research Intern*, Preceding Patterning Team, SK Hynix <br>
+- (2017.06 ~ 2017.07) *Research Intern*, Preceding Patterning Team, SK Hynix <br>
 
-(2018.06 ~ 2018.08) *Research Intern*, Embedded System Architecture Lab, POSTECH <br>
+- (2018.06 ~ 2018.08) *Research Intern*, Embedded System Architecture Lab, POSTECH <br>
 
 <br>
 
