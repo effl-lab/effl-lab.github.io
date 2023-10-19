@@ -22,7 +22,7 @@ Neural Field, Training Efficiency, Implicit Bias of SGD
 ### 🏢 Experience
 ---
 
-- (2018.06 ~ 2018.08) *Research Intern*, Data Intelligence Lab, Chung-Ang University  
+- (2020.06 ~ 2021.09) *Research Intern*, Data Intelligence Lab, Chung-Ang University  
   
 
 ### 📞 Contact
