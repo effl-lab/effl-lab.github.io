@@ -54,7 +54,7 @@ Graduate Student @ POSTECH AI (23.03--)
 Graduate Student @ POSTECH Defense Science (23.03--)  
 Captain @ ROKMC
 **Keywords:** High-res Videos, Image Inpainting, Computer Vision  
-[mail](mailto:yujibyun@postech.ac.kr)  [webpage](/docs/people/member/yuji/)
+[mail](mailto:yujibyun@postech.ac.kr),  [webpage](/docs/people/member/yuji/)
 
 ### **Juyun Wee**
 `Adaptive Processing of Extremely Long Data Sequences ⏳`  
