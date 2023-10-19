@@ -52,9 +52,9 @@ Graduate Student @ POSTECH AI (23.03--)
 ### **Yu Ji Byun**
 `Completing High-Resolution Videos with Low Resources 📹`  
 Graduate Student @ POSTECH Defense Science (23.03--)  
-Captain @ ROK Marine Corps  
+Captain @ ROKMC
 **Keywords:** High-res Videos, Image Inpainting, Computer Vision  
-[mail](mailto:yujibyun@postech.ac.kr)  
+[mail](mailto:yujibyun@postech.ac.kr)  [webpage](/docs/people/member/yuji/)
 
 ### **Juyun Wee**
 `Adaptive Processing of Extremely Long Data Sequences ⏳`  
