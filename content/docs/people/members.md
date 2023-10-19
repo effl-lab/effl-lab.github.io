@@ -11,7 +11,7 @@ weight: 1
 Assistant Professor @ [POSTECH EE](https://ee.postech.ac.kr) (22.03--)  
 Principal Investigator @ [EffL](https://effl.postech.ac.kr) (22.03--)  
 Visiting Researcher @ [Google](https://research.google) (23.09--)  
-[webpage](https://jaeho-lee.github.io), [mail](mailto:jaeho.lee@postech.ac.kr), [twitter](https://twitter.com/jaeho_lee_)  
+[webpage](https://jaeho-lee.github.io), [mail](mailto:jaeho.lee@postech.ac.kr), [twitter](https://twitter.com/jaeho_lee_) [test](/docs/people/member/jaeho/)  
 
 ---
 
