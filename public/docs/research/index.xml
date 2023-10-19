@@ -15,7 +15,7 @@
       <description>The long-term goal of EffL is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.
 As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.
 In particular, we work on three dimensions:
-Inference. We develop fast, low-resource methods to serve massive multimodal AI. Area: Model Compression, Advanced Decoding, Batch Scheduling Training. We resolve the compute and memory bottlenecks for training large-scale models.</description>
+Inference. We develop fast, low-resource methods to serve massive multimodal AI, e.g., Model Compression Parallel Decoding Batch Scheduling Training. We resolve the compute / memory bottlenecks for training large-scale models, e.</description>
     </item>
     
     <item>
