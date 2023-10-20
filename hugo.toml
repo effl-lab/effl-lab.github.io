@@ -2,5 +2,7 @@ baseURL = 'https://effl.postech.ac.kr'
 languageCode = 'en-us'
 title = 'EffL @ POSTECH'
 theme = 'hugo-book'
+googleAnalytics = 'G-5LN63JL26W'
 
 [menu]
+
