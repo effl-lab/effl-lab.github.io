@@ -1,5 +1,5 @@
 ---
-title: Members
+title: " "
 type: docs
 bookToc: false
 weight: 1
@@ -21,6 +21,7 @@ Graduate Student @ POSTECH EE (22.03--)
 Office Team Lead @ EffL  
 **Keywords:** Model Merging, Federated Learning, Knowledge Distillation  
 [webpage](/docs/people/member/jiwoon/), [mail](mailto:jwlee9702@postech.ac.kr)  
+![](/achievements/o_lead.png "Office Tead Lead")
 
 ### **Junwon Seo**
 `Blazing-Fast Neural Field Generation 🔥`  
@@ -28,6 +29,7 @@ Graduate Student @ POSTECH EE (22.03--)
 Infrastructure Team Lead @ EffL  
 **Keywords:** Neural Field, Training Efficiency, Implicit Bias of SGD  
 [webpage](/docs/people/member/junwon/), [mail](mailto:junwon.seo@postech.ac.kr)  
+![](/achievements/i_lead.png "Infrastructure Tead Lead")
 
 ### **Seungwoo Son**
 `Compress Gigantic Transformers, but Efficiently 🤑`  
@@ -42,6 +44,7 @@ Graduate Student @ POSTECH EE (22.09--)
 Academic Team Lead @ EffL  
 **Keywords:** Data Compression, Model Bias, Visual-Language Model  
 [webpage](https://hagyeonglee.github.io), [mail](mailto:hagyeonglee@postech.ac.kr), [twitter](https://twitter.com/ha_gyeong_lee)  
+![](/achievements/a_lead.png "Academic Tead Lead")
 
 ### **Minkyu Kim**
 `Harnessing Language Models for Multimodal Tasks 🎙️`  
