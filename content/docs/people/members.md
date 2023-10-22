@@ -63,6 +63,11 @@ Graduate Student @ POSTECH EE (23.09--)
 [webpage](/docs/people/member/juyun/), [mail](mailto:jywee@postech.ac.kr)  
 
 
+### **Minjae Park**
+`To be decided... 🤔`  
+Graduate Student @ POSTECH EE (24.03--)  
+
+
 ---
 ### **Seung-Ah Song**
 Administrative Staff @ EffL (22.03--)  
