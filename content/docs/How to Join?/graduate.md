@@ -5,7 +5,7 @@ bookToc: false
 weight: 1
 ---
 
-We have 2--3 openings, through [POSTECH EE](https://ee.postech.ac.kr) and [Graduate School of AI](https://ai.postech.ac.kr).  
+We have 2--3 openings, through [Graduate School of AI](https://ai.postech.ac.kr).  
 (as of October 2023)
 
 Please [email Jaeho](jaeho.lee@postech.ac.kr) with your
