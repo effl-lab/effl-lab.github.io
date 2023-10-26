@@ -1,7 +1,8 @@
 ---
-title: " "
+title: "Junwon Seo"
 type: docs
 bookToc: false
+bookHidden: true
 ---
 
 ### **Junwon Seo**  

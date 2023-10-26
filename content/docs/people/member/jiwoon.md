@@ -1,7 +1,8 @@
 ---
-title: " "
+title: "Jiwoon Lee"
 type: docs
 bookToc: false
+bookHidden: true
 ---
 
 ### **Jiwoon Lee**

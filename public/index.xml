@@ -143,7 +143,7 @@ L1. You know very little about ML/DL. Goal: Complete an online DL coursework (e.
     </item>
     
     <item>
-      <title> </title>
+      <title>Hagyeong Lee</title>
       <link>https://effl.postech.ac.kr/docs/people/member/hagyeong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -152,7 +152,7 @@ L1. You know very little about ML/DL. Goal: Complete an online DL coursework (e.
     </item>
     
     <item>
-      <title> </title>
+      <title>Jiwoon Lee</title>
       <link>https://effl.postech.ac.kr/docs/people/member/jiwoon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -162,7 +162,7 @@ L1. You know very little about ML/DL. Goal: Complete an online DL coursework (e.
     </item>
     
     <item>
-      <title> </title>
+      <title>Junwon Seo</title>
       <link>https://effl.postech.ac.kr/docs/people/member/junwon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -175,7 +175,7 @@ Social accounts : linkedin</description>
     </item>
     
     <item>
-      <title> </title>
+      <title>Juyun Wee</title>
       <link>https://effl.postech.ac.kr/docs/people/member/juyun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -185,32 +185,13 @@ Social accounts : linkedin</description>
     </item>
     
     <item>
-      <title> </title>
+      <title>Minkyu Kim</title>
       <link>https://effl.postech.ac.kr/docs/people/member/minkyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/people/member/minkyu/</guid>
       <description>Minkyu Kim # Contact # mail : minkyu.kim@postech.ac.kr, minkyu4506@gmail.com github : https://github.com/MinkyuKim26 Social accounts : linkedin
 Publication # Minkyu Kim*, Kim Sung-Bin*, Tae-Hyun Oh, &amp;ldquo;PREFIX TUNING FOR AUTOMATED AUDIO CAPTIONING&amp;rdquo;, ICASSP, 2023 [project page, code] ➡️ Selected as Oral presentation &amp;amp; Media coverage: covered by Yonhap News, SBS, and many local media</description>
-    </item>
-    
-    <item>
-      <title> </title>
-      <link>https://effl.postech.ac.kr/docs/people/member/seungwoo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://effl.postech.ac.kr/docs/people/member/seungwoo/</guid>
-      <description>Seungwoo Son # WIP</description>
-    </item>
-    
-    <item>
-      <title> </title>
-      <link>https://effl.postech.ac.kr/docs/people/member/yuji/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://effl.postech.ac.kr/docs/people/member/yuji/</guid>
-      <description>Yuji Byun # 🔍 Research Interests # Image Inpainting, Computer Vision
-🏫 Education # (2011.02 ~ 2015.02) B.S. in Computer Science at Naval Academy (2023.02 ~ Present) M.S. candidate in Defense Science at POSTECH 🪖 Experience # (2015. 03 ~ Present) ROKMC communication officer 📞 Contact # mail : yujibyun@postech.ac.kr</description>
     </item>
     
     <item>
@@ -225,6 +206,25 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz
 NeurIPS 2023 (ICLR 2023 Workshop: Neural Fields across Fields)
 Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling</description>
+    </item>
+    
+    <item>
+      <title>Seungwoo Son</title>
+      <link>https://effl.postech.ac.kr/docs/people/member/seungwoo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl.postech.ac.kr/docs/people/member/seungwoo/</guid>
+      <description>Seungwoo Son # WIP</description>
+    </item>
+    
+    <item>
+      <title>Yuji Byun</title>
+      <link>https://effl.postech.ac.kr/docs/people/member/yuji/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl.postech.ac.kr/docs/people/member/yuji/</guid>
+      <description>Yuji Byun # 🔍 Research Interests # Image Inpainting, Computer Vision
+🏫 Education # (2011.02 ~ 2015.02) B.S. in Computer Science at Naval Academy (2023.02 ~ Present) M.S. candidate in Defense Science at POSTECH 🪖 Experience # (2015. 03 ~ Present) ROKMC communication officer 📞 Contact # mail : yujibyun@postech.ac.kr</description>
     </item>
     
   </channel>

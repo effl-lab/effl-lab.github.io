@@ -1,7 +1,8 @@
 ---
-title: " "
+title: "Minkyu Kim"
 type: docs
 bookToc: false
+bookHidden: true
 ---
 
 ### **Minkyu Kim**

@@ -1,7 +1,8 @@
 ---
-title: " "
+title: "Yuji Byun"
 type: docs
 bookToc: false
+bookHidden: true
 ---
 
 ### **Yuji Byun**

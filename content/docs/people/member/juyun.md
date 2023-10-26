@@ -1,7 +1,8 @@
 ---
-title: " "
+title: "Juyun Wee"
 type: docs
 bookToc: false
+bookHidden: true
 ---
 
 ### **Juyun Wee**
