@@ -23,7 +23,7 @@ Byte-Processing Neural Networks
 
 
 #### ** Registered for Winter **
-**Yousung Roh**  
+**Yousung Roh** (cont'd)  
 Byte-Processing Neural Networks
 
 **Taesun Yeom**  
