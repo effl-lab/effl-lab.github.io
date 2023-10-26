@@ -1,8 +1,9 @@
 ---
-title: " "
+title: "Internship Program"
 type: docs
 bookToc: false
 weight: 99
+bookHidden: true
 ---
 
 ### **Internship Program**
