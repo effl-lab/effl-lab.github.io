@@ -20,3 +20,14 @@ Neural Cellular Automata
 
 **Yousung Roh** (Fall '23--)  
 Byte-Processing Neural Networks
+
+
+#### ** Registered for Winter **
+**Yousung Roh**  
+Byte-Processing Neural Networks
+
+**Taesun Yeom**  
+Training and Inference Efficiency for Neural Fields
+
+**Minjae Park**  
+(TBD)
