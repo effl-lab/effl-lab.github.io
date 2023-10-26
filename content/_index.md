@@ -6,7 +6,7 @@ bookToc: false
 
 `Make AI accessible to everyone with Efficient ML!`
 
-Efficient Learning Lab, or simply _EffL_, is a research group led by [Jaeho Lee](https://jaeho-lee.github.io).  
+Efficient Learning Lab, or simply {{< color "#455FAF" "EffL" >}}, is a research group led by [Jaeho Lee](https://jaeho-lee.github.io).  
 We develop theories, algorithms, and systems to make ML more efficient.
 
 To join us, apply us through [POSTECH EE](https://ee.postech.ac.kr) or [Graduate School of AI](https://ai.postech.ac.kr).  
