@@ -11,7 +11,7 @@ weight: 3
 Test-time Training with Masked Modeling  
 
 **Dohyun Kim** (Summer '23)  
-Zero-th Order Optimization  
+Zeroth Order Optimization  
 
 **Juyun Wee** (Spring '23 → EffL)  
 Time-Series Modeling with Transformers  

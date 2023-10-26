@@ -22,7 +22,12 @@ Neural Cellular Automata
 Byte-Processing Neural Networks
 
 
-#### ** Registered for Winter **
+  
+&nbsp;  
+
+&nbsp;
+
+### **Waitlist (Winter '23)**
 **Yousung Roh** (cont'd)  
 Byte-Processing Neural Networks
 
