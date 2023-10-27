@@ -205,10 +205,11 @@ Social accounts : linkedin</description>
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
       <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
-2023 # Learning Large-scale Neural Fields via Context Pruned Meta-learning
-Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz
-NeurIPS 2023 (ICLR 2023 Workshop: Neural Fields across Fields)
-Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling</description>
+2023 # In Search of a Data Transformation that Accelerates Neural Field Training
+Junwon Seo, Sangyoon Lee, and Jaeho Lee
+NeurIPS 2023 Workshop: Attributing Model Behavior at Scale
+Learning Large-scale Neural Fields via Context Pruned Meta-learning
+Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R.</description>
     </item>
     
     <item>
