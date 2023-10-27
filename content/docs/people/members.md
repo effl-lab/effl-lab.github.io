@@ -67,6 +67,14 @@ Graduate Student @ POSTECH EE (23.09--)
 `To be decided... 🤔`  
 Graduate Student @ POSTECH EE (24.03--)  
 
+### **Sangyoon Lee**
+`Hyperefficient Neural Fields ⚡️`  
+Graduate Student @ POSTECH AI (24.03--)
+
+### **Jiyun Bae**
+`Data-adaptive Visual Prompts 🕶️`  
+Graduate Student @ POSTECH AI (24.03--)  
+
 
 ---
 ### **Seung-Ah Song**
