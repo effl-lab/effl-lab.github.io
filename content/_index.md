@@ -13,7 +13,6 @@ To join us, apply us through [POSTECH EE](https://ee.postech.ac.kr) or [Graduate
 For details, see [here](/docs/people/future/).
 
 
-
 ### **News**
 
 {{< tabs "news" >}}
