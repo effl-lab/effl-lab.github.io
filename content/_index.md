@@ -17,11 +17,11 @@ For details, see [here](/docs/people/future/).
 
 {{< tabs "news" >}}
 {{< tab "NeurIPS 2023" >}}
-A paper on large-scale meta-learning for neural fields will be presented.
+One conference paper and two workshop papers will be presented.
+- Conference: Large-scale meta-learning for neural fields (with [Google DeepMind](https://www.deepmind.com)).
+- Workshop: Model merging (led by Jiwoon) and Neural field training (led by Junwon and Sangyoon).
 
-This is a joint work with [Google DeepMind](https://www.deepmind.com).
-
-(2023.09.10)
+(2023.10.30)
 {{< /tab >}}
 
 {{< tab "@Google" >}}

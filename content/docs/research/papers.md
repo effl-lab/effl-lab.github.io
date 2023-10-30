@@ -9,7 +9,11 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 
 
 ### **2023**
-[**In Search of a Data Transformation that Accelerates Neural Field Training**](https://effl-lab.github.io/docs/research/papers)  
+[**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://unireps.org)  
+Jiwoon Lee and Jaeho Lee  
+_NeurIPS 2023 Workshop: Unifying Representations in Neural Models_
+
+[**In Search of a Data Transformation that Accelerates Neural Field Training**](https://attrib-workshop.cc)  
 Junwon Seo, Sangyoon Lee, and Jaeho Lee  
 _NeurIPS 2023 Workshop: Attributing Model Behavior at Scale_  
 
@@ -43,10 +47,6 @@ _ICASSP 2023 `Oral`_
 
 [**Communication-Efficient Split Learning via Adaptive Feature-wise Compression**](https://arxiv.org/abs/2307.10805)  
 Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
-_Under Review_
-
-[**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://effl-lab.github.io/docs/research/papers)  
-Jiwoon Lee and Jaeho Lee  
 _Under Review_
 
 [**Debiased Distillation by Transplanting the Last Layer**](https://arxiv.org/abs/2302.11187)  

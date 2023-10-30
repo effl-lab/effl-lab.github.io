@@ -26,11 +26,12 @@ Inference. We develop fast, low-resource methods to serve massive multimodal AI,
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
       <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
-2023 # In Search of a Data Transformation that Accelerates Neural Field Training
+2023 # Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation
+Jiwoon Lee and Jaeho Lee
+NeurIPS 2023 Workshop: Unifying Representations in Neural Models
+In Search of a Data Transformation that Accelerates Neural Field Training
 Junwon Seo, Sangyoon Lee, and Jaeho Lee
-NeurIPS 2023 Workshop: Attributing Model Behavior at Scale
-Learning Large-scale Neural Fields via Context Pruned Meta-learning
-Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R.</description>
+NeurIPS 2023 Workshop: Attributing Model Behavior at Scale</description>
     </item>
     
   </channel>
