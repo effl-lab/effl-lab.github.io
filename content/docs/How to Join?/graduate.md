@@ -5,8 +5,7 @@ bookToc: false
 weight: 1
 ---
 
-We have only 1 opening remaining, through [Graduate School of AI](https://ai.postech.ac.kr).  
-(as of October 28th, 2023)
+❗️ As of Oct 30th, we are not planning to recruit new members, unless the applicant has an exceptional fit to our research agenda.
 
 Please [email Jaeho](jaeho.lee@postech.ac.kr) with your
 
