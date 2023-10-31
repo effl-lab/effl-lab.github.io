@@ -64,7 +64,7 @@ Graduate Student @ POSTECH EE (23.09--)
 
 
 ### **Minjae Park**
-`To be decided... 🤔`  
+`To be determined... 🤔`  
 Graduate Student @ POSTECH EE (24.03--)  
 
 ### **Sangyoon Lee**
@@ -74,6 +74,10 @@ Graduate Student @ POSTECH AI (24.03--)
 ### **Jiyun Bae**
 `Data-adaptive Visual Prompts 🕶️`  
 Graduate Student @ POSTECH AI (24.03--)  
+
+### **Hyunjong Ok**
+`To be determined... 🤔`  
+Graduate Student @ POSTECH AI (24.03--)
 
 
 ---
