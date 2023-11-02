@@ -39,3 +39,12 @@ Training and Inference Efficiency for Neural Fields
 
 **Minhee Lee**  
 (TBD)
+
+**Sangbeom Ha**  
+(TBD)
+
+**Jeonghyun Choi**  
+(TBD)
+
+**Inkwan Hwang**  
+(TBD)
