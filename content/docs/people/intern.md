@@ -31,6 +31,9 @@ Byte-Processing Neural Networks
 **Yousung Roh** (cont'd)  
 Byte-Processing Neural Networks
 
+**Minyoung Kang** (cont'd)  
+Neural Cellular Automata 
+
 **Taesun Yeom**  
 Training and Inference Efficiency for Neural Fields
 
