@@ -8,7 +8,7 @@ weight: 1
 
 
 ### **Jaeho Lee**
-{{< figure src="/images/members/Jaeho.jpg" alt="." width="100" height="100" >}}  
+ 
 Assistant Professor @ [POSTECH EE](https://ee.postech.ac.kr) (22.03--)  
 Principal Investigator @ [EffL](https://effl.postech.ac.kr) (22.03--)  
 Visiting Researcher @ [Google](https://research.google) (23.09--)  
@@ -35,7 +35,7 @@ Infrastructure Team Lead @ EffL
 ---
 
 ### **Seungwoo Son**
-{{< figure src="/images/members/Seungwoo.jpg" alt="." width="100" height="100" >}}   
+  
 `Compress Gigantic Transformers, but Efficiently 🤑`  
 Graduate Student @ POSTECH EE (22.03--)  
 Student Intern @ Google  
@@ -71,7 +71,7 @@ Captain @ ROKMC
 ---
 
 ### **Juyun Wee**
-{{< figure src="/images/members/Juyun.jpg" alt="." width="100" height="100" >}}  
+
 `Adaptive Processing of Extremely Long Data Sequences ⏳`  
 Graduate Student @ POSTECH EE (23.09--)  
 **Keywords:** Time-Series Forecasting, Test-Time Training, Self-supervised Learning  
