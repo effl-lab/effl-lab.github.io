@@ -35,6 +35,7 @@ Infrastructure Team Lead @ EffL
 ---
 
 ### **Seungwoo Son**
+{{< figure src="/images/members/Seungwoo.jpg" alt="." width="100" height="100" >}}   
 `Compress Gigantic Transformers, but Efficiently 🤑`  
 Graduate Student @ POSTECH EE (22.03--)  
 Student Intern @ Google  
