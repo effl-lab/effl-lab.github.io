@@ -76,7 +76,7 @@ Captain @ ROKMC
 ---
 
 ### **Juyun Wee**
-{{< figure src="/images/members/Juyun5.jpg" alt="." width="100" height="100" >}}  
+{{< figure src="/images/members/Juyun.jpg" alt="." width="100" height="100" >}}  
 `Adaptive Processing of Extremely Long Data Sequences `  
 Graduate Student @ POSTECH EE (23.09--)  
 **Keywords:** Time-Series Forecasting, Test-Time Training, Self-supervised Learning  
