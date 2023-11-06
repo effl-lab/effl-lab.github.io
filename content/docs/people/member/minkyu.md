@@ -21,7 +21,7 @@ Chung-Ang University (CAU)
 
 Pohang University of Science and Technology (POSTECH) 
   
-- (2023.09 ~ Present) M.S. candidate in Graduate School of AI 
+- (2023.02 ~ Present) M.S. candidate in Graduate School of AI 
 
 <br>
 
