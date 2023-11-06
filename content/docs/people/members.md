@@ -8,7 +8,7 @@ weight: 1
 
 
 ### **Jaeho Lee**
- 
+{{< figure src="/images/members/Jaeho.jpg" alt="." width="100" height="100" >}}  
 Assistant Professor @ [POSTECH EE](https://ee.postech.ac.kr) (22.03--)  
 Principal Investigator @ [EffL](https://effl.postech.ac.kr) (22.03--)  
 Visiting Researcher @ [Google](https://research.google) (23.09--)  
@@ -17,6 +17,7 @@ Visiting Researcher @ [Google](https://research.google) (23.09--)
 ---
 
 ### **Jiwoon Lee**
+{{< figure src="/images/members/Jiwoon.jpg" alt="." width="100" height="100" >}}  
 `Efficient ML in the Wild 🐊`  
 Graduate Student @ POSTECH EE (22.03--)  
 Office Team Lead @ EffL  
@@ -26,6 +27,7 @@ Office Team Lead @ EffL
 ---
 
 ### **Junwon Seo**
+{{< figure src="/images/members/Junwon1.jpg" alt="." width="100" height="100" >}}  
 `Blazing-Fast Neural Field Generation 🔥`  
 Graduate Student @ POSTECH EE (22.03--)  
 Infrastructure Team Lead @ EffL  
@@ -35,7 +37,7 @@ Infrastructure Team Lead @ EffL
 ---
 
 ### **Seungwoo Son**
-  
+{{< figure src="/images/members/Seungwoo.jpg" alt="." width="100" height="100" >}}  
 `Compress Gigantic Transformers, but Efficiently 🤑`  
 Graduate Student @ POSTECH EE (22.03--)  
 Student Intern @ Google  
@@ -45,6 +47,7 @@ Student Intern @ Google
 ---
 
 ### **Hagyeong Lee**
+{{< figure src="/images/members/hagyeong0.jpg" alt="." width="100" height="100" >}}  
 `Data Compression, but for more than what we see 🔮`  
 Graduate Student @ POSTECH EE (22.09--)  
 Academic Team Lead @ EffL  
@@ -54,6 +57,7 @@ Academic Team Lead @ EffL
 ---
 
 ### **Minkyu Kim**
+{{< figure src="/images/members/Minkyu.jpg" alt="." width="100" height="100" >}}  
 `Harnessing Language Models for Multimodal Tasks 🎙️`  
 Graduate Student @ POSTECH AI (23.03--)  
 **Keywords:** Prefix Tuning, Multimodal Learning, Data Compression  
@@ -62,6 +66,7 @@ Graduate Student @ POSTECH AI (23.03--)
 ---
 
 ### **Yu Ji Byun**
+{{< figure src="/images/members/Yuji.jpg" alt="." width="100" height="100" >}}  
 `Completing High-Resolution Videos with Low Resources 📹`  
 Graduate Student @ POSTECH Defense Science (23.03--)  
 Captain @ ROKMC  
@@ -71,8 +76,8 @@ Captain @ ROKMC
 ---
 
 ### **Juyun Wee**
-
-`Adaptive Processing of Extremely Long Data Sequences ⏳`  
+{{< figure src="/images/members/Juyun5.jpg" alt="." width="100" height="100" >}}  
+`Adaptive Processing of Extremely Long Data Sequences `  
 Graduate Student @ POSTECH EE (23.09--)  
 **Keywords:** Time-Series Forecasting, Test-Time Training, Self-supervised Learning  
 [webpage](/docs/people/member/juyun/), [mail](mailto:jywee@postech.ac.kr)  
