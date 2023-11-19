@@ -51,3 +51,16 @@ Training and Inference Efficiency for Neural Fields
 
 **Inkwan Hwang**  
 (TBD)
+
+**Jegwang Ryu**  
+(TBD)
+
+**Seunghyun Kim**  
+(TBD)
+
+### **Waitlist (Spring '24)**  
+**Taesun Yeom**  
+Training and Inference Efficiency for Neural Fields
+
+**Seunghyun Kim**  
+(TBD)
