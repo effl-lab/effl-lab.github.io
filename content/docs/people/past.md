@@ -7,16 +7,16 @@ weight: 3
 
 ### **Past Interns**
 
-**Jegwang Ryu** (Summer '23)  
+**Jegwang Ryu** (Summer '23; now at Samsung)  
 Test-time Training with Masked Modeling  
 
-**Dohyun Kim** (Summer '23)  
+**Dohyun Kim** (Summer '23; now at 🫡)  
 Zeroth Order Optimization  
 
 **Juyun Wee** (Spring '23 → EffL)  
 Time-Series Modeling with Transformers  
 
-**Soochang Song** (Winter '22 -- Spring '23)  
+**Soochang Song** (Winter '22 -- Spring '23; now exchange student at 🇫🇷)  
 Model Interpolation with SIRENs  
 
 **Jeonghun Cho** (Winter '22)  

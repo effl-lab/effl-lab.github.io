@@ -19,7 +19,10 @@ Large-Scale Transformer Quantization
 Neural Cellular Automata  
 
 **Yousung Roh** (Fall '23--)  
-Byte-Processing Neural Networks
+Byte-Processing Neural Networks  
+
+**Inkwan Hwang** (Fall '23--)  
+Quantized Training
 
 
   
@@ -44,13 +47,13 @@ Training and Inference Efficiency for Neural Fields
 (TBD)
 
 **Sangbeom Ha**  
-(TBD)
+Large-Scale Transformer Quantization  
 
 **Jeonghyun Choi**  
 (TBD)
 
 **Inkwan Hwang**  
-(TBD)
+Quantized Training
 
 **Jegwang Ryu**  
 (TBD)
