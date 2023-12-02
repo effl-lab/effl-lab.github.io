@@ -5,8 +5,6 @@ bookToc: false
 weight: 1
 ---
 
-❗️ As of Oct 30th, we are not planning to recruit new members, unless the applicant has an exceptional fit to our research agenda.
-
 Please [email Jaeho](jaeho.lee@postech.ac.kr) with your
 
 1. Transcript (with rank)
