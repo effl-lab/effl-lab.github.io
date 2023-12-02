@@ -196,7 +196,7 @@ Social accounts : linkedin</description>
 🔍 Research Interests # Prefix Tuning, Image Compression, Multi-modal learning
 🏫 Education # Chung-Ang University (CAU)
 (2017.03 ~ 2023.02) B.S in Electrical &amp;amp; Electronics Engineering Pohang University of Science and Technology (POSTECH)
-(2023.09 ~ Present) M.S. candidate in Graduate School of AI 🏢 Experience # (2021.09 ~ 2021.12) Research Intern, Computer Vision Lab, Korea University (2022.07 ~ 2022.08) Undergraduate Research Fellowship, Algorithmic Machine Intelligence Lab, POSTECH 📜 Publication # Minkyu Kim*, Kim Sung-Bin*, Tae-Hyun Oh, &amp;ldquo;PREFIX TUNING FOR AUTOMATED AUDIO CAPTIONING&amp;rdquo;, ICASSP, 2023 [project page]</description>
+(2023.02 ~ Present) M.S. candidate in Graduate School of AI 🏢 Experience # (2021.09 ~ 2021.12) Research Intern, Computer Vision Lab, Korea University (2022.07 ~ 2022.08) Undergraduate Research Fellowship, Algorithmic Machine Intelligence Lab, POSTECH 📜 Publication # Minkyu Kim*, Kim Sung-Bin*, Tae-Hyun Oh, &amp;ldquo;PREFIX TUNING FOR AUTOMATED AUDIO CAPTIONING&amp;rdquo;, ICASSP, 2023 [project page]</description>
     </item>
     
     <item>
@@ -207,12 +207,12 @@ Social accounts : linkedin</description>
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
       <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
-2023 # Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation
-Jiwoon Lee and Jaeho Lee
-NeurIPS 2023 Workshop: Unifying Representations in Neural Models
-In Search of a Data Transformation that Accelerates Neural Field Training
+2023 # In Search of a Data Transformation that Accelerates Neural Field Training
 Junwon Seo, Sangyoon Lee, and Jaeho Lee
-NeurIPS 2023 Workshop: Attributing Model Behavior at Scale</description>
+NeurIPS 2023 Workshop: Attributing Model Behavior at Scale
+Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation
+Jiwoon Lee and Jaeho Lee
+NeurIPS 2023 Workshop: Unifying Representations in Neural Models</description>
     </item>
     
     <item>

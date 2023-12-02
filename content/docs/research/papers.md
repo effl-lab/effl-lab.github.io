@@ -9,13 +9,13 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 
 
 ### **2023**
+[**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
+Junwon Seo, Sangyoon Lee, and Jaeho Lee  
+_NeurIPS 2023 Workshop: Attributing Model Behavior at Scale_  
+
 [**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://unireps.org)  
 Jiwoon Lee and Jaeho Lee  
 _NeurIPS 2023 Workshop: Unifying Representations in Neural Models_
-
-[**In Search of a Data Transformation that Accelerates Neural Field Training**](https://attrib-workshop.cc)  
-Junwon Seo, Sangyoon Lee, and Jaeho Lee  
-_NeurIPS 2023 Workshop: Attributing Model Behavior at Scale_  
 
 [**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  
 Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz  
