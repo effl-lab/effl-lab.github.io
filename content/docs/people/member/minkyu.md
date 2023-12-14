@@ -9,9 +9,14 @@ bookHidden: true
 
 Hello! 👋 
 
+<br>
+
+
 ### 🔍 Research Interests
 ---
-Prefix Tuning, Image Compression, Multi-modal learning
+Prefix Tuning, Image Compression, Multi-modal learning 
+
+<br>
 
 ### 🏫 Education
 ---
@@ -39,8 +44,13 @@ Pohang University of Science and Technology (POSTECH)
 ➡️ **Selected as Oral presentation & Media coverage: covered by [Yonhap News](https://www.yna.co.kr/view/AKR20230413134500017?input=1195m), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007153798&plink=ORI&cooper=NAVER), and many local media** 
 
 
-### 📝 Research Activities
+<br>
+
+### 📝 Services
+---
 Peer review, [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), 2023
+
+<br>
 
 ### 📞 Contact
 ---
