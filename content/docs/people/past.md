@@ -7,6 +7,12 @@ weight: 3
 
 ### **Past Interns**
 
+**Jiyun Bae** (Summer '23--Fall '23; now at EffL)  
+Visual Prompt Tuning  
+
+**Sangyoon Lee** (Summaer--Fall '23; now at EffL)  
+Fast Neural Field Generation  
+
 **Jegwang Ryu** (Summer '23; now at Samsung)  
 Test-time Training with Masked Modeling  
 

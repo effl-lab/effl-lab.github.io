@@ -52,24 +52,23 @@ Infrastructure Team Lead @ EffL</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/people/intern/</guid>
-      <description>Interns # Sangyoon Lee (Summer &amp;lsquo;23&amp;ndash;)
-Fast Neural Field Generation
-Jiyun Bae (Summer &amp;lsquo;23&amp;ndash;)
-Visual Prompt Tuning
-Sangbeom Ha (Summer &amp;lsquo;23&amp;ndash;)
-Large-Scale Transformer Quantization
+      <description>Interns # Sangbeom Ha (Summer &amp;lsquo;23&amp;ndash;)
+Large-Scale Quantization
 Minyoung Kang (Fall &amp;lsquo;23&amp;ndash;)
 Neural Cellular Automata
 Yousung Roh (Fall &amp;lsquo;23&amp;ndash;)
 Byte-Processing Neural Networks
 Inkwan Hwang (Fall &amp;lsquo;23&amp;ndash;)
-Quantized Training
-Waitlist (Winter &amp;lsquo;23) # Yousung Roh (cont&amp;rsquo;d)
-Byte-Processing Neural Networks
-Minyoung Kang (cont&amp;rsquo;d)
-Neural Cellular Automata
-Taesun Yeom
-Training and Inference Efficiency for Neural Fields</description>
+Large-Scale Quantization
+Taesun Yeom (Winter &amp;lsquo;23&amp;ndash;)
+Training and Inference Efficiency for Neural Fields
+Minjae Park (Winter &amp;lsquo;23&amp;ndash;)
+Faster State-Space Models
+Minhee Lee (Winter &amp;lsquo;23&amp;ndash;)
+Speculative Decoding
+Jeonghyun Choi (Winter &amp;lsquo;23&amp;ndash;)
+Properties of Data Augmentation
+Jegwang Ryu (Summer &amp;lsquo;23 &amp;ndash;&amp;gt; Samsung &amp;ndash;&amp;gt; Winter &amp;lsquo;23&amp;ndash;)</description>
     </item>
     
     <item>
@@ -78,18 +77,17 @@ Training and Inference Efficiency for Neural Fields</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/people/past/</guid>
-      <description>Past Interns # Jegwang Ryu (Summer &amp;lsquo;23; now at Samsung)
+      <description>Past Interns # Jiyun Bae (Summer &amp;lsquo;23&amp;ndash;Fall &amp;lsquo;23; now at EffL)
+Visual Prompt Tuning
+Sangyoon Lee (Summaer&amp;ndash;Fall &amp;lsquo;23; now at EffL)
+Fast Neural Field Generation
+Jegwang Ryu (Summer &amp;lsquo;23; now at Samsung)
 Test-time Training with Masked Modeling
 Dohyun Kim (Summer &amp;lsquo;23; now at 🫡)
 Zeroth Order Optimization
 Juyun Wee (Spring &amp;lsquo;23 → EffL)
 Time-Series Modeling with Transformers
-Soochang Song (Winter &amp;lsquo;22 &amp;ndash; Spring &amp;lsquo;23; now exchange student at 🇫🇷)
-Model Interpolation with SIRENs
-Jeonghun Cho (Winter &amp;lsquo;22)
-Pruning Models under Challenging Scenarios
-Seyeon Park (Winter &amp;lsquo;21 → Yonsei)
-Efficient Attentions for Language Models</description>
+Soochang Song (Winter &amp;lsquo;22 &amp;ndash; Spring &amp;lsquo;23; now exchange student at 🇫🇷)</description>
     </item>
     
     <item>

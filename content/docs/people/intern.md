@@ -6,14 +6,9 @@ weight: 2
 ---
 
 ### **Interns**  
-**Sangyoon Lee** (Summer '23--)  
-Fast Neural Field Generation  
-
-**Jiyun Bae** (Summer '23--)  
-Visual Prompt Tuning  
 
 **Sangbeom Ha** (Summer '23--)  
-Large-Scale Transformer Quantization  
+Large-Scale Quantization  
 
 **Minyoung Kang** (Fall '23--)  
 Neural Cellular Automata  
@@ -22,48 +17,35 @@ Neural Cellular Automata
 Byte-Processing Neural Networks  
 
 **Inkwan Hwang** (Fall '23--)  
-Quantized Training
+Large-Scale Quantization  
 
-
-  
-&nbsp;  
-
-&nbsp;
-
-### **Waitlist (Winter '23)**
-**Yousung Roh** (cont'd)  
-Byte-Processing Neural Networks
-
-**Minyoung Kang** (cont'd)  
-Neural Cellular Automata 
-
-**Taesun Yeom**  
+**Taesun Yeom** (Winter '23--)  
 Training and Inference Efficiency for Neural Fields
 
-**Minjae Park**  
-(TBD)
+**Minjae Park** (Winter '23--)  
+Faster State-Space Models
 
-**Minhee Lee**  
-(TBD)
+**Minhee Lee** (Winter '23--)  
+Speculative Decoding
 
-**Sangbeom Ha**  
-Large-Scale Transformer Quantization  
+**Jeonghyun Choi** (Winter '23--)  
+Properties of Data Augmentation
 
-**Jeonghyun Choi**  
-(TBD)
-
-**Inkwan Hwang**  
-Quantized Training
-
-**Jegwang Ryu**  
-(TBD)
+**Jegwang Ryu** (Summer '23 --> Samsung --> Winter '23--)  
+Accelerated Training by Masking
 
 **Seunghyun Kim**  
 (TBD)
+
+  
 
 ### **Waitlist (Spring '24)**  
 **Taesun Yeom**  
-Training and Inference Efficiency for Neural Fields
 
 **Seunghyun Kim**  
-(TBD)
+
+**Soochang Song**  
+
+**Inkwan Hwang**  
+
+**Jaesang Yu**  
