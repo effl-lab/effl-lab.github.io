@@ -32,7 +32,6 @@ Student Intern @ Google
 {{< figure src="/images/members/hagyeong0.jpg" alt="." width="100" height="100" >}}  
 `Data Compression, but for more than what we see 🔮`  
 Graduate Student @ POSTECH EE (22.09--)  
-Academic Team Lead @ EffL  
 **Keywords:** Data Compression, Model Bias, Visual-Language Model  
 [webpage](https://hagyeonglee.github.io), [mail](mailto:hagyeonglee@postech.ac.kr), [twitter](https://twitter.com/ha_gyeong_lee)  
 
@@ -42,6 +41,7 @@ Academic Team Lead @ EffL
 {{< figure src="/images/members/Minkyu.jpg" alt="." width="100" height="100" >}}  
 `Harnessing Language Models for Multimodal Tasks 🎙️`  
 Graduate Student @ POSTECH AI (23.03--)  
+Infrastructure Team Lead @ EffL  
 **Keywords:** Prefix Tuning, Multimodal Learning, Data Compression  
 [webpage](/docs/people/member/minkyu/), [mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://minguinho-zeze.tistory.com), [recent project](https://prefixaac.github.io), [twitter](https://twitter.com/minguinho_zeze)  
 
@@ -61,6 +61,7 @@ Captain @ ROKMC
 {{< figure src="/images/members/Juyun.jpg" alt="." width="100" height="100" >}}  
 `Adaptive Processing of Extremely Long Data Sequences `  
 Graduate Student @ POSTECH EE (23.09--)  
+Office Team Lead @ EffL  
 **Keywords:** Time-Series Forecasting, Test-Time Training, Self-supervised Learning  
 [webpage](/docs/people/member/juyun/), [mail](mailto:jywee@postech.ac.kr)  
 
@@ -83,6 +84,7 @@ Graduate Student @ POSTECH AI (24.02--)
 ### **Jiyun Bae**
 `Data-adaptive Visual Prompts 🕶️`  
 Graduate Student @ POSTECH AI (24.02--)  
+Academic Team Lead @ EffL  
 
 
 ---
