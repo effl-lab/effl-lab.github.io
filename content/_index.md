@@ -16,6 +16,13 @@ For details, see [here](/docs/people/future/).
 ### **News**
 
 {{< tabs "news" >}}
+{{< tab "CVPR 2024" >}}
+Two papers will be presented.
+- An intriguing way to accelerate neural field training (led by Junwon and Sangyoon).
+- A way to characterize visual biases in the form of text keywords (collaboration with UMich and KAIST).
+
+(2024.02.27)
+{{< /tab >}}
 {{< tab "NeurIPS 2023" >}}
 One conference paper and two workshop papers will be presented.
 - Conference: Large-scale meta-learning for neural fields (with [Google DeepMind](https://www.deepmind.com)).

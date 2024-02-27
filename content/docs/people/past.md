@@ -5,7 +5,37 @@ bookToc: false
 weight: 3
 ---
 
+### **Past Graduate Students**
+
+### **Jiwoon Lee**
+{{< figure src="/images/members/Jiwoon.jpg" alt="." width="100" height="100" >}}  
+`Efficient ML in the Wild 🐊`  
+M.S. @ POSTECH EE (22.03--24.02)  
+Ex-Office Team Lead @ EffL  
+**Keywords:** Model Merging, Federated Learning, Knowledge Distillation  
+[webpage](/docs/people/member/jiwoon/), [mail](mailto:jwlee9702@postech.ac.kr)  
+
+---
+
+### **Junwon Seo**
+{{< figure src="/images/members/Junwon1.jpg" alt="." width="100" height="100" >}}  
+`Blazing-Fast Neural Field Generation 🔥`  
+M.S. @ POSTECH EE (22.03--24.02)  
+Ex-Infrastructure Team Lead @ EffL  
+**Keywords:** Neural Field, Training Efficiency, Implicit Bias of SGD  
+[webpage](/docs/people/member/junwon/), [mail](mailto:junwon.seo@postech.ac.kr)  
+
+---
+
 ### **Past Interns**
+**Minjae Park** (Winter '23; now at EffL)  
+Faster State-Space Models
+
+**Minyoung Kang** (Fall '23--Winter '23)  
+Neural Cellular Automata  
+
+**Yousung Roh** (Fall '23--Winter '23)  
+Byte-Processing Neural Networks  
 
 **Jiyun Bae** (Summer '23--Fall '23; now at EffL)  
 Visual Prompt Tuning  
@@ -33,3 +63,4 @@ Efficient Attentions for Language Models
 
 **Hagyeong Lee** (Winter '21 → EffL)  
 Data Compression with Implicit Neural Representations
+

@@ -14,25 +14,7 @@ Principal Investigator @ [EffL](https://effl.postech.ac.kr) (22.03--)
 Visiting Researcher @ [Google](https://research.google) (23.09--)  
 [webpage](https://jaeho-lee.github.io), [mail](mailto:jaeho.lee@postech.ac.kr), [twitter](https://twitter.com/jaeho_lee_) 
 
----
 
-### **Jiwoon Lee**
-{{< figure src="/images/members/Jiwoon.jpg" alt="." width="100" height="100" >}}  
-`Efficient ML in the Wild 🐊`  
-Graduate Student @ POSTECH EE (22.03--)  
-Office Team Lead @ EffL  
-**Keywords:** Model Merging, Federated Learning, Knowledge Distillation  
-[webpage](/docs/people/member/jiwoon/), [mail](mailto:jwlee9702@postech.ac.kr)  
-
----
-
-### **Junwon Seo**
-{{< figure src="/images/members/Junwon1.jpg" alt="." width="100" height="100" >}}  
-`Blazing-Fast Neural Field Generation 🔥`  
-Graduate Student @ POSTECH EE (22.03--)  
-Infrastructure Team Lead @ EffL  
-**Keywords:** Neural Field, Training Efficiency, Implicit Bias of SGD  
-[webpage](/docs/people/member/junwon/), [mail](mailto:junwon.seo@postech.ac.kr)  
 
 ---
 
@@ -86,27 +68,28 @@ Graduate Student @ POSTECH EE (23.09--)
 ---
 
 ### **Minjae Park**
-`To be determined... 🤔`  
-Graduate Student @ POSTECH EE (24.03--)  
+`Compressing state-of-the-art foundational models 🗜️`  
+Graduate Student @ POSTECH EE (24.02--)  
+**Keywords:** State-Space Models, Video Processing, Model Compression  
 
 ---
 
 ### **Sangyoon Lee**
 `Hyperefficient Neural Fields ⚡️`  
-Graduate Student @ POSTECH AI (24.03--)
+Graduate Student @ POSTECH AI (24.02--)
 
 ---
 
 ### **Jiyun Bae**
 `Data-adaptive Visual Prompts 🕶️`  
-Graduate Student @ POSTECH AI (24.03--)  
+Graduate Student @ POSTECH AI (24.02--)  
 
 
 ---
 
 ### **Hyunjong Ok**
 `To be determined... 🤔`  
-Graduate Student @ POSTECH AI (24.03--)
+Graduate Student @ POSTECH AI (24.02--)
 
 
 ---

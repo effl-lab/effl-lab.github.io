@@ -61,14 +61,13 @@ keep the group handleable-sized, have individual weekly meetings (30&amp;ndash;6
 Principal Investigator @ EffL (22.03&amp;ndash;)
 Visiting Researcher @ Google (23.09&amp;ndash;)
 webpage, mail, twitter
-Jiwoon Lee # Efficient ML in the Wild 🐊
+Seungwoo Son # Compress Gigantic Transformers, but Efficiently 🤑
 Graduate Student @ POSTECH EE (22.03&amp;ndash;)
-Office Team Lead @ EffL
-Keywords: Model Merging, Federated Learning, Knowledge Distillation
+Student Intern @ Google
+Keywords: Large Language Models, Masked Modeling, Knowledge Distillation
 webpage, mail
-Junwon Seo # Blazing-Fast Neural Field Generation 🔥
-Graduate Student @ POSTECH EE (22.03&amp;ndash;)
-Infrastructure Team Lead @ EffL</description>
+Hagyeong Lee # Data Compression, but for more than what we see 🔮
+Graduate Student @ POSTECH EE (22.</description>
     </item>
     
     <item>
@@ -78,22 +77,21 @@ Infrastructure Team Lead @ EffL</description>
       
       <guid>https://effl.postech.ac.kr/docs/people/intern/</guid>
       <description>Interns # Sangbeom Ha (Summer &amp;lsquo;23&amp;ndash;)
-Large-Scale Quantization
-Minyoung Kang (Fall &amp;lsquo;23&amp;ndash;)
-Neural Cellular Automata
-Yousung Roh (Fall &amp;lsquo;23&amp;ndash;)
-Byte-Processing Neural Networks
+Large-Scale Model Quantization
 Inkwan Hwang (Fall &amp;lsquo;23&amp;ndash;)
-Large-Scale Quantization
+Large-Scale Model Pruning
 Taesun Yeom (Winter &amp;lsquo;23&amp;ndash;)
 Training and Inference Efficiency for Neural Fields
-Minjae Park (Winter &amp;lsquo;23&amp;ndash;)
-Faster State-Space Models
 Minhee Lee (Winter &amp;lsquo;23&amp;ndash;)
 Speculative Decoding
 Jeonghyun Choi (Winter &amp;lsquo;23&amp;ndash;)
 Properties of Data Augmentation
-Jegwang Ryu (Summer &amp;lsquo;23 &amp;ndash;&amp;gt; Samsung &amp;ndash;&amp;gt; Winter &amp;lsquo;23&amp;ndash;)</description>
+Jegwang Ryu (Summer &amp;lsquo;23 &amp;ndash;&amp;gt; Samsung &amp;ndash;&amp;gt; Winter &amp;lsquo;23&amp;ndash;)
+Accelerated Training by Masking
+Seunghyun Kim (Spring &amp;lsquo;24&amp;ndash;)
+Lifelong training of Foundation Models
+Wonjun Cho (Spring &amp;lsquo;24&amp;ndash;)
+(TBD)</description>
     </item>
     
     <item>
@@ -114,17 +112,17 @@ Educational background, e.g., the courses you took. Research interests and exper
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/people/past/</guid>
-      <description>Past Interns # Jiyun Bae (Summer &amp;lsquo;23&amp;ndash;Fall &amp;lsquo;23; now at EffL)
-Visual Prompt Tuning
-Sangyoon Lee (Summaer&amp;ndash;Fall &amp;lsquo;23; now at EffL)
-Fast Neural Field Generation
-Jegwang Ryu (Summer &amp;lsquo;23; now at Samsung)
-Test-time Training with Masked Modeling
-Dohyun Kim (Summer &amp;lsquo;23; now at 🫡)
-Zeroth Order Optimization
-Juyun Wee (Spring &amp;lsquo;23 → EffL)
-Time-Series Modeling with Transformers
-Soochang Song (Winter &amp;lsquo;22 &amp;ndash; Spring &amp;lsquo;23; now exchange student at 🇫🇷)</description>
+      <description>Past Graduate Students # Jiwoon Lee # Efficient ML in the Wild 🐊
+M.S. @ POSTECH EE (22.03&amp;ndash;24.02)
+Ex-Office Team Lead @ EffL
+Keywords: Model Merging, Federated Learning, Knowledge Distillation
+webpage, mail
+Junwon Seo # Blazing-Fast Neural Field Generation 🔥
+M.S. @ POSTECH EE (22.03&amp;ndash;24.02)
+Ex-Infrastructure Team Lead @ EffL
+Keywords: Neural Field, Training Efficiency, Implicit Bias of SGD
+webpage, mail
+Past Interns # Minjae Park (Winter &amp;lsquo;23; now at EffL)</description>
     </item>
     
     <item>
@@ -201,12 +199,11 @@ Social accounts : linkedin</description>
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
       <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
-2023 # In Search of a Data Transformation that Accelerates Neural Field Training
-Junwon Seo, Sangyoon Lee, and Jaeho Lee
-NeurIPS 2023 Workshop: Attributing Model Behavior at Scale
-Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation
-Jiwoon Lee and Jaeho Lee
-NeurIPS 2023 Workshop: Unifying Representations in Neural Models</description>
+2024 # In Search of a Data Transformation that Accelerates Neural Field Training
+Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee
+CVPR 2024 (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)
+Discovering and Mitigating Visual Biases through Keyword Explanation
+Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin</description>
     </item>
     
     <item>
