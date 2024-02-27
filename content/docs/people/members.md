@@ -69,7 +69,7 @@ Office Team Lead @ EffL
 ---
 
 ### **Minjae Park**
-`Compressing state-of-the-art foundational models 🗜️`  
+`Accelerating Large-Scale Models for Videos 🎥`  
 Graduate Student @ POSTECH EE (24.02--)  
 **Keywords:** State-Space Models, Video Processing, Model Compression  
 
@@ -77,7 +77,9 @@ Graduate Student @ POSTECH EE (24.02--)
 
 ### **Sangyoon Lee**
 `Hyperefficient Neural Fields ⚡️`  
-Graduate Student @ POSTECH AI (24.02--)
+Graduate Student @ POSTECH AI (24.02--)  
+**Keywords:** Fast Neural Fields, Editable Neural Fields, Neural Compression  
+
 
 ---
 
@@ -85,14 +87,15 @@ Graduate Student @ POSTECH AI (24.02--)
 `Data-adaptive Visual Prompts 🕶️`  
 Graduate Student @ POSTECH AI (24.02--)  
 Academic Team Lead @ EffL  
+**Keywords:** Visual Prompts, Black-box models, LLMs, Fairness  
 
 
 ---
 
 ### **Hyunjong Ok**
-`To be determined... 🤔`  
+`Advancing Audio Technologies for Multimodal Intelligence 🔈`  
 Graduate Student @ POSTECH AI (24.02--)
-
+**Keywords:** (Too many!)
 
 ---
 ### **Seung-Ah Song**

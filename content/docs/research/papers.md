@@ -16,6 +16,9 @@ _**CVPR 2024** (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)_
 Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
 _**CVPR 2024** (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)_  
 
+[**Hybrid Neural Represetntations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
+Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn  
+_**arXiv preprint** 2402.05965_  
 
 ### **2023**
 
@@ -49,6 +52,10 @@ _**ICASSP 2023** `Oral`_
 
 [**Communication-Efficient Split Learning via Adaptive Feature-wise Compression**](https://arxiv.org/abs/2307.10805)  
 Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
+_Under Review_
+
+[**Few-shot Unlearning**](https://arxiv.org/abs/2205.15567)  
+Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok  
 _Under Review_
 
 [**Debiased Distillation by Transplanting the Last Layer**](https://arxiv.org/abs/2302.11187)  
