@@ -23,7 +23,7 @@ Visiting Researcher @ [Google](https://research.google) (23.09--)
 `Compress Gigantic Transformers, but Efficiently 🤑`  
 Graduate Student @ POSTECH EE (22.03--)  
 Student Intern @ Google  
-**Keywords:** Large Language Models, Masked Modeling, Knowledge Distillation  
+**Keywords:** Large Language Models, Model Compression  
 [webpage](https://seungwoo-s.github.io/), [mail](mailto:swson@postech.ac.kr)
 
 ---
