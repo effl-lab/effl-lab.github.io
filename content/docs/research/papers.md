@@ -10,6 +10,10 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 Note: Some papers below does not involve the PI.
 
 ### **2024**
+[**Attention-aware Semantic Communications for Collaborative Inference**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170905722.27435902)  
+Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
+Under Review
+
 [**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
 Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee  
 **CVPR 2024** (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
