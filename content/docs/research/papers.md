@@ -10,6 +10,10 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 Note: Some papers below does not involve the PI.
 
 ### **2024**
+[**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
+Hagyeong Lee, Minkyu Kim, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee  
+arXiv preprint 2403.02944
+
 [**Attention-aware Semantic Communications for Collaborative Inference**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170905722.27435902)  
 Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
 Under Review

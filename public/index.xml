@@ -201,10 +201,11 @@ Social accounts : linkedin</description>
       <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
 Note: Some papers below does not involve the PI.
-2024 # In Search of a Data Transformation that Accelerates Neural Field Training
-Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee
-CVPR 2024 (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)
-Discovering and Mitigating Visual Biases through Keyword Explanation</description>
+2024 # Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity
+Hagyeong Lee, Minkyu Kim, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee
+arXiv preprint 2403.02944
+Attention-aware Semantic Communications for Collaborative Inference
+Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim</description>
     </item>
     
     <item>
