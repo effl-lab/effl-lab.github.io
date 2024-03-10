@@ -10,6 +10,10 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 Note: Some papers below does not involve the PI.
 
 ### **2024**
+[**Few-shot Unlearning**](https://arxiv.org/abs/2205.15567)  
+Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok  
+**IEEE S&P 2024**
+
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
 Hagyeong Lee, Minkyu Kim, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee  
 arXiv preprint 2403.02944
@@ -86,10 +90,6 @@ Junhyun Nam, Jaehyung Kim, Jaeho Lee, and Jinwoo Shin
 [**Zero-shot Blind Image Denoising via Implicit Neural Representations**](https://arxiv.org/abs/2204.02405)  
 Chaewon Kim, Jaeho Lee, and Jinwoo Shin  
 arXiv preprint 2204.02405
-
-[**Few-shot Unlearning**](https://arxiv.org/abs/2205.15567)  
-Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok  
-Under Review
 
 
 ### **2021**
