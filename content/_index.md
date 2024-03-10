@@ -16,12 +16,14 @@ For details, see [here](/docs/people/future/).
 ### **News**
 
 {{< tabs "news" >}}
-{{< tab "CVPR 2024" >}}
-Two papers will be presented.
+{{< tab "CVPR 2024, IEEE S&P" >}}
+Two papers will be presented at CVPR 2024.
 - An intriguing way to accelerate neural field training (led by Junwon and Sangyoon).
 - A way to characterize visual biases in the form of text keywords (collaboration with UMich and KAIST).
 
-(2024.02.27)
+Also, a paper on unlearning will be presented at IEEE S&P 2024.
+
+(2024.03.10)
 {{< /tab >}}
 {{< tab "NeurIPS 2023" >}}
 One conference paper and two workshop papers will be presented.
