@@ -10,6 +10,11 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 Note: Some papers below does not involve the PI.
 
 ### **2024**
+[**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**](https://openreview.net/forum?id=qTBsdrZAyJ)  
+Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee  
+**NAACL 2024**
+
+
 [**Few-shot Unlearning**](https://arxiv.org/abs/2205.15567)  
 Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok  
 **IEEE S&P 2024**

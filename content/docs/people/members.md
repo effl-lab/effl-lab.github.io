@@ -94,7 +94,7 @@ Academic Team Lead @ EffL
 
 ### **Hyunjong Ok**
 `Advancing Audio Technologies for Multimodal Intelligence 🔈`  
-Graduate Student @ POSTECH AI (24.02--)
+Graduate Student @ POSTECH AI (24.02--)  
 **Keywords:** (Too many!)
 
 ---
