@@ -31,6 +31,6 @@ Lifelong training of Foundation Models
 **Wonjun Cho** (Spring '24--)  
 (TBD)  
 
-**Subeom Heo** (Spring '24--)
+**Subeom Heo** (Spring '24--)  
 (TBD)
 
