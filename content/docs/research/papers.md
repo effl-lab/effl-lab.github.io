@@ -16,7 +16,7 @@ bookToc: true
 	.updown2 {
     	border: 10px solid white;
         width: 0.1px;
-        height: 110px;
+        height: 120px;
     }
 </style>
 
@@ -131,10 +131,10 @@ arXiv preprint 2402.05965
 
 #####
 ---
-###
 
 
-**2023**
+
+### **2023**
 
 [**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://unireps.org)  
 Jiwoon Lee and Jaeho Lee  

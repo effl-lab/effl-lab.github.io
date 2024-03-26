@@ -26,7 +26,7 @@ For details, see [here](/docs/how-to-join/graduate/).
 {{< tab "NAACL 2024" >}}
 
 <div style= "float: left">
-{{< figure src="/images/papers/naacl_ok_2024.png" alt="." width="250" height="100" >}} 
+{{< figure src="/images/news/naacl_ok_2024.png" alt="." width="250" height="100" >}} 
 </div>
 <div style="float: left", class="updown">
 </div>  
