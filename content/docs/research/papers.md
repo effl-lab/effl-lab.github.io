@@ -133,6 +133,8 @@ Minkyu Kim, Kim Sung-Bin, and Tae-Hyun Oh
 **ICASSP 2023** `Oral`   
 [[project page](https://prefixaac.github.io/)] [[code](https://github.com/MinkyuKim26/Prefix_AAC_ICASSP2023)]
 
+#####
+
 [**Communication-Efficient Split Learning via Adaptive Feature-wise Compression**](https://arxiv.org/abs/2307.10805)  
 Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
 Under Review

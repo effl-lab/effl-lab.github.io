@@ -127,7 +127,6 @@ Graduate Student @ POSTECH AI (24.02--)
 Academic Team Lead @ EffL  
 **Keywords:** Visual Prompts, Black-box models, LLMs, Fairness  
 [webpage](/docs/people/member/jiyunbae/), [mail](mailto:jiyun.bae@postech.ac.kr)
-
 ######
 ---
 
