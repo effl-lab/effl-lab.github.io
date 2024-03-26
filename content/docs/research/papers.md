@@ -15,17 +15,17 @@ Note: Some papers below does not involve the PI.
 ### **2024**
 
 
-<div style="float: left; margin-right: 20px; margin-bottom: 15px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 15px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/scanner.png" alt="." width="100" height="100" >}}  
 </div>
 
 [**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**](https://openreview.net/forum?id=qTBsdrZAyJ)  
 Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee  
 **NAACL 2024**
-
+#####
 ---
 
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/fewshot_unlearning.png" alt="." width="100" height="100" >}}  
 </div>
 
@@ -34,10 +34,10 @@ Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee
 [**Few-shot Unlearning**](https://arxiv.org/abs/2205.15567)  
 Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok  
 **IEEE S&P 2024**
-
+#####
 ---
 
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/TACO.png" alt="." width="100" height="100" >}}  
 </div>
 
@@ -45,10 +45,10 @@ Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul O
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
 Hagyeong Lee, Minkyu Kim, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee  
 arXiv preprint 2403.02944  
-
+#####
 ---
 
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/semantic_communication.png" alt="." width="100" height="100" >}}  
 </div>
 
@@ -57,10 +57,10 @@ arXiv preprint 2403.02944
 [**Attention-aware Semantic Communications for Collaborative Inference**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170905722.27435902)  
 Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
 Under Review
-
+#####
 ---
 
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/dt4neural-field.png" alt="." width="100" height="100" >}}  
 </div>
 
@@ -70,10 +70,10 @@ Under Review
 Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee  
 **CVPR 2024** (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
 [[code](https://github.com/effl-lab/DT4Neural-Field)] [[demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)]
-
+#####
 ---
 
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/visual_biases.png" alt="." width="100" height="100" >}}  
 </div>
 
@@ -82,10 +82,10 @@ Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee
 Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
 **CVPR 2024** (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)  
 [[code](https://github.com/alinlab/b2t)]  
-
+#####
 ---
 
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="100" height="100" >}}  
 </div>
 
@@ -123,7 +123,7 @@ Jinseok Chung, Seonghwan Park, Jaeho Lee, and Namhoon Lee
 Seungwoo Son, Namhoon Lee, and Jaeho Lee  
 **ICLR 2023 Workshop**: Sparsity in Neural Networks (IPIU 2023 `Oral` `🥉`)
 
-<div style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2023/prefix-tuning.png" alt="." width="100" height="100" >}}  
 </div>
 
