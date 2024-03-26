@@ -85,7 +85,7 @@ Office Team Lead @ EffL
 **Keywords:** LLM Compression, Model Pruning, Model Efficiency
 [webpage](/docs/people/member/juyun/), [mail](mailto:jywee@postech.ac.kr)  
 
-
+#####
 ---
 
 ### **Minjae Park**
