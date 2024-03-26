@@ -37,8 +37,8 @@ Pohang University of Science and Technology (POSTECH)
 
 ---
 
-- (2022.01 ~ 2022.03) Software Developer, Ericsson-LG
-- (2022.07 ~ 2022.09) NLP Researcher, S2W
+- (2022.01 ~ 2022.03) Software Developer Intern, Ericsson-LG
+- (2022.07 ~ 2022.09) NLP Researcher Intern, S2W
 - (2023.06. ~ 2024.02) Undergraduate Research Fellowship, Efficient Learning Lab, POSTECH
 
 <br>
