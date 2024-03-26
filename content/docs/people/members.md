@@ -5,23 +5,11 @@ bookToc: false
 weight: 1
 ---
 
-<style>
-	.updown {
-    	border: 10px solid white;
-        width: 0.1px;
-        height: 120px;
-    }
-</style>
-
-
-
 ### **Jaeho Lee**
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;" >
     {{< figure src="/images/members/Jaeho.jpg" alt="." width="100" height="100" >}}  
 </div>
 
-<div style="float: left", class="updown">
-</div>
 
 Assistant Professor @ [POSTECH EE](https://ee.postech.ac.kr) (22.03--)  
 Principal Investigator @ [EffL](https://effl.postech.ac.kr) (22.03--)  
@@ -32,11 +20,9 @@ Visiting Researcher @ [Google](https://research.google) (23.09--)
 ---
 
 ### **Seungwoo Son**
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
     {{< figure src="/images/members/Seungwoo.jpg" alt="." width="100" height="100" >}}  
 </div>  
-<div style="float: left", class="updown">
-</div>
 
 `Compress Gigantic Transformers, but Efficiently 🤑`  
 Graduate Student @ POSTECH EE (22.03--)  
@@ -48,11 +34,9 @@ Student Intern @ Google
 ---
 
 ### **Hagyeong Lee**
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/hagyeong0.jpg" alt="." width="100" height="100" >}}  
 </div>  
-<div style="float: left", class="updown">
-</div>
 
 `Data Compression, but for more than what we see 🔮`  
 Graduate Student @ POSTECH EE (22.09--)  
@@ -62,11 +46,9 @@ Graduate Student @ POSTECH EE (22.09--)
 ---
 
 ### **Minkyu Kim**
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/Minkyu.jpg" alt="." width="100" height="100" >}}
-</div>  
-<div style="float: left", class="updown">
-</div>  
+</div>   
 
 `Harnessing Language Models for Multimodal Tasks 🎙️`  
 Graduate Student @ POSTECH AI (23.03--)  
@@ -78,11 +60,10 @@ Infrastructure Team Lead @ EffL
 ---
 
 ### **Yu Ji Byun**
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/Yuji.jpg" alt="." width="100" height="100" >}} 
 </div>  
-<div style="float: left", class="updown">
-</div>  
+
 
 `Completing High-Resolution Videos with Low Resources 📹`  
 Graduate Student @ POSTECH Defense Science (23.03--)  
@@ -93,11 +74,10 @@ Captain @ ROKMC
 ---
 
 ### **Juyun Wee**
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/Juyun.jpg" alt="." width="100" height="100" >}}  
 </div>  
-<div style="float: left", class="updown">
-</div>  
+
 
 `Compressing Large Language Models 🍀`  
 Graduate Student @ POSTECH EE (23.09--)  
@@ -109,11 +89,10 @@ Office Team Lead @ EffL
 ---
 
 ### **Minjae Park**
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/minjae.png" alt="." width="100" height="100" >}} 
 </div>  
-<div style="float: left", class="updown">
-</div>  
+
 
 `Accelerating Large-Scale Models for Videos 🎥`  
 Graduate Student @ POSTECH EE (24.02--)  
@@ -124,11 +103,10 @@ Graduate Student @ POSTECH EE (24.02--)
 ---
 
 ### **Sangyoon Lee**
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/sangyoon2.jpg" alt="." width="100" height="100" >}} 
 </div>  
-<div style="float: left", class="updown">
-</div>  
+
 
 `Hyperefficient Neural Fields ⚡️`  
 Graduate Student @ POSTECH AI (24.02--)  
@@ -139,11 +117,10 @@ Graduate Student @ POSTECH AI (24.02--)
 ---
 
 ### **Jiyun Bae**
-<!-- <div style="float: left">
-{{< figure src="/images/members/puss-in-boots-eyes.gif" alt="." width="100" height="100" >}} 
-</div>   -->
-<div style="float: left", class="updown">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+{{< figure src="/images/members/Jiyun.jpg" alt="." width="100" height="100" >}} 
 </div>  
+ 
 
 `Data-dependent Visual Prompts 🕶️`  
 Graduate Student @ POSTECH AI (24.02--)  
@@ -155,11 +132,10 @@ Academic Team Lead @ EffL
 ---
 
 ### **Hyunjong Ok**
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/hyunjong.JPG" alt="." width="100" height="100" >}} 
 </div>  
-<div style="float: left", class="updown">
-</div>  
+
 
 `Advancing Audio Technologies for Multimodal Intelligence 🔈`  
 Graduate Student @ POSTECH AI (24.02--)  

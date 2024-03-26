@@ -33,7 +33,7 @@
       <link>https://effl.postech.ac.kr/docs/people/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://effl.postech.ac.kr/docs/people/members/</guid>
-      <description>Jaeho Lee # Assistant Professor @ POSTECH EE (22.03&amp;ndash;)&#xA;Principal Investigator @ EffL (22.03&amp;ndash;)&#xA;Visiting Researcher @ Google (23.09&amp;ndash;)&#xA;webpage, mail, twitter&#xA;Seungwoo Son # Compress Gigantic Transformers, but Efficiently 🤑&#xA;Graduate Student @ POSTECH EE (22.03&amp;ndash;)&#xA;Student Intern @ Google&#xA;Keywords: Large Language Models, Model Compression&#xA;webpage, mail&#xA;Hagyeong Lee # Data Compression, but for more than what we see 🔮&#xA;Graduate Student @ POSTECH EE (22.09&amp;ndash;)&#xA;Keywords: Data Compression, Model Bias, Visual-Language Model</description>
+      <description>Jaeho Lee # Assistant Professor @ POSTECH EE (22.03&amp;ndash;)&#xA;Principal Investigator @ EffL (22.03&amp;ndash;)&#xA;Visiting Researcher @ Google (23.09&amp;ndash;)&#xA;webpage, mail, twitter&#xA;# Seungwoo Son # Compress Gigantic Transformers, but Efficiently 🤑&#xA;Graduate Student @ POSTECH EE (22.03&amp;ndash;)&#xA;Student Intern @ Google&#xA;Keywords: Large Language Models, Model Compression&#xA;webpage, mail&#xA;Hagyeong Lee # Data Compression, but for more than what we see 🔮&#xA;Graduate Student @ POSTECH EE (22.09&amp;ndash;)</description>
     </item>
     <item>
       <title>Interns</title>
@@ -54,7 +54,7 @@
       <link>https://effl.postech.ac.kr/docs/people/past/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://effl.postech.ac.kr/docs/people/past/</guid>
-      <description>Past Graduate Students # Jiwoon Lee # Efficient ML in the Wild 🐊&#xA;M.S. @ POSTECH EE (22.03&amp;ndash;24.02)&#xA;Ex-Office Team Lead @ EffL&#xA;Keywords: Model Merging, Federated Learning, Knowledge Distillation&#xA;webpage, mail&#xA;Junwon Seo # Blazing-Fast Neural Field Generation 🔥&#xA;M.S. @ POSTECH EE (22.03&amp;ndash;24.02)&#xA;Ex-Infrastructure Team Lead @ EffL&#xA;Keywords: Neural Field, Training Efficiency, Implicit Bias of SGD&#xA;webpage, mail&#xA;Past Interns # Minjae Park (Winter &amp;lsquo;23; now at EffL)</description>
+      <description>Past Graduate Students # Jiwoon Lee # Efficient ML in the Wild 🐊&#xA;M.S. @ POSTECH EE (22.03&amp;ndash;24.02)&#xA;Ex-Office Team Lead @ EffL&#xA;Keywords: Model Merging, Federated Learning, Knowledge Distillation&#xA;webpage, mail&#xA;Junwon Seo # Blazing-Fast Neural Field Generation 🔥&#xA;M.S. @ POSTECH EE (22.03&amp;ndash;24.02)&#xA;Ex-Infrastructure Team Lead @ EffL&#xA;Keywords: Neural Field, Training Efficiency, Implicit Bias of SGD&#xA;webpage, mail&#xA;# Past Interns # Minjae Park (Winter &amp;lsquo;23; now at EffL)</description>
     </item>
     <item>
       <title>Internship Program</title>
@@ -71,11 +71,25 @@
       <description>Hagyeong Lee # (say something)</description>
     </item>
     <item>
+      <title>Hyunjong Ok</title>
+      <link>https://effl.postech.ac.kr/docs/people/member/hyunjong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://effl.postech.ac.kr/docs/people/member/hyunjong/</guid>
+      <description>Hyunjong Ok # 🔍 Research Interests # Efficient LLM, Multi-modal learning, Audio Technologies&#xA;🏫 Education # Pohang University of Science and Technology (POSTECH)&#xA;(2024.02 ~ Present) M.S. candidate in Graduate School of AI KyungHee University (KHU)&#xA;(2019.03 ~ 2023.08) B.S in Software Convergence 🏢 Experience # (2023.03 ~ 2023.09) AI Intern, Naver CLOUD (2022.03 ~ 2023.02) Undergraduate Researcher, NLP Lab, KyungHee University (2022.07 ~ 2022.08) AI project, Hyundai Motor (2021.</description>
+    </item>
+    <item>
       <title>Jiwoon Lee</title>
       <link>https://effl.postech.ac.kr/docs/people/member/jiwoon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://effl.postech.ac.kr/docs/people/member/jiwoon/</guid>
       <description>Jiwoon Lee # 🔍 Research Interests # Model merging, Federated learning, Knowledge distillation&#xA;🏫 Education # Pohang University of Science and Technology (POSTECH) (2015.03 ~ 2022.02) B.S. in Electrical Engineering -(2018.10 ~ 2020.05) Military service (2022.02 ~ Present) M.S. candidate in Electrical Engineering 🏢 Experience # (2017.06 ~ 2017.07) Research Intern, Preceding Patterning Team, SK Hynix (2018.06 ~ 2018.08) Research Intern, Embedded System Architecture Lab, POSTECH 📚 Publication # Jiwoon Lee, Jaeho Lee, &amp;ldquo;Debiased Distillation by Transplanting the Last Layer&amp;rdquo;, ArXiv preprint, 2023.</description>
+    </item>
+    <item>
+      <title>Jiyun Bae</title>
+      <link>https://effl.postech.ac.kr/docs/people/member/jiyunbae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://effl.postech.ac.kr/docs/people/member/jiyunbae/</guid>
+      <description>Jiyun Bae # Hi there, I&amp;rsquo;m Jiyun 👋&#xA;🔍 Research Interests # Text/Visual Prompts, Bias, Fairness, LLMs&#xA;🏫 Education # Seoul Women University (SWU)&#xA;(2020.03 ~ 2024.02) B.S in Information Security Pohang University of Science and Technology (POSTECH)&#xA;(2024.02 ~ Present) M.S. candidate in Graduate School of AI 🏢 Experience # (2022.01 ~ 2022.03) Software Developer, Ericsson-LG (2022.07 ~ 2022.09) NLP Researcher, S2W (2023.06. ~ 2024.02) Undergraduate Research Fellowship, Efficient Learning Lab, POSTECH ✨ Patents # (2021.</description>
     </item>
     <item>
       <title>Junwon Seo</title>
@@ -92,6 +106,13 @@
       <description>Juyun Wee # 🔍 Research Interests # Test-Time Training, Time-Series Forecasting&#xA;🏫 Education # Pohang University of Science and Technology (POSTECH) (2018.03 ~ 2023.08) B.S. in Electrical Engineering (2023.09 ~ Present) M.S. candidate in Electrical Engineering University of Stuttgart, Germany (2022.08 ~ 2023.01) Exchange Student in Electrical Enginerring 🏢 Experience # (2023.03 ~ 2017.07) Research Intern, Efficient Learning Laboratory, POSTECH (2021.09 ~ 2017.01) Research Intern, Advanced Information Systems Laboratory, POSTECH (2020.</description>
     </item>
     <item>
+      <title>Minjae Park</title>
+      <link>https://effl.postech.ac.kr/docs/people/member/minjae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://effl.postech.ac.kr/docs/people/member/minjae/</guid>
+      <description> Minjae Park # 🔍 Research Interests # State-Space Model, Model compression(Pruning, Quantization)&#xA;🏫 Education # Sogang University&#xA;(2020.03 ~ 2024.02) B.S in Electrical &amp;amp; Electronics Engineering Pohang University of Science and Technology (POSTECH)&#xA;(2024.03 ~ Present) M.S. &amp;amp; Ph.D candidate in Electrical &amp;amp; Electronics Engineering 🏢 Experience # (2023.06 ~ 2023.12) Research Intern, Man Machine Interface Lab, Sogang University 📞 Contact # mail : minjae0047@postech.ac.kr, mjae.park@gmail.com github : https://github.com/tada0347/ </description>
+    </item>
+    <item>
       <title>Minkyu Kim</title>
       <link>https://effl.postech.ac.kr/docs/people/member/minkyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -104,6 +125,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
       <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.&#xA;Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.&#xA;Note: Some papers below does not involve the PI.&#xA;2024 # SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities&#xA;Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee&#xA;NAACL 2024&#xA;Few-shot Unlearning&#xA;Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok</description>
+    </item>
+    <item>
+      <title>Sangyoon Lee</title>
+      <link>https://effl.postech.ac.kr/docs/people/member/sangyoon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://effl.postech.ac.kr/docs/people/member/sangyoon/</guid>
+      <description>Sangyoon Lee # 🔍 Research Interests # Fast Neural Fields, Editable Neural Fields, Neural Compression&#xA;🏫 Education # Pohang University of Science and Technology (POSTECH) (2018.02 - 2023.08) B.S. in Computer Science and Engineering (2024.03 - Present) M.S. candidate in Graduate School of AI 🏢 Experience # (2023.07 - 2024.02) Research Intern in Efficient Learning Lab, POSTECH (2022.07 - 2023.06) Research Intern in Computer Vision Lab, POSTECH (2022.03 - 2022.</description>
     </item>
     <item>
       <title>Seungwoo Son</title>

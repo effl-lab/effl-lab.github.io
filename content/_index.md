@@ -25,11 +25,11 @@ For details, see [here](/docs/how-to-join/graduate/).
 {{< tabs "news" >}}
 {{< tab "NAACL 2024" >}}
 
-<div style= "float: left">
+<div style= "float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/news/naacl_ok_2024.png" alt="." width="250" height="100" >}} 
 </div>
-<div style="float: left", class="updown">
-</div>  
+ 
+ 
 
 A paper on a **distillation-based method** to recognized named entities in multi-modal setup will be presented at **NAACL** **2024**! 🎊
 

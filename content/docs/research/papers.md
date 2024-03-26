@@ -4,29 +4,6 @@ type: docs
 bookToc: true
 ---
 
-<style>
-	.updown {
-    	border: 10px solid white;
-        width: 0.1px;
-        height: 100px;
-    }
-</style>
-
-<style>
-	.updown2 {
-    	border: 10px solid white;
-        width: 0.1px;
-        height: 120px;
-    }
-</style>
-
-<style>
-	.updown3 {
-    	border: 10px solid white;
-        width: 0.1px;
-        height: 160px;
-    }
-</style>
 
 We mainly target top-tier ML conferences, e.g., **NeurIPS / ICML / ICLR**.  
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
@@ -38,11 +15,8 @@ Note: Some papers below does not involve the PI.
 ### **2024**
 
 
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 15px;">
     {{< figure src="/images/papers/2024/scanner.png" alt="." width="100" height="100" >}}  
-</div>
-
-<div style="float: left", class="updown">
 </div>
 
 [**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**](https://openreview.net/forum?id=qTBsdrZAyJ)  
@@ -51,12 +25,11 @@ Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee
 
 ---
 
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
     {{< figure src="/images/papers/2024/fewshot_unlearning.png" alt="." width="100" height="100" >}}  
 </div>
 
-<div style="float: left", class="updown">
-</div>
+
 
 [**Few-shot Unlearning**](https://arxiv.org/abs/2205.15567)  
 Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok  
@@ -64,12 +37,10 @@ Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul O
 
 ---
 
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
     {{< figure src="/images/papers/2024/TACO.png" alt="." width="100" height="100" >}}  
 </div>
 
-<div style="float: left", class="updown2">
-</div>
 
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
 Hagyeong Lee, Minkyu Kim, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee  
@@ -77,12 +48,11 @@ arXiv preprint 2403.02944
 
 ---
 
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
     {{< figure src="/images/papers/2024/semantic_communication.png" alt="." width="100" height="100" >}}  
 </div>
 
-<div style="float: left", class="updown2">
-</div>
+
 
 [**Attention-aware Semantic Communications for Collaborative Inference**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170905722.27435902)  
 Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
@@ -90,12 +60,11 @@ Under Review
 
 ---
 
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
     {{< figure src="/images/papers/2024/dt4neural-field.png" alt="." width="100" height="100" >}}  
 </div>
 
-<div style="float: left", class="updown2">
-</div>
+
 
 [**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
 Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee  
@@ -104,12 +73,10 @@ Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee
 
 ---
 
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
     {{< figure src="/images/papers/2024/visual_biases.png" alt="." width="100" height="100" >}}  
 </div>
 
-<div style="float: left", class="updown2">
-</div>
 
 [**Discovering and Mitigating Visual Biases through Keyword Explanation**](https://arxiv.org/abs/2301.11104)  
 Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
@@ -118,12 +85,11 @@ Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin
 
 ---
 
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
     {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="100" height="100" >}}  
 </div>
 
-<div style="float: left", class="updown2">
-</div>
+
 
 [**Hybrid Neural Represetntations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
 Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn  
@@ -131,9 +97,6 @@ arXiv preprint 2402.05965
 
 #####
 ---
-
-
-
 ### **2023**
 
 [**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://unireps.org)  
@@ -160,12 +123,10 @@ Jinseok Chung, Seonghwan Park, Jaeho Lee, and Namhoon Lee
 Seungwoo Son, Namhoon Lee, and Jaeho Lee  
 **ICLR 2023 Workshop**: Sparsity in Neural Networks (IPIU 2023 `Oral` `🥉`)
 
-<div style="float: left">
+<div style="float: left; margin-right: 20px; margin-bottom: 10px;">
     {{< figure src="/images/papers/2023/prefix-tuning.png" alt="." width="100" height="100" >}}  
 </div>
 
-<div style="float: left", class="updown">
-</div>
 
 [**Prefix Tuning for Automated Audio Captioning**](https://arxiv.org/abs/2303.17489)  
 Minkyu Kim, Kim Sung-Bin, and Tae-Hyun Oh  

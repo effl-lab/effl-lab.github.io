@@ -1,5 +1,5 @@
 ---
-title: Alumni
+title: Alumni 
 type: docs
 bookToc: false
 weight: 3
@@ -7,8 +7,13 @@ weight: 3
 
 ### **Past Graduate Students**
 
+---
+
 ### **Jiwoon Lee**
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/Jiwoon.jpg" alt="." width="100" height="100" >}}  
+</div>  
+
 `Efficient ML in the Wild 🐊`  
 M.S. @ POSTECH EE (22.03--24.02)  
 Ex-Office Team Lead @ EffL  
@@ -18,13 +23,17 @@ Ex-Office Team Lead @ EffL
 ---
 
 ### **Junwon Seo**
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/Junwon1.jpg" alt="." width="100" height="100" >}}  
+</div>  
+
 `Blazing-Fast Neural Field Generation 🔥`  
 M.S. @ POSTECH EE (22.03--24.02)  
 Ex-Infrastructure Team Lead @ EffL  
 **Keywords:** Neural Field, Training Efficiency, Implicit Bias of SGD  
 [webpage](/docs/people/member/junwon/), [mail](mailto:junwon.seo@postech.ac.kr)  
 
+######
 ---
 
 ### **Past Interns**
