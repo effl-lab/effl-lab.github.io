@@ -99,10 +99,10 @@ Captain @ ROKMC
 <div style="float: left", class="updown">
 </div>  
 
-`Adaptive Processing of Extremely Long Data Sequences `  
+`Compressing Large Language Models 🍀`  
 Graduate Student @ POSTECH EE (23.09--)  
 Office Team Lead @ EffL  
-**Keywords:** Time-Series Forecasting, Test-Time Training, Self-supervised Learning  
+**Keywords:** LLM Compression, Model Pruning, Model Efficiency
 [webpage](/docs/people/member/juyun/), [mail](mailto:jywee@postech.ac.kr)  
 
 

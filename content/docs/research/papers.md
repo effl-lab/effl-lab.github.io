@@ -260,7 +260,7 @@ Jaeho Lee, Maxim Raginsky, and Pierre Moulin
 **ISIT 2015**
 
 
-### **Domestic Posters 🇰🇷🐯**
+### **Domestic Posters 🐯**
 
 ---
 
