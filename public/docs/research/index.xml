@@ -5,34 +5,21 @@
     <link>https://effl.postech.ac.kr/docs/research/</link>
     <description>Recent content on EffL @ POSTECH</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://effl.postech.ac.kr/docs/research/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://effl.postech.ac.kr/docs/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Focus</title>
       <link>https://effl.postech.ac.kr/docs/research/focus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://effl.postech.ac.kr/docs/research/focus/</guid>
-      <description>The long-term goal of EffL is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.
-As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.
-In particular, we work on three dimensions:
-Inference. We develop fast, low-resource methods to serve massive multimodal AI, e.g., Model Compression Parallel Decoding Batch Scheduling Training. We resolve the compute / memory bottlenecks for training large-scale models, e.</description>
+      <description>The long-term goal of EffL is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.&#xA;As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.&#xA;In particular, we work on three dimensions:&#xA;Inference. We develop fast, low-resource methods to serve massive multimodal AI, e.g., Model Compression Parallel Decoding Batch Scheduling Training. We resolve the compute / memory bottlenecks for training large-scale models, e.</description>
     </item>
-    
     <item>
       <title>Papers</title>
       <link>https://effl.postech.ac.kr/docs/research/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
-      <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
-Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
-Note: Some papers below does not involve the PI.
-2024 # SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities
-Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee
-NAACL 2024
-Few-shot Unlearning
-Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok</description>
+      <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.&#xA;Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.&#xA;Note: Some papers below does not involve the PI.&#xA;2024 # SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities&#xA;Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee&#xA;NAACL 2024&#xA;Few-shot Unlearning&#xA;Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok</description>
     </item>
-    
   </channel>
 </rss>

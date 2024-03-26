@@ -4,42 +4,137 @@ type: docs
 bookToc: true
 ---
 
-We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.  
+<style>
+	.updown {
+    	border: 10px solid white;
+        width: 0.1px;
+        height: 100px;
+    }
+</style>
+
+<style>
+	.updown2 {
+    	border: 10px solid white;
+        width: 0.1px;
+        height: 110px;
+    }
+</style>
+
+<style>
+	.updown3 {
+    	border: 10px solid white;
+        width: 0.1px;
+        height: 160px;
+    }
+</style>
+
+We mainly target top-tier ML conferences, e.g., **NeurIPS / ICML / ICLR**.  
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
 
-Note: Some papers below does not involve the PI.
+Note: Some papers below does not involve the PI.  
+
+---
 
 ### **2024**
+
+
+<div style="float: left">
+    {{< figure src="/images/papers/2024/scanner.png" alt="." width="100" height="100" >}}  
+</div>
+
+<div style="float: left", class="updown">
+</div>
+
 [**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**](https://openreview.net/forum?id=qTBsdrZAyJ)  
 Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee  
 **NAACL 2024**
 
+---
+
+<div style="float: left">
+    {{< figure src="/images/papers/2024/fewshot_unlearning.png" alt="." width="100" height="100" >}}  
+</div>
+
+<div style="float: left", class="updown">
+</div>
 
 [**Few-shot Unlearning**](https://arxiv.org/abs/2205.15567)  
 Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok  
 **IEEE S&P 2024**
 
+---
+
+<div style="float: left">
+    {{< figure src="/images/papers/2024/TACO.png" alt="." width="100" height="100" >}}  
+</div>
+
+<div style="float: left", class="updown2">
+</div>
+
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
 Hagyeong Lee, Minkyu Kim, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee  
-arXiv preprint 2403.02944
+arXiv preprint 2403.02944  
+
+---
+
+<div style="float: left">
+    {{< figure src="/images/papers/2024/semantic_communication.png" alt="." width="100" height="100" >}}  
+</div>
+
+<div style="float: left", class="updown2">
+</div>
 
 [**Attention-aware Semantic Communications for Collaborative Inference**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170905722.27435902)  
 Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
 Under Review
 
+---
+
+<div style="float: left">
+    {{< figure src="/images/papers/2024/dt4neural-field.png" alt="." width="100" height="100" >}}  
+</div>
+
+<div style="float: left", class="updown2">
+</div>
+
 [**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
 Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee  
 **CVPR 2024** (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
+[[code](https://github.com/effl-lab/DT4Neural-Field)] [[demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)]
+
+---
+
+<div style="float: left">
+    {{< figure src="/images/papers/2024/visual_biases.png" alt="." width="100" height="100" >}}  
+</div>
+
+<div style="float: left", class="updown2">
+</div>
 
 [**Discovering and Mitigating Visual Biases through Keyword Explanation**](https://arxiv.org/abs/2301.11104)  
 Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
 **CVPR 2024** (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)  
+[[code](https://github.com/alinlab/b2t)]  
+
+---
+
+<div style="float: left">
+    {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="100" height="100" >}}  
+</div>
+
+<div style="float: left", class="updown2">
+</div>
 
 [**Hybrid Neural Represetntations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
 Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn  
-arXiv preprint 2402.05965  
+arXiv preprint 2402.05965   
 
-### **2023**
+#####
+---
+###
+
+
+**2023**
 
 [**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://unireps.org)  
 Jiwoon Lee and Jaeho Lee  
@@ -65,9 +160,17 @@ Jinseok Chung, Seonghwan Park, Jaeho Lee, and Namhoon Lee
 Seungwoo Son, Namhoon Lee, and Jaeho Lee  
 **ICLR 2023 Workshop**: Sparsity in Neural Networks (IPIU 2023 `Oral` `🥉`)
 
-[**Prefix Tuning for Automated Audio Captioning**](https://prefixaac.github.io)  
+<div style="float: left">
+    {{< figure src="/images/papers/2023/prefix-tuning.png" alt="." width="100" height="100" >}}  
+</div>
+
+<div style="float: left", class="updown">
+</div>
+
+[**Prefix Tuning for Automated Audio Captioning**](https://arxiv.org/abs/2303.17489)  
 Minkyu Kim, Kim Sung-Bin, and Tae-Hyun Oh  
-**ICASSP 2023** `Oral`
+**ICASSP 2023** `Oral`   
+[[project page](https://prefixaac.github.io/)] [[code](https://github.com/MinkyuKim26/Prefix_AAC_ICASSP2023)]
 
 [**Communication-Efficient Split Learning via Adaptive Feature-wise Compression**](https://arxiv.org/abs/2307.10805)  
 Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
@@ -82,7 +185,8 @@ arXiv preprint 2302.11187 (IPIU 2023)
 
 [**Scalable Neural Video Representations with Learnable Positional Features**](https://openreview.net/forum?id=OxfI-3i5M8g)  
 Subin Kim, Sihyun Yu, Jaeho Lee, and Jinwoo Shin  
-**NeurIPS 2022** ([project page](https://subin-kim-cv.github.io/NVP/))
+**NeurIPS 2022**   
+[[project page](https://subin-kim-cv.github.io/NVP/)]
 
 [**Meta-learning with Self-improving Momentum Targets**](https://openreview.net/forum?id=FCNMbF_TsKm)  
 Jihoon Tack, Jongjin Park, Hankook Lee, Jaeho Lee and Jinwoo Shin  
@@ -156,12 +260,14 @@ Jaeho Lee, Maxim Raginsky, and Pierre Moulin
 **ISIT 2015**
 
 
-### **Domestic Posters**
+### **Domestic Posters 🇰🇷🐯**
 
-**An Empirical Study on the Bias of Generative Image Compression**  
+---
+
+#### **An Empirical Study on the Bias of Generative Image Compression**  
 Hagyeong Lee and Jaeho Lee  
 **IPIU 2023**
 
-**Is Sparse Identification Model Sufficiently Biased?**  
+#### **Is Sparse Identification Model Sufficiently Biased?**  
 Junwon Seo and Jaeho Lee  
 **IPIU 2023**

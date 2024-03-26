@@ -4,6 +4,14 @@ type: docs
 bookToc: false
 ---
 
+<style>
+	.updown {
+    	border: 10px solid white;
+        width: 0.1px;
+        height: 150px;
+    }
+</style>
+
 `Make AI accessible to everyone with Efficient ML!`
 
 Efficient Learning Lab, or simply {{< color "#455FAF" "EffL" >}}, is a research group led by [Jaeho Lee](https://jaeho-lee.github.io).  
@@ -12,16 +20,23 @@ We develop theories, algorithms, and systems to make ML more efficient.
 To join us, apply us through [POSTECH EE](https://ee.postech.ac.kr) or [Graduate School of AI](https://ai.postech.ac.kr).  
 For details, see [here](/docs/how-to-join/graduate/).
 
-
-### **News**
+## **News**
 
 {{< tabs "news" >}}
 {{< tab "NAACL 2024" >}}
-A paper on a distillation-based method to recognized named entities in multi-modal setup will be presented at NAACL 2024.
 
-This is a joint work with NAVER.
+<div style= "float: left">
+{{< figure src="/images/papers/naacl_ok_2024.png" alt="." width="250" height="100" >}} 
+</div>
+<div style="float: left", class="updown">
+</div>  
+
+A paper on a **distillation-based method** to recognized named entities in multi-modal setup will be presented at **NAACL** **2024**! 🎊
+
+This is a joint work with **NAVER**.
 
 (2024.03.14)
+
 {{< /tab >}}
 
 {{< tab "IEEE S&P" >}}
