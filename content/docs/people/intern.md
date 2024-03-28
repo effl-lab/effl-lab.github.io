@@ -12,6 +12,7 @@ Large-Scale Model Quantization
 
 **Inkwan Hwang** (Fall '23--)  
 Large-Scale Model Pruning  
+[webpage](inkwanhwang.github.io)
 
 **Taesun Yeom** (Winter '23--)  
 Training and Inference Efficiency for Neural Fields
