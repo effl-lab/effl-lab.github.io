@@ -1,7 +1,7 @@
 ---
 title: Papers
 type: docs
-bookToc: false
+bookToc: true
 ---
 
 
