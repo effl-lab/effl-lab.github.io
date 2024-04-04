@@ -19,7 +19,7 @@ Note: Some papers below does not involve the PI.
     {{< figure src="/images/papers/2024/scanner.png" alt="." width="100" height="100" >}}  
 </div>
 
-[**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**](https://openreview.net/forum?id=qTBsdrZAyJ)  
+[**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**](https://arxiv.org/abs/2404.01914)  
 Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee  
 **NAACL 2024**
 #####
