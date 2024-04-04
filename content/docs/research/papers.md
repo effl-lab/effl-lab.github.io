@@ -34,7 +34,7 @@ Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee
 
 [**Discovering and Mitigating Visual Biases through Keyword Explanation**](https://arxiv.org/abs/2301.11104)  
 Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
-**CVPR 2024** `Spotlight` (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)  
+**CVPR 2024** `Highlight` (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)  
 [[code](https://github.com/alinlab/b2t)]  
 #####
 ---
