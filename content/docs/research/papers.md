@@ -5,7 +5,7 @@ bookToc: true
 ---
 
 
-We mainly target top-tier ML conferences, e.g., **NeurIPS / ICML / ICLR**.  
+We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.  
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
 
 Note: Some papers below does not involve the PI.  
