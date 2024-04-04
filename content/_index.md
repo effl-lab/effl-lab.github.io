@@ -23,6 +23,14 @@ For details, see [here](/docs/how-to-join/graduate/).
 ## **News**
 
 {{< tabs "news" >}}
+{{< tab "CVPR 2024" >}}
+Two papers will be presented at CVPR 2024.
+- An intriguing way to accelerate neural field training (***Oral,*** led by Junwon and Sangyoon).
+- A way to characterize visual biases in the form of text keywords (***Spotlight,*** collaboration with UMich and KAIST).
+
+(2024.02.27)
+{{< /tab >}}
+
 {{< tab "NAACL 2024" >}}
 
 <div style= "float: left; margin-right: 20px; margin-bottom: 20px;">
@@ -31,7 +39,7 @@ For details, see [here](/docs/how-to-join/graduate/).
  
  
 
-A paper on a **distillation-based method** to recognized named entities in multi-modal setup will be presented at **NAACL** **2024**! 🎊
+A paper on a **distillation-based method** to recognized named entities in multi-modal setup will be presented at **NAACL 2024**! 🎊
 
 This is a joint work with **NAVER**.
 
@@ -44,13 +52,7 @@ A paper on unlearning will be presented at IEEE S&P 2024.
 
 (2024.03.10)
 {{< /tab >}}
-{{< tab "CVPR 2024" >}}
-Two papers will be presented at CVPR 2024.
-- An intriguing way to accelerate neural field training (led by Junwon and Sangyoon).
-- A way to characterize visual biases in the form of text keywords (collaboration with UMich and KAIST).
 
-(2024.02.27)
-{{< /tab >}}
 
 {{< tab "NeurIPS 2023" >}}
 One conference paper and two workshop papers will be presented.
