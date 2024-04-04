@@ -14,7 +14,30 @@ Note: Some papers below does not involve the PI.
 
 ### **2024**
 
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
+    {{< figure src="/images/papers/2024/dt4neural-field.png" alt="." width="100" height="100" >}}  
+</div>
 
+
+
+[**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
+Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee  
+**CVPR 2024** `Oral` (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
+[[code](https://github.com/effl-lab/DT4Neural-Field)] [[demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)]
+#####
+---
+
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
+    {{< figure src="/images/papers/2024/visual_biases.png" alt="." width="100" height="100" >}}  
+</div>
+
+
+[**Discovering and Mitigating Visual Biases through Keyword Explanation**](https://arxiv.org/abs/2301.11104)  
+Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
+**CVPR 2024** `Spotlight` (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)  
+[[code](https://github.com/alinlab/b2t)]  
+#####
+---
 <div style="float: left; margin-right: 20px; margin-bottom: 15px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/scanner.png" alt="." width="100" height="100" >}}  
 </div>
@@ -60,30 +83,7 @@ Under Review
 #####
 ---
 
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/dt4neural-field.png" alt="." width="100" height="100" >}}  
-</div>
 
-
-
-[**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
-Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee  
-**CVPR 2024** (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
-[[code](https://github.com/effl-lab/DT4Neural-Field)] [[demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)]
-#####
----
-
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/visual_biases.png" alt="." width="100" height="100" >}}  
-</div>
-
-
-[**Discovering and Mitigating Visual Biases through Keyword Explanation**](https://arxiv.org/abs/2301.11104)  
-Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
-**CVPR 2024** (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)  
-[[code](https://github.com/alinlab/b2t)]  
-#####
----
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="100" height="100" >}}  
