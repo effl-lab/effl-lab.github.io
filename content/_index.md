@@ -25,8 +25,10 @@ For details, see [here](/docs/how-to-join/graduate/).
 {{< tabs "news" >}}
 {{< tab "CVPR 2024" >}}
 Two papers will be presented at **CVPR 2024** 🎊.
-- An intriguing way to accelerate neural field training (***{{< color "#FF0000" "Oral" >}}***, led by Junwon and Sangyoon). `Acceptance ratio: 90/11532 = 0.78%`
-- A way to characterize visual biases in the form of text keywords (***{{< color "#FF0000" "Highlight" >}}***, collaboration with UMich and KAIST). `Acceptance ratio: 324/11532 = 2.8%`
+- An intriguing way to accelerate neural field training (***{{< color "#FF0000" "Oral" >}}***, led by Junwon and Sangyoon).
+   `Acceptance ratio: 90/11532 = 0.78%`
+- A way to characterize visual biases in the form of text keywords (***{{< color "#FF0000" "Highlight" >}}***, collaboration with UMich and KAIST).  
+   `Acceptance ratio: 324/11532 = 2.8%`
 
 (2024.02.27)
 {{< /tab >}}
