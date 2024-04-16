@@ -77,9 +77,9 @@ arXiv preprint 2403.02944
 
 
 
-[**Attention-aware Semantic Communications for Collaborative Inference**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170905722.27435902)  
+[**Attention-aware Semantic Communications for Collaborative Inference**](https://arxiv.org/abs/2404.07217)  
 Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
-Under Review
+arXiv preprint 2404.07217 (IEEE Communication Theory Workshop 2024)  
 #####
 ---
 
