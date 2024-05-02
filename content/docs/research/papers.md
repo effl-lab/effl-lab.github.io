@@ -15,6 +15,28 @@ Note: Some papers below does not involve the PI.
 ### **2024**
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
+    {{< figure src="/images/papers/2024/TACO.png" alt="." width="100" height="100" >}}  
+</div>
+
+[**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
+Hagyeong Lee, Minkyu Kim, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee  
+**ICML 2024**  
+#####
+---
+
+
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
+    {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="100" height="100" >}}  
+</div>
+
+[**Hybrid Neural Represetntations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
+Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn  
+**ICML 2024**  
+
+#####
+---
+
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/dt4neural-field.png" alt="." width="100" height="100" >}}  
 </div>
 
@@ -61,17 +83,6 @@ Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul O
 ---
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/TACO.png" alt="." width="100" height="100" >}}  
-</div>
-
-
-[**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
-Hagyeong Lee, Minkyu Kim, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee  
-arXiv preprint 2403.02944  
-#####
----
-
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/semantic_communication.png" alt="." width="100" height="100" >}}  
 </div>
 
@@ -83,20 +94,6 @@ arXiv preprint 2404.07217 (IEEE Communication Theory Workshop 2024)
 #####
 ---
 
-
-
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="100" height="100" >}}  
-</div>
-
-
-
-[**Hybrid Neural Represetntations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
-Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn  
-arXiv preprint 2402.05965   
-
-#####
----
 ### **2023**
 
 [**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://unireps.org)  
