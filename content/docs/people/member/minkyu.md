@@ -40,9 +40,11 @@ Pohang University of Science and Technology (POSTECH)
 
 ### 📜 Publication
 ---
+
+Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, "Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity", ICML, 2024
+
 **Minkyu Kim***, Kim Sung-Bin*, Tae-Hyun Oh, "PREFIX TUNING FOR AUTOMATED AUDIO CAPTIONING", ICASSP, 2023   [[project page](https://prefixaac.github.io)]  
 ➡️ **Selected as Oral presentation & Media coverage: covered by [Yonhap News](https://www.yna.co.kr/view/AKR20230413134500017?input=1195m), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007153798&plink=ORI&cooper=NAVER), and many local media** 
-
 
 <br>
 
