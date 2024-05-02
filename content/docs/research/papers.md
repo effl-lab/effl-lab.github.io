@@ -19,7 +19,7 @@ Note: Some papers below does not involve the PI.
 </div>
 
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
-Hagyeong Lee, Minkyu Kim, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee  
+Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee  
 **ICML 2024**  
 #####
 ---
@@ -43,7 +43,7 @@ Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn
 
 
 [**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
-Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee  
+Junwon Seo<sup>1st</sup>, Sangyoon Lee<sup>1st</sup>, Kwang In Kim, and Jaeho Lee  
 **CVPR 2024** `Oral (top 0.78%)` (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
 [[code](https://github.com/effl-lab/DT4Neural-Field)] [[demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)]
 #####
