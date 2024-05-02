@@ -23,6 +23,19 @@ For details, see [here](/docs/how-to-join/graduate/).
 ## **News**
 
 {{< tabs "news" >}}
+{{< tab "ICML 2024" >}}
+Two papers will be presented at **ICML 2024** 🎊.  
+
+  
+- A new text-guided image compression algorithm (led by Hagyeong and Minkyu, in collaboration with SAIT).  
+
+- A mesh-based neural field architecture for spherical data.  
+
+
+(2024.05.02)
+{{< /tab >}}
+
+
 {{< tab "CVPR 2024" >}}
 Two papers will be presented at **CVPR 2024** 🎊.  
 
