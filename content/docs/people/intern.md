@@ -5,7 +5,7 @@ bookToc: false
 weight: 2
 ---
 
-### **Interns**  
+### **Current Interns**  
 
 **Sangbeom Ha** (Summer '23--)  
 Large-Scale Model Quantization  
@@ -32,12 +32,12 @@ Model Compression
 **Subeom Heo** (Spring '24--)  
 Accelerating Video Diffusion Models
 
-### Waitlist (Summer 2024)
+### **Waitlist (Summer '24--)**
 
 **Seoyun Jeong** (Summer '24--)  
 Language Modeling Basics  
 
-**Yoonjoo Nam** (Summer '24--)
+**Yoonjoo Nam** (Summer '24--)  
 (TBD)  
 
 **Yewon Hwang** (Summer '24--)  
