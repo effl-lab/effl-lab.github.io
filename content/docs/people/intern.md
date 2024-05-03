@@ -20,9 +20,6 @@ Training and Inference Efficiency for Neural Fields
 **Minhee Lee** (Winter '23--)  
 Speculative Decoding
 
-**Jeonghyun Choi** (Winter '23--)  
-Properties of Data Augmentation
-
 **Jegwang Ryu** (Summer '23 --> Samsung --> Winter '23--)  
 Accelerated Training by Masking
 
@@ -30,8 +27,18 @@ Accelerated Training by Masking
 Lifelong training of Foundation Models  
 
 **Wonjun Cho** (Spring '24--)  
-(TBD)  
+Model Compression
 
 **Subeom Heo** (Spring '24--)  
-(TBD)
+Accelerating Video Diffusion Models
 
+### Waitlist (Summer 2024)
+
+**Seoyun Jeong** (Summer '24--)  
+Language Modeling Basics  
+
+**Yoonjoo Nam** (Summer '24--)
+(TBD)  
+
+**Yewon Hwang** (Summer '24--)  
+(TBD)  
