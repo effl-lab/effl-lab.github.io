@@ -37,6 +37,9 @@ Ex-Infrastructure Team Lead @ EffL
 ---
 
 ### **Past Interns**
+**Jeonghyun Choi** (Winter '23)  
+Properties of Data Augmentation
+
 **Minjae Park** (Winter '23; now at EffL)  
 Faster State-Space Models
 
