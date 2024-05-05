@@ -42,3 +42,9 @@ Language Modeling Basics
 
 **Yewon Hwang** (Summer '24--)  
 (TBD)  
+
+**Inkwan Hwang** (Fall '23--)  
+Large-Scale Model Pruning  
+
+**Sooho Yoo** (Summer '24--)  
+(TBD)  
