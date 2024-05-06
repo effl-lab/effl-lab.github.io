@@ -5,28 +5,42 @@
     <link>https://effl.postech.ac.kr/docs/How-to-Join/</link>
     <description>Recent content on EffL @ POSTECH</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://effl.postech.ac.kr/docs/How-to-Join/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://effl.postech.ac.kr/docs/How-to-Join/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>M.S./Ph.D. 🎓</title>
       <link>https://effl.postech.ac.kr/docs/How-to-Join/graduate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://effl.postech.ac.kr/docs/How-to-Join/graduate/</guid>
-      <description>Please email Jaeho with your&#xA;Transcript (with rank) CV/Résumé A short statement of your research interests We will have a short coffee chat to discuss the next steps.&#xA;Here are some notes by Jaeho.&#xA;Advising Statement # As an advisor, I am commited to these principles:&#xA;keep the group handleable-sized, have individual weekly meetings (30&amp;ndash;60mins at least), be maximally supportive to the career decisions of the students, and keep non-academic burdens minimal.</description>
+      <description>Please email Jaeho with your
+Transcript (with rank) CV/Résumé A short statement of your research interests We will have a short coffee chat to discuss the next steps.
+Here are some notes by Jaeho.
+Advising Statement # As an advisor, I am commited to these principles:
+keep the group handleable-sized, have individual weekly meetings (30&amp;ndash;60mins at least), be maximally supportive to the career decisions of the students, and keep non-academic burdens minimal.</description>
     </item>
+    
     <item>
       <title>Interns 🐥</title>
       <link>https://effl.postech.ac.kr/docs/How-to-Join/interns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://effl.postech.ac.kr/docs/How-to-Join/interns/</guid>
-      <description>We always welcome interns to our group.&#xA;What will you do? # See this note for a brief description of what interns will be doing.&#xA;How to Apply? # Send an email to Jaeho, with a brief description of your:&#xA;Educational background, e.g., the courses you took. Research interests and experiences (if any). </description>
+      <description>We always welcome interns to our group.
+What will you do? # See this note for a brief description of what interns will be doing.
+How to Apply? # Send an email to Jaeho, with a brief description of your:
+Educational background, e.g., the courses you took. Research interests and experiences (if any). </description>
     </item>
+    
     <item>
       <title>Internship Program</title>
       <link>https://effl.postech.ac.kr/docs/How-to-Join/intern_program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://effl.postech.ac.kr/docs/How-to-Join/intern_program/</guid>
-      <description>Internship Program # We treat interns differently with respect to your skill levels.&#xA;(1) Level System # We&amp;rsquo;ll put you into one of three groups: L1, L2, L3, depending on your level of expertise.&#xA;L1. You know very little about ML/DL. Goal: Complete an online DL coursework (e.g., this, this or this). L2. You are familiar with DL, but not research. Goal: Select a research topic and learn how to read papers.</description>
+      <description>Internship Program # We treat interns differently with respect to your skill levels.
+(1) Level System # We&amp;rsquo;ll put you into one of three groups: L1, L2, L3, depending on your level of expertise.
+L1. You know very little about ML/DL. Goal: Complete an online DL coursework (e.g., this, this or this). L2. You are familiar with DL, but not research. Goal: Select a research topic and learn how to read papers.</description>
     </item>
+    
   </channel>
 </rss>
