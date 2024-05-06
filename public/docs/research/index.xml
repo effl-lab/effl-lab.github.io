@@ -5,21 +5,45 @@
     <link>https://effl.postech.ac.kr/docs/research/</link>
     <description>Recent content on EffL @ POSTECH</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://effl.postech.ac.kr/docs/research/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://effl.postech.ac.kr/docs/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Focus</title>
       <link>https://effl.postech.ac.kr/docs/research/focus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://effl.postech.ac.kr/docs/research/focus/</guid>
-      <description>The long-term goal of EffL is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.&#xA;As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.&#xA;In particular, we work on three dimensions:&#xA;Inference. We develop fast, low-resource methods to serve massive multimodal AI, e.g., Model Compression Parallel Decoding Batch Scheduling Training. We resolve the compute / memory bottlenecks for training large-scale models, e.</description>
+      <description>The long-term goal of EffL is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.
+As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.
+In particular, we work on three dimensions:
+Inference. We develop fast, low-resource methods to serve massive multimodal AI, e.g., Model Compression Parallel Decoding Batch Scheduling Training. We resolve the compute / memory bottlenecks for training large-scale models, e.</description>
     </item>
+    
     <item>
       <title>Papers</title>
       <link>https://effl.postech.ac.kr/docs/research/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
-      <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.&#xA;Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.&#xA;Note: Some papers below does not involve the PI.&#xA;2024 # In Search of a Data Transformation that Accelerates Neural Field Training&#xA;Junwon Seo, Sangyoon Lee, Kwang In Kim, and Jaeho Lee&#xA;CVPR 2024 Oral (top 90 of 11,532 submissions) (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)</description>
+      <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
+Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
+Note: Some papers below does not involve the PI.
+2024 # Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity
+Hagyeong Lee1st, Minkyu Kim1st, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee
+ICML 2024
+# Hybrid Neural Represetntations for Spherical Data
+Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn</description>
     </item>
+    
+    <item>
+      <title>Collaborators</title>
+      <link>https://effl.postech.ac.kr/docs/research/collaborators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://effl.postech.ac.kr/docs/research/collaborators/</guid>
+      <description>Our recent industry collaborators include:
+Samsung Advanced Institute of Technology: ICML 2024, TMLR 2023 Google: As a visiting faculty researcher, and as a student intern DeepMind: ICML 2023 NAVER: NAACL 2024 Krafton: CVPR 2024 VPIX medical: (Private project) In addition, we have worked with universities abroad:
+University College London: NeurIPS 2023, ICML 2023 University of Michigan: CVPR 2024 </description>
+    </item>
+    
   </channel>
 </rss>

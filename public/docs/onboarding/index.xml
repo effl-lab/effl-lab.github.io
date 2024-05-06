@@ -5,7 +5,6 @@
     <link>https://effl.postech.ac.kr/docs/onboarding/</link>
     <description>Recent content in Onboarding on EffL @ POSTECH</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://effl.postech.ac.kr/docs/onboarding/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://effl.postech.ac.kr/docs/onboarding/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
