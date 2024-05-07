@@ -22,8 +22,11 @@ We develop theories, algorithms, and systems to make ML more efficient.
 ### **News**
 
 - (May 2024) Two papers accepeted at ICML 2024
+    - Hagyeong, Minkyu, and Jaeho will be @ Vienna 🇦🇹
 - (Mar 2024) One paper accepted at NAACL 2024
+    - Hyunjong (and maybe Jaeho) will be at Mexico City 🇲🇽
 - (Mar 2024) One paper accepted at IEEE S&P 2024
 - (Feb 2024) Two papers accepted at CVPR 2024 (1 oral, 1 highlight)
+    - Sangyoon and Jaeho will be @ Seattle 🇺🇸
 - (Feb 2024) Junwon and Jiwoon earned their M.S. degrees 🎉  
 	[more](/olds/)
