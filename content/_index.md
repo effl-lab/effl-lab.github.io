@@ -21,6 +21,7 @@ We develop theories, algorithms, and systems to make ML more efficient.
 
 ### **News**
 
+- (May 2024) Seungwoo defended his M.S. thesis 🛡️
 - (May 2024) Two papers accepeted at ICML 2024 🇦🇹
 - (Mar 2024) One paper accepted at NAACL 2024 🇲🇽
 - (Mar 2024) One paper accepted at IEEE S&P 2024
