@@ -50,11 +50,11 @@ Graduate Student @ POSTECH EE (22.09--)
 {{< figure src="/images/members/Minkyu.jpg" alt="." width="100" height="100" >}}
 </div>   
 
-`Harnessing Language Models for Multimodal Tasks 🎙️`  
+`Harnessing Language Models for Multimodal Tasks 🏞️🎙️`  
 Graduate Student @ POSTECH AI (23.03--)  
-Infrastructure Team Lead @ EffL  
-**Keywords:** Prefix Tuning, Multimodal Learning, Data Compression  
-[webpage](/docs/people/member/minkyu/), [mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://velog.io/@minkyu4506/posts), [recent project](https://prefixaac.github.io), [twitter](https://twitter.com/minguinho_zeze)  
+Infrastructure Team Lead @ EffL   
+**Keywords:** Multimodal learning, Image processing, Audio captioning 
+[webpage](/docs/people/member/minkyu/), [mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://velog.io/@minkyu4506/posts), [recent project]([https://prefixaac.github.io](https://taco-nic.github.io)), [twitter](https://x.com/minguinho_zeze)  
 
 
 ---
