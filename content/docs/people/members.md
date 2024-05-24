@@ -54,7 +54,7 @@ Graduate Student @ POSTECH EE (22.09--)
 Graduate Student @ POSTECH AI (23.03--)  
 Infrastructure Team Lead @ EffL   
 **Keywords:** Multimodal learning, Image processing, Audio captioning 
-[webpage](/docs/people/member/minkyu/), [mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://velog.io/@minkyu4506/posts), [recent project]([https://prefixaac.github.io](https://taco-nic.github.io)), [twitter](https://x.com/minguinho_zeze)  
+[webpage](https://minguinho26.github.io/), [mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://velog.io/@minkyu4506/posts), [recent project]([https://prefixaac.github.io](https://taco-nic.github.io)), [twitter](https://x.com/minguinho_zeze)  
 
 
 ---
