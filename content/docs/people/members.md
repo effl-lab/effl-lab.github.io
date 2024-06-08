@@ -53,7 +53,7 @@ Graduate Student @ POSTECH EE (22.09--)
 `Harnessing Language Models for Multimodal Tasks 🏞️🎙️`  
 Graduate Student @ POSTECH AI (23.03--)  
 Infrastructure Team Lead @ EffL   
-**Keywords:** Multimodal learning, Image processing, Audio captioning 
+**Keywords:** Multimodal learning, Image processing, Audio captioning <br>
 [webpage](https://minguinho26.github.io/), [mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://velog.io/@minkyu4506/posts), [recent project](https://taco-nic.github.io), [twitter](https://x.com/minguinho_zeze)  
 
 
