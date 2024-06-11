@@ -24,7 +24,7 @@ Speculative Decoding
 Accelerated Training by Masking
 
 **Seunghyun Kim** (Spring '24--)  
-Lifelong training of Foundation Models  
+Efficient LAG LLM  
 
 **Wonjun Cho** (Spring '24--)  
 Model Compression
