@@ -17,14 +17,14 @@ Note: Some papers below does not involve the PI, but student EffLers.
 
 
 **Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**  
-Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee
+Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee  
 **preprint**  
 
 #####
 ---
 
 **Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**  
-Hyunjong Ok, Jegwang Ryu and Jaeho Lee
+Hyunjong Ok, Jegwang Ryu and Jaeho Lee  
 **preprint**  
 
 #####
