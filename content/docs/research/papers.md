@@ -9,18 +9,41 @@ weight: 2
 We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.  
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
 
-Note: Some papers below does not involve the PI.  
+Note: Some papers below does not involve the PI, but student EffLers.  
 
 ---
 
 ### **2024**
+
+
+**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**  
+Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee
+**preprint**  
+
+#####
+---
+
+**Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**  
+Hyunjong Ok, Jegwang Ryu and Jaeho Lee
+**preprint**  
+
+#####
+---
+
+**Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**  
+Sungbin Shin, Wonpyo Park, Jaeho Lee, and Namhoon Lee  
+**preprint**  
+
+#####
+---
+
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/TACO.png" alt="." width="100" height="100" >}}  
 </div>
 
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
-Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee  
+Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, and Jaeho Lee  
 **ICML 2024**  
 #####
 ---
@@ -31,7 +54,7 @@ Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim
 </div>
 
 [**Hybrid Neural Represetntations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
-Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn  
+Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn  
 **ICML 2024**  
 
 #####
