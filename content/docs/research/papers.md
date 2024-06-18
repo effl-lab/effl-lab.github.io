@@ -20,26 +20,22 @@ Note: Some papers below does not involve the PI, but student EffLers.
 Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee  
 **preprint**  
 
-#####
 ---
 
 **Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**  
 Hyunjong Ok, Jegwang Ryu and Jaeho Lee  
 **preprint**  
 
-#####
 ---
 **Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**  
 Yuji Byun and Jaeho Lee  
 **preprint**  
 
-#####
 ---
 **Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**  
 Sungbin Shin, Wonpyo Park, Jaeho Lee, and Namhoon Lee  
 **preprint**  
 
-#####
 ---
 
 
