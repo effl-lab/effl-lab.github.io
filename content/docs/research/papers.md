@@ -53,7 +53,7 @@ Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim
     {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="100" height="100" >}}  
 </div>
 
-[**Hybrid Neural Represetntations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
+[**Hybrid Neural Representations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
 Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn  
 **ICML 2024**  
 
