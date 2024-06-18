@@ -18,23 +18,23 @@ Note: Some papers below does not involve the PI, but student EffLers.
 
 **Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**  
 Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee  
-**preprint**  
+preprint (arXiv forthcoming)  
 
 ---
 
 **Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**  
 Hyunjong Ok, Jegwang Ryu and Jaeho Lee  
-**preprint**  
+preprint (arXiv forthcoming)  
 
 ---
 **Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**  
 Yuji Byun and Jaeho Lee  
-**preprint**  
+preprint (arXiv forthcoming)  
 
 ---
 **Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**  
 Sungbin Shin, Wonpyo Park, Jaeho Lee, and Namhoon Lee  
-**preprint**  
+preprint (arXiv forthcoming)  
 
 ---
 
