@@ -16,9 +16,9 @@ Note: Some papers below does not involve the PI, but student EffLers.
 ### **2024**
 
 
-**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**  
+[**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**](https://arxiv.org/abs/2406.12016)  
 Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee  
-preprint (arXiv forthcoming)  
+arXiv preprint 2406.12016  
 
 ---
 
