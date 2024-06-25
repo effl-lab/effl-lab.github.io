@@ -32,9 +32,9 @@ Yuji Byun and Jaeho Lee
 preprint (arXiv forthcoming)  
 
 ---
-**Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**  
+[**Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**](https://arxiv.org/abs/2406.15524)  
 Sungbin Shin, Wonpyo Park, Jaeho Lee, and Namhoon Lee  
-preprint (arXiv forthcoming)  
+arXiv preprint 2406.15524  
 
 ---
 
