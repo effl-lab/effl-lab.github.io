@@ -27,9 +27,9 @@ Hyunjong Ok, Jegwang Ryu and Jaeho Lee
 preprint (arXiv forthcoming)  
 
 ---
-**Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**  
+[**Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**](https://arxiv.org/abs/2406.17477)  
 Yuji Byun and Jaeho Lee  
-preprint (arXiv forthcoming)  
+arXiv preprint 2406.17477  
 
 ---
 [**Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**](https://arxiv.org/abs/2406.15524)  
