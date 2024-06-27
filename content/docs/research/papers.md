@@ -24,7 +24,7 @@ arXiv preprint 2406.12016
 
 [**Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**](https://arxiv.org/abs/2406.18002)  
 Hyunjong Ok, Jegwang Ryu and Jaeho Lee  
-preprint (arXiv forthcoming)  
+arXiv preprint 2406.18002  
 
 ---
 [**Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**](https://arxiv.org/abs/2406.17477)  
