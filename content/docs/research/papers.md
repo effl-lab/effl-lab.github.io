@@ -15,6 +15,11 @@ Note: Some papers below does not involve the PI, but student EffLers.
 
 ### **2024**
 
+[**The Role of Masking for Efficient Supervised Knowledge Distillation of Vision Transformers**](https://arxiv.org/abs/2302.10494)  
+Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee  
+**ECCV 2024** (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 `Oral` `🥉`)  
+
+---
 
 [**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**](https://arxiv.org/abs/2406.12016)  
 Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee  
@@ -140,10 +145,6 @@ Jonathan R. Schwarz, Jihoon Tack, Yee Whye Teh, Jaeho Lee, and Jinwoo Shin
 [**On the Effectiveness of Sharpness-aware Minimization with Large Mini-batches**](https://icml.cc/virtual/2023/25899)  
 Jinseok Chung, Seonghwan Park, Jaeho Lee, and Namhoon Lee  
 **ICML 2023 Workshop**: High-Dimensional Learning Dynamics
-
-[**MaskedKD: Efficient Distillation of Vision Transformers with Masked Images**](https://arxiv.org/abs/2302.10494)  
-Seungwoo Son, Namhoon Lee, and Jaeho Lee  
-**ICLR 2023 Workshop**: Sparsity in Neural Networks (IPIU 2023 `Oral` `🥉`)
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2023/prefix-tuning.png" alt="." width="100" height="100" >}}  
