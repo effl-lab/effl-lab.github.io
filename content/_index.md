@@ -21,6 +21,7 @@ We develop theories, algorithms, and systems to make ML more efficient.
 
 ### **News**
 
+- (Jul 2024) One paper accepted at ECCV 2024 🇮🇹
 - (Jun 2024) Seungwoo and Hagyeong defended their M.S. theses 🛡️
 - (May 2024) Two papers accepeted at ICML 2024 🇦🇹
 - (Mar 2024) One paper accepted at NAACL 2024 🇲🇽
