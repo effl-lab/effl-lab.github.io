@@ -16,7 +16,6 @@ weight: 3
 
 `Efficient ML in the Wild 🐊`  
 M.S. @ POSTECH EE (22.03--24.02)  
-Ex-Office Team Lead @ EffL  
 **Keywords:** Model Merging, Federated Learning, Knowledge Distillation  
 [webpage](/docs/people/member/jiwoon/), [mail](mailto:jwlee9702@postech.ac.kr)  
 
@@ -29,7 +28,6 @@ Ex-Office Team Lead @ EffL
 
 `Blazing-Fast Neural Field Generation 🔥`  
 M.S. @ POSTECH EE (22.03--24.02)  
-Ex-Infrastructure Team Lead @ EffL  
 **Keywords:** Neural Field, Training Efficiency, Implicit Bias of SGD  
 [webpage](/docs/people/member/junwon/), [mail](mailto:junwon.seo@postech.ac.kr)  
 

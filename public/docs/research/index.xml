@@ -26,12 +26,10 @@ Inference. We develop fast, low-resource methods to serve massive multimodal AI,
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
       <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
-Note: Some papers below does not involve the PI.
-2024 # Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity
-Hagyeong Lee1st, Minkyu Kim1st, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee
-ICML 2024
-# Hybrid Neural Represetntations for Spherical Data
-Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn</description>
+2024 # The Role of Masking for Efficient Supervised Knowledge Distillation of Vision Transformers
+Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee
+ECCV 2024 (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 Oral 🥉)
+Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity</description>
     </item>
     
     <item>

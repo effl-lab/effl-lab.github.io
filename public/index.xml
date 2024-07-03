@@ -46,9 +46,9 @@ Inference. We develop fast, low-resource methods to serve massive multimodal AI,
       <guid>https://effl.postech.ac.kr/docs/How-to-Join/graduate/</guid>
       <description>Please email Jaeho with your
 Transcript (with rank) CV/Résumé A short statement of your research interests We will have a short coffee chat to discuss the next steps.
-Here are some notes by Jaeho.
 Advising Statement # As an advisor, I am commited to these principles:
-keep the group handleable-sized, have individual weekly meetings (30&amp;ndash;60mins at least), be maximally supportive to the career decisions of the students, and keep non-academic burdens minimal.</description>
+keep the group handleable-sized, have individual weekly meetings (30&amp;ndash;60mins at least), be maximally supportive to your career decisions, and keep non-academic burdens minimal. I expect EffLers to
+patiently lead their own research agenda, maintain the highest level of academic honesty and intellectual humility, gain top-notch expertise in their own area, and willingly share their knowledge with fellow EffLers.</description>
     </item>
     
     <item>
@@ -88,7 +88,7 @@ Speculative Decoding
 Jegwang Ryu (Summer &amp;lsquo;23 &amp;ndash;&amp;gt; Samsung &amp;ndash;&amp;gt; Winter &amp;lsquo;23&amp;ndash;)
 Accelerated Training by Masking
 Seunghyun Kim (Spring &amp;lsquo;24&amp;ndash;)
-Lifelong training of Foundation Models
+Efficient RAG LLM
 Wonjun Cho (Spring &amp;lsquo;24&amp;ndash;)
 Model Compression
 Subeom Heo (Spring &amp;lsquo;24&amp;ndash;)
@@ -115,12 +115,10 @@ Educational background, e.g., the courses you took. Research interests and exper
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
       <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
-Note: Some papers below does not involve the PI.
-2024 # Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity
-Hagyeong Lee1st, Minkyu Kim1st, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee
-ICML 2024
-# Hybrid Neural Represetntations for Spherical Data
-Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn</description>
+2024 # The Role of Masking for Efficient Supervised Knowledge Distillation of Vision Transformers
+Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee
+ECCV 2024 (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 Oral 🥉)
+Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity</description>
     </item>
     
     <item>
@@ -131,15 +129,15 @@ Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn</description>
       <guid>https://effl.postech.ac.kr/docs/people/past/</guid>
       <description>Past Graduate Students # Jiwoon Lee # Efficient ML in the Wild 🐊
 M.S. @ POSTECH EE (22.03&amp;ndash;24.02)
-Ex-Office Team Lead @ EffL
 Keywords: Model Merging, Federated Learning, Knowledge Distillation
 webpage, mail
 Junwon Seo # Blazing-Fast Neural Field Generation 🔥
 M.S. @ POSTECH EE (22.03&amp;ndash;24.02)
-Ex-Infrastructure Team Lead @ EffL
 Keywords: Neural Field, Training Efficiency, Implicit Bias of SGD
 webpage, mail
-# Past Interns # Jeonghyun Choi (Winter &amp;lsquo;23)</description>
+# Past Interns # Jeonghyun Choi (Winter &amp;lsquo;23)
+Properties of Data Augmentation
+Minjae Park (Winter &amp;lsquo;23; now at EffL)</description>
     </item>
     
     <item>

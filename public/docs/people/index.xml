@@ -63,7 +63,7 @@ Speculative Decoding
 Jegwang Ryu (Summer &amp;lsquo;23 &amp;ndash;&amp;gt; Samsung &amp;ndash;&amp;gt; Winter &amp;lsquo;23&amp;ndash;)
 Accelerated Training by Masking
 Seunghyun Kim (Spring &amp;lsquo;24&amp;ndash;)
-Lifelong training of Foundation Models
+Efficient RAG LLM
 Wonjun Cho (Spring &amp;lsquo;24&amp;ndash;)
 Model Compression
 Subeom Heo (Spring &amp;lsquo;24&amp;ndash;)
@@ -78,15 +78,15 @@ Accelerating Video Diffusion Models</description>
       <guid>https://effl.postech.ac.kr/docs/people/past/</guid>
       <description>Past Graduate Students # Jiwoon Lee # Efficient ML in the Wild 🐊
 M.S. @ POSTECH EE (22.03&amp;ndash;24.02)
-Ex-Office Team Lead @ EffL
 Keywords: Model Merging, Federated Learning, Knowledge Distillation
 webpage, mail
 Junwon Seo # Blazing-Fast Neural Field Generation 🔥
 M.S. @ POSTECH EE (22.03&amp;ndash;24.02)
-Ex-Infrastructure Team Lead @ EffL
 Keywords: Neural Field, Training Efficiency, Implicit Bias of SGD
 webpage, mail
-# Past Interns # Jeonghyun Choi (Winter &amp;lsquo;23)</description>
+# Past Interns # Jeonghyun Choi (Winter &amp;lsquo;23)
+Properties of Data Augmentation
+Minjae Park (Winter &amp;lsquo;23; now at EffL)</description>
     </item>
     
     <item>
