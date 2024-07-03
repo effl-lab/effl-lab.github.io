@@ -17,6 +17,7 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee  
 **ECCV 2024** (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 `Oral` `🥉`)  
 
+
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/TACO.png" alt="." width="100" height="100" >}}  
 </div>
@@ -33,8 +34,8 @@ Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim
 [**Hybrid Neural Representations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
 Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn  
 **ICML 2024**  
-#####
----
+
+
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/dt4neural-field.png" alt="." width="100" height="100" >}}  
 </div>
@@ -43,8 +44,8 @@ Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn
 Junwon Seo<sup>1st</sup>, Sangyoon Lee<sup>1st</sup>, Kwang In Kim, and Jaeho Lee  
 **CVPR 2024** `Oral (top 0.78%)` (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
 [[code](https://github.com/effl-lab/DT4Neural-Field)] [[demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)]
-#####
----
+
+
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/visual_biases.png" alt="." width="100" height="100" >}}  
 </div>
@@ -53,26 +54,26 @@ Junwon Seo<sup>1st</sup>, Sangyoon Lee<sup>1st</sup>, Kwang In Kim, and Jaeho Le
 Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
 **CVPR 2024** `Highlight (top 2.8%)` (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)  
 [[code](https://github.com/alinlab/b2t)]  
-#####
----
+
+
 <div style="float: left; margin-right: 20px; margin-bottom: 15px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/scanner.png" alt="." width="100" height="100" >}}  
 </div>
 
 [**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**](https://arxiv.org/abs/2404.01914)  
 Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee  
-**NAACL 2024**
-#####
----
+**NAACL 2024**  
+
+
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/fewshot_unlearning.png" alt="." width="100" height="100" >}}  
 </div>
 
 [**Few-shot Unlearning**](https://arxiv.org/abs/2205.15567)  
 Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok  
-**IEEE S&P 2024**
-#####
----
+**IEEE S&P 2024**  
+
+
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/semantic_communication.png" alt="." width="100" height="100" >}}  
 </div>
@@ -80,23 +81,23 @@ Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul O
 [**Attention-aware Semantic Communications for Collaborative Inference**](https://arxiv.org/abs/2404.07217)  
 Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
 Accepted for publication at **IEEE IoT Journal** (also at IEEE Communication Theory Workshop 2024)  
-#####
+
 
 [**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**](https://arxiv.org/abs/2406.12016)  
 Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee  
-arXiv preprint 2406.12016  
+arXiv 2406.12016  
 
 [**Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**](https://arxiv.org/abs/2406.18002)  
 Hyunjong Ok, Jegwang Ryu and Jaeho Lee  
-arXiv preprint 2406.18002  
+arXiv 2406.18002  
 
 [**Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**](https://arxiv.org/abs/2406.17477)  
 Yuji Byun and Jaeho Lee  
-arXiv preprint 2406.17477  
+arXiv 2406.17477  
 
 [**Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**](https://arxiv.org/abs/2406.15524)  
 Sungbin Shin, Wonpyo Park, Jaeho Lee, and Namhoon Lee  
-arXiv preprint 2406.15524  
+arXiv 2406.15524  
 
 ### **2023**
 [**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  
