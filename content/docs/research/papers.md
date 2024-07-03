@@ -19,69 +19,69 @@ Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee
 
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/TACO.png" alt="." width="100" height="100" >}}  
+    {{< figure src="/images/papers/2024/TACO.png" alt="." width="90" height="90" >}}  
 </div>
 
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
 Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, and Jaeho Lee  
 **ICML 2024**  
-#####
+
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="100" height="100" >}}  
+    {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="90" height="90" >}}  
 </div>
 
 [**Hybrid Neural Representations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
 Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn  
 **ICML 2024**  
-#####
+
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/dt4neural-field.png" alt="." width="100" height="100" >}}  
+    {{< figure src="/images/papers/2024/dt4neural-field.png" alt="." width="90" height="90" >}}  
 </div>
 
 [**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
 Junwon Seo<sup>1st</sup>, Sangyoon Lee<sup>1st</sup>, Kwang In Kim, and Jaeho Lee  
 **CVPR 2024** `Oral (top 0.78%)` (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
 [[code](https://github.com/effl-lab/DT4Neural-Field)] [[demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)]
-#####
+
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/visual_biases.png" alt="." width="100" height="100" >}}  
+    {{< figure src="/images/papers/2024/visual_biases.png" alt="." width="90" height="90" >}}  
 </div>
 
 [**Discovering and Mitigating Visual Biases through Keyword Explanation**](https://arxiv.org/abs/2301.11104)  
 Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
 **CVPR 2024** `Highlight (top 2.8%)` (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)  
 [[code](https://github.com/alinlab/b2t)]  
-#####
+
 
 <div style="float: left; margin-right: 20px; margin-bottom: 15px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/scanner.png" alt="." width="100" height="100" >}}  
+    {{< figure src="/images/papers/2024/scanner.png" alt="." width="90" height="90" >}}  
 </div>
 
 [**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**](https://arxiv.org/abs/2404.01914)  
 Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee  
 **NAACL 2024**  
-#####
+
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/fewshot_unlearning.png" alt="." width="100" height="100" >}}  
+    {{< figure src="/images/papers/2024/fewshot_unlearning.png" alt="." width="90" height="90" >}}  
 </div>
 
 [**Few-shot Unlearning**](https://arxiv.org/abs/2205.15567)  
 Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul Ok  
 **IEEE S&P 2024**  
-#####
+
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2024/semantic_communication.png" alt="." width="100" height="100" >}}  
+    {{< figure src="/images/papers/2024/semantic_communication.png" alt="." width="90" height="90" >}}  
 </div>
 
 [**Attention-aware Semantic Communications for Collaborative Inference**](https://arxiv.org/abs/2404.07217)  
 Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
 Accepted for publication at **IEEE IoT Journal** (also at IEEE Communication Theory Workshop 2024)  
-#####
+
 
 [**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**](https://arxiv.org/abs/2406.12016)  
 Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee  
