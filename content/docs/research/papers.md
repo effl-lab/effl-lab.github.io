@@ -7,9 +7,7 @@ weight: 2
 
 
 We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.  
-Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
-
-Note: Some papers below does not involve the PI, but student EffLers.  
+Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.  
 
 ---
 
@@ -145,16 +143,6 @@ Jonathan R. Schwarz, Jihoon Tack, Yee Whye Teh, Jaeho Lee, and Jinwoo Shin
 [**On the Effectiveness of Sharpness-aware Minimization with Large Mini-batches**](https://icml.cc/virtual/2023/25899)  
 Jinseok Chung, Seonghwan Park, Jaeho Lee, and Namhoon Lee  
 **ICML 2023 Workshop**: High-Dimensional Learning Dynamics
-
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
-    {{< figure src="/images/papers/2023/prefix-tuning.png" alt="." width="100" height="100" >}}  
-</div>
-
-
-[**Prefix Tuning for Automated Audio Captioning**](https://arxiv.org/abs/2303.17489)  
-Minkyu Kim, Kim Sung-Bin, and Tae-Hyun Oh  
-**ICASSP 2023** `Oral`   
-[[project page](https://prefixaac.github.io/)] [[code](https://github.com/MinkyuKim26/Prefix_AAC_ICASSP2023)]
 
 #####
 
