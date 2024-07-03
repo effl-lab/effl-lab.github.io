@@ -123,36 +123,33 @@ Accepted for publication at **IEEE IoT Journal** (also at IEEE Communication The
 ---
 
 ### **2023**
-
-[**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://unireps.org)  
-Jiwoon Lee and Jaeho Lee  
-**NeurIPS 2023 Workshop**: Unifying Representations in Neural Models
-
 [**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  
 Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz  
 **NeurIPS 2023** (ICLR 2023 Workshop: Neural Fields across Fields)
-
-[**Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling**](https://openreview.net/forum?id=VV4zJwLwI7)  
-Junhyun Nam, Sangwoo Mo, Jaeho Lee, and Jinwoo Shin  
-**TMLR 2023** (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)
 
 [**Modality-Agnostic Variational Compression of Implicit Neural Representations**](https://openreview.net/forum?id=bBXCCSoVQZ)  
 Jonathan R. Schwarz, Jihoon Tack, Yee Whye Teh, Jaeho Lee, and Jinwoo Shin  
 **ICML 2023** (ICLR 2023 Workshop: Neural Fields across Fields)
 
+[**Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling**](https://openreview.net/forum?id=VV4zJwLwI7)  
+Junhyun Nam, Sangwoo Mo, Jaeho Lee, and Jinwoo Shin  
+**TMLR 2023** (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)
+
+[**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://unireps.org)  
+Jiwoon Lee and Jaeho Lee  
+**NeurIPS 2023 Workshop**: Unifying Representations in Neural Models
+
 [**On the Effectiveness of Sharpness-aware Minimization with Large Mini-batches**](https://icml.cc/virtual/2023/25899)  
 Jinseok Chung, Seonghwan Park, Jaeho Lee, and Namhoon Lee  
 **ICML 2023 Workshop**: High-Dimensional Learning Dynamics
 
-#####
-
 [**Communication-Efficient Split Learning via Adaptive Feature-wise Compression**](https://arxiv.org/abs/2307.10805)  
 Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
-Under Review
+arXiv 2307.10805
 
 [**Debiased Distillation by Transplanting the Last Layer**](https://arxiv.org/abs/2302.11187)  
 Jiwoon Lee and Jaeho Lee  
-arXiv preprint 2302.11187 (IPIU 2023)
+arXiv 2302.11187 (IPIU 2023)
 
 
 ### **2022**
@@ -172,7 +169,7 @@ Junhyun Nam, Jaehyung Kim, Jaeho Lee, and Jinwoo Shin
 
 [**Zero-shot Blind Image Denoising via Implicit Neural Representations**](https://arxiv.org/abs/2204.02405)  
 Chaewon Kim, Jaeho Lee, and Jinwoo Shin  
-arXiv preprint 2204.02405
+arXiv 2204.02405
 
 
 ### **2021**
