@@ -18,7 +18,7 @@ Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee
 **ECCV 2024** (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 `Oral` `🥉`)  
 
 
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 0px; margin-top: 0px;">
     {{< figure src="/images/papers/2024/TACO.png" alt="." width="90" height="90" >}}  
 </div>
 
@@ -27,7 +27,7 @@ Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim
 **ICML 2024**  
 
 
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 0px; margin-top: 0px;">
     {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="90" height="90" >}}  
 </div>
 
@@ -36,7 +36,7 @@ Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn
 **ICML 2024**  
 
 
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 0px; margin-top: 0px;">
     {{< figure src="/images/papers/2024/dt4neural-field.png" alt="." width="90" height="90" >}}  
 </div>
 
@@ -46,7 +46,7 @@ Junwon Seo<sup>1st</sup>, Sangyoon Lee<sup>1st</sup>, Kwang In Kim, and Jaeho Le
 [[code](https://github.com/effl-lab/DT4Neural-Field)] [[demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)]
 
 
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 0px; margin-top: 0px;">
     {{< figure src="/images/papers/2024/visual_biases.png" alt="." width="90" height="90" >}}  
 </div>
 
@@ -56,7 +56,7 @@ Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin
 [[code](https://github.com/alinlab/b2t)]  
 
 
-<div style="float: left; margin-right: 20px; margin-bottom: 15px; margin-top: 10px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 0px; margin-top: 0px;">
     {{< figure src="/images/papers/2024/scanner.png" alt="." width="90" height="90" >}}  
 </div>
 
@@ -65,7 +65,7 @@ Hyunjong Ok, Taeho Kil, Sukmin Seo, and Jaeho Lee
 **NAACL 2024**  
 
 
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 0px; margin-top: 0px;">
     {{< figure src="/images/papers/2024/fewshot_unlearning.png" alt="." width="90" height="90" >}}  
 </div>
 
@@ -74,7 +74,7 @@ Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul O
 **IEEE S&P 2024**  
 
 
-<div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
+<div style="float: left; margin-right: 20px; margin-bottom: 0px; margin-top: 0px;">
     {{< figure src="/images/papers/2024/semantic_communication.png" alt="." width="90" height="90" >}}  
 </div>
 
