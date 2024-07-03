@@ -28,7 +28,7 @@ Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim
 
 
 <div style="float: left; margin-right: 20px; margin-bottom: 0px; margin-top: 0px;">
-    {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="90" height="90" >}}  
+    {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="80" height="80" >}}  
 </div>
 
 [**Hybrid Neural Representations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
