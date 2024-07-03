@@ -17,7 +17,6 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee  
 **ECCV 2024** (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 `Oral` `🥉`)  
 
----
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/TACO.png" alt="." width="100" height="100" >}}  
 </div>
@@ -25,8 +24,8 @@ Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
 Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, and Jaeho Lee  
 **ICML 2024**  
-#####
----
+
+
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px;">
     {{< figure src="/images/papers/2024/hybrid_sh.png" alt="." width="100" height="100" >}}  
 </div>
