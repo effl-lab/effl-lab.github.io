@@ -6,6 +6,31 @@ weight: 3
 ---
 
 ### **Past Graduate Students**
+---
+### **Seungwoo Son**
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+    {{< figure src="/images/members/Seungwoo.jpg" alt="." width="100" height="100" >}}  
+</div>  
+
+`Compress Gigantic Transformers, but Efficiently 🤑`  
+M.S. @ POSTECH EE (22.03--24.06)  
+Student Intern @ Google  
+**Keywords:** Large Language Models, Model Compression  
+[webpage](https://seungwoo-s.github.io/), [mail](mailto:swson@postech.ac.kr)
+
+
+---
+
+### **Hagyeong Lee**
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+{{< figure src="/images/members/hagyeong0.jpg" alt="." width="100" height="100" >}}  
+</div>  
+
+`Data Compression, but for more than what we see 🔮`  
+M.S. @ POSTECH EE (22.09--24.06)  
+**Keywords:** Data Compression, Model Bias, Visual-Language Model  
+[webpage](https://hagyeonglee.github.io), [mail](mailto:hagyeonglee@postech.ac.kr), [twitter](https://twitter.com/ha_gyeong_lee)  
+#####
 
 ---
 
