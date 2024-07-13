@@ -5,6 +5,8 @@ bookToc: false
 weight: 1
 ---
 
+## Principal Investigator
+
 ### **Jaeho Lee**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;" >
     {{< figure src="/images/members/Jaeho.jpg" alt="." width="100" height="100" >}}  
@@ -16,77 +18,9 @@ Principal Investigator @ [EffL](https://effl.postech.ac.kr) (22.03--)
 Visiting Researcher @ [Google](https://research.google) (23.09--)  
 [webpage](https://jaeho-lee.github.io), [mail](mailto:jaeho.lee@postech.ac.kr), [twitter](https://twitter.com/jaeho_lee_) 
 
-### 
+###
 ---
-
-### **Seungwoo Son**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-    {{< figure src="/images/members/Seungwoo.jpg" alt="." width="100" height="100" >}}  
-</div>  
-
-`Compress Gigantic Transformers, but Efficiently 🤑`  
-Graduate Student @ POSTECH EE (22.03--)  
-Student Intern @ Google  
-**Keywords:** Large Language Models, Model Compression  
-[webpage](https://seungwoo-s.github.io/), [mail](mailto:swson@postech.ac.kr)
-
-
----
-
-### **Hagyeong Lee**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/hagyeong0.jpg" alt="." width="100" height="100" >}}  
-</div>  
-
-`Data Compression, but for more than what we see 🔮`  
-Graduate Student @ POSTECH EE (22.09--)  
-**Keywords:** Data Compression, Model Bias, Visual-Language Model  
-[webpage](https://hagyeonglee.github.io), [mail](mailto:hagyeonglee@postech.ac.kr), [twitter](https://twitter.com/ha_gyeong_lee)  
-#####
----
-
-### **Minkyu Kim**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Minkyu.jpg" alt="." width="100" height="100" >}}
-</div>   
-
-`Harnessing Language Models for Multimodal Tasks 🏞️🎙️`  
-Graduate Student @ POSTECH AI (23.03--)  
-Infrastructure Team Lead @ EffL   
-**Keywords:** Multimodal learning, Image processing, Audio captioning <br>
-[webpage](https://minguinho26.github.io/), [mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://velog.io/@minkyu4506/posts), [recent project](https://taco-nic.github.io), [twitter](https://x.com/minguinho_zeze)  
-
-
----
-
-### **Yu Ji Byun**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Yuji.jpg" alt="." width="100" height="100" >}} 
-</div>  
-
-
-`Completing High-Resolution Videos with Low Resources 📹`  
-Graduate Student @ POSTECH Defense Science (23.03--)  
-Captain @ ROKMC  
-**Keywords:** High-res Videos, Image Inpainting, Computer Vision  
-[mail](mailto:yujibyun@postech.ac.kr),  [webpage](/docs/people/member/yuji/)
-
----
-
-### **Juyun Wee**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Juyun.jpg" alt="." width="100" height="100" >}}  
-</div>  
-
-
-`Compressing Large Language Models 🍀`  
-Graduate Student @ POSTECH EE (23.09--)  
-Office Team Lead @ EffL  
-**Keywords:** LLM Compression, Model Pruning, Model Efficiency  
-[webpage](/docs/people/member/juyun/), [mail](mailto:jywee@postech.ac.kr)  
-
-#####
----
+## Ph.D. track
 
 ### **Minjae Park**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
@@ -95,12 +29,57 @@ Office Team Lead @ EffL
 
 
 `Accelerating Large-Scale Models for Videos 🎥`  
-Graduate Student @ POSTECH EE (24.02--)  
+M.S.+Ph.D. @ POSTECH EE (24.02--)  
 **Keywords:** State-Space Models, Model Compression  
 [webpage](/docs/people/member/minjae/), [mail](mailto:minjae0047@postech.ac.kr)
 
-######
+#####
+
+### **Taesun Yeom**  
+M.S.+Ph.D. @ POSTECH AI (24.09--)  
+(More information soon)
+
 ---
+## M.S. track
+
+
+### **Minkyu Kim**
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+{{< figure src="/images/members/Minkyu.jpg" alt="." width="100" height="100" >}}
+</div>   
+
+`Harnessing Language Models for Multimodal Tasks 🏞️🎙️`  
+POSTECH AI (23.03--)  
+**Keywords:** Multimodal learning, Image processing, Audio captioning <br>
+[webpage](https://minguinho26.github.io/), [mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://velog.io/@minkyu4506/posts), [recent project](https://taco-nic.github.io), [twitter](https://x.com/minguinho_zeze)  
+
+
+### **Yu Ji Byun**
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+{{< figure src="/images/members/Yuji.jpg" alt="." width="100" height="100" >}} 
+</div>  
+
+
+`Completing High-Resolution Videos with Low Resources 📹`  
+POSTECH Defense Science (23.03--)  
+Captain @ ROKMC  
+**Keywords:** High-res Videos, Image Inpainting, Computer Vision  
+[mail](mailto:yujibyun@postech.ac.kr),  [webpage](/docs/people/member/yuji/)
+
+
+### **Juyun Wee**
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+{{< figure src="/images/members/Juyun.jpg" alt="." width="100" height="100" >}}  
+</div>  
+
+
+`Compressing Large Language Models 🍀`  
+POSTECH EE (23.09--)  
+Office Team Lead @ EffL  
+**Keywords:** LLM Compression, Model Pruning, Model Efficiency  
+[webpage](/docs/people/member/juyun/), [mail](mailto:jywee@postech.ac.kr)  
+
+#####
 
 ### **Sangyoon Lee**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
@@ -109,12 +88,11 @@ Graduate Student @ POSTECH EE (24.02--)
 
 
 `Hyperefficient Neural Fields ⚡️`  
-Graduate Student @ POSTECH AI (24.02--)  
+POSTECH AI (24.02--)  
 **Keywords:** Fast Neural Fields, Editable Neural Fields, Neural Compression  
 [webpage](/docs/people/member/sangyoon/), [mail](mailto:sangyoon.lee@postech.ac.kr)
 
 #####
----
 
 ### **Jiyun Bae**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
@@ -123,12 +101,11 @@ Graduate Student @ POSTECH AI (24.02--)
  
 
 `Data-dependent Visual Prompts 🕶️`  
-Graduate Student @ POSTECH AI (24.02--)  
+POSTECH AI (24.02--)  
 Academic Team Lead @ EffL  
 **Keywords:** Visual Prompts, Black-box models, LLMs, Fairness  
 [webpage](/docs/people/member/jiyunbae/), [mail](mailto:jiyun.bae@postech.ac.kr)
 ######
----
 
 ### **Hyunjong Ok**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
@@ -137,12 +114,23 @@ Academic Team Lead @ EffL
 
 
 `Advancing Audio Technologies for Multimodal Intelligence 🔈`  
-Graduate Student @ POSTECH AI (24.02--)  
+POSTECH AI (24.02--)  
 **Keywords:** Efficient LLM, Multi-modal learning, Audio Technologies  
 [webpage](/docs/people/member/hyunjong/), [mail](mailto:minjae0047@postech.ac.kr)
 
 ##
+
+### **Jegwang Ryu**
+POSTECH EE (24.09--)  
+(More information soon)
+
+### **Seunghyun Kim**
+POSTECH EE (24.09--)  
+(More information soon)
+
 ---
+## Staff
+
 ### **Seung-Ah Song**
 Administrative Staff @ EffL (22.03--)  
 [mail](mailto:tmddk@postech.ac.kr)
