@@ -13,11 +13,9 @@ weight: 3
 </div>  
 
 `Compress Gigantic Transformers, but Efficiently 🤑`  
-M.S. @ POSTECH EE (22.03--24.06)  
-Student Intern @ Google  
-**Keywords:** Large Language Models, Model Compression  
-[webpage](https://seungwoo-s.github.io/), [mail](mailto:swson@postech.ac.kr)
-
+M.S. @ POSTECH EE (22.03--24.06)    
+**Keywords:** Model Compression  
+[webpage](https://openreview.net/profile?id=~Seungwoo_Son1), [mail](mailto:swson32@gmail.com)
 
 ---
 
