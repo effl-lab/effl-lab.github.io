@@ -52,7 +52,7 @@ Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul O
 
 [**Attention-aware Semantic Communications for Collaborative Inference**](https://arxiv.org/abs/2404.07217)  
 Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
-Accepted for publication at **IEEE IoT Journal** (also at IEEE Communication Theory Workshop 2024)  
+**IEEE IoT Journal** (also at IEEE Communication Theory Workshop 2024)  
 
 
 [**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**](https://arxiv.org/abs/2406.12016)  
