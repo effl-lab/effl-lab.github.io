@@ -9,13 +9,13 @@ weight: 3
 ---
 ### **Seungwoo Son**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-    {{< figure src="/images/members/Seungwoo.jpg" alt="." width="100" height="100" >}}  
+    {{< figure src="/images/members/Seungwoo.jpg" alt="." width="90" height="90" >}}  
 </div>  
 
 `Compress Gigantic Transformers, but Efficiently 🤑`  
 M.S. @ POSTECH EE (22.03--24.06)    
 **Keywords:** Model Compression  
-[webpage](https://openreview.net/profile?id=~Seungwoo_Son1), [mail](mailto:swson32@gmail.com)
+[webpage](www.linkedin.com/in/seungwoo-son-057511323), [mail](mailto:swson32@gmail.com)
 
 ---
 
