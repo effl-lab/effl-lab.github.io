@@ -21,7 +21,7 @@ M.S. @ POSTECH EE (22.03--24.06)
 
 ### **Hagyeong Lee**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/hagyeong0.jpg" alt="." width="90" height="90" >}}  
+{{< figure src="/images/members/hagyeong0.jpg" alt="." width="80" height="80" >}}  
 </div>  
 
 `Data Compression, but for more than what we see 🔮`  
@@ -34,7 +34,7 @@ M.S. @ POSTECH EE (22.09--24.06)
 
 ### **Jiwoon Lee**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Jiwoon.jpg" alt="." width="90" height="90" >}}  
+{{< figure src="/images/members/Jiwoon.jpg" alt="." width="80" height="80" >}}  
 </div>  
 
 `Efficient ML in the Wild 🐊`  
@@ -46,7 +46,7 @@ M.S. @ POSTECH EE (22.03--24.02)
 
 ### **Junwon Seo**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Junwon1.jpg" alt="." width="90" height="90" >}}  
+{{< figure src="/images/members/Junwon1.jpg" alt="." width="80" height="80" >}}  
 </div>  
 
 `Blazing-Fast Neural Field Generation 🔥`  
