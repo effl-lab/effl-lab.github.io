@@ -15,7 +15,7 @@ weight: 3
 `Compress Gigantic Transformers, but Efficiently 🤑`  
 M.S. @ POSTECH EE (22.03--24.06)    
 **Keywords:** Model Compression  
-[webpage](www.linkedin.com/in/seungwoo-son-057511323), [mail](mailto:swson32@gmail.com)
+[webpage](https://www.linkedin.com/in/seungwoo-son-057511323), [mail](mailto:swson32@gmail.com)
 
 ---
 
