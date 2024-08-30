@@ -6,7 +6,6 @@ weight: 3
 ---
 
 ### **Past Graduate Students**
-
 ---
 
 ### **Seungwoo Son**
