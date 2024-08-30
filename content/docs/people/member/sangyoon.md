@@ -39,7 +39,7 @@ Pohang University of Science and Technology (POSTECH) <br>
 ---
 [**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
 Junwon Seo*, **Sangyoon Lee***, Kwang In Kim, and Jaeho Lee  
-**CVPR 2024** (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
+**CVPR 2024** `Oral (top 0.78%)` (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
 
 <br>
 
