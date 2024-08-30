@@ -28,7 +28,7 @@ M.S. @ POSTECH EE (22.03--24.06)
 M.S. @ POSTECH EE (22.09--24.06)  
 **Keywords:** Data Compression, Model Bias, Visual-Language Model  
 [webpage](https://hagyeonglee.github.io), [mail](mailto:hagyeonglee@postech.ac.kr), [twitter](https://twitter.com/ha_gyeong_lee)  
-#####
+
 
 ---
 
