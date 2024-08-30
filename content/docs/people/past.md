@@ -7,6 +7,7 @@ weight: 3
 
 ### **Past Graduate Students**
 ---
+
 ### **Seungwoo Son**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
     {{< figure src="/images/members/Seungwoo.jpg" alt="." width="100" height="100" >}}  
