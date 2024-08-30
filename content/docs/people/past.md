@@ -44,6 +44,7 @@ M.S. @ POSTECH EE (22.03--24.02)
 **Keywords:** Model Merging, Federated Learning, Knowledge Distillation  
 [webpage](/docs/people/member/jiwoon/), [mail](mailto:jwlee9702@postech.ac.kr)  
 
+####
 ---
 
 ### **Junwon Seo**
