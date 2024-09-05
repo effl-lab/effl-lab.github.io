@@ -15,7 +15,7 @@ weight: 3
 
 M.S. @ POSTECH EE (22.03--24.08): "The role of masking for efficient supervised knowledge distillation of vision transformers"  
 **Expertise.** Model compression of large transformers, using quantization and distillation  
-**Next step.** Samsung Research
+**Next step.** Samsung Research  
 [linkedin](https://www.linkedin.com/in/seungwoo-son-057511323), [mail](mailto:swson32@gmail.com)
 
 ####
@@ -41,7 +41,7 @@ M.S. @ POSTECH EE (22.09--24.08): "Neural image compression with text-guided enc
 
 M.S. @ POSTECH EE (22.03--24.02): "Semi-ensemble: A simple approach to over-parameterized model interpolation"  
 **Expertise** Model Merging, federated Learning and knowledge distillation  
-**Next step.** FASOO
+**Next step.** FASOO  
 [mail](mailto:jwlee9702@postech.ac.kr)  
 
 ####
