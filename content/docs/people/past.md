@@ -13,10 +13,10 @@ weight: 3
     {{< figure src="/images/members/Seungwoo.jpg" alt="." width="100" height="100" >}}  
 </div>  
 
-`Compress Gigantic Transformers, but Efficiently 🤑`  
-M.S. @ POSTECH EE (22.03--24.06)    
-**Keywords:** Model Compression  
-[webpage](https://www.linkedin.com/in/seungwoo-son-057511323), [mail](mailto:swson32@gmail.com)
+M.S. @ POSTECH EE (22.03--24.08): "The role of masking for efficient supervised knowledge distillation of vision transformers"  
+**Expertise.** Model compression of large transformers, using quantization and distillation  
+**Next step.** Samsung Research
+[linkedin](https://www.linkedin.com/in/seungwoo-son-057511323), [mail](mailto:swson32@gmail.com)
 
 ####
 ---
@@ -26,9 +26,9 @@ M.S. @ POSTECH EE (22.03--24.06)
 {{< figure src="/images/members/hagyeong0.jpg" alt="." width="100" height="100" >}}  
 </div>  
 
-`Data Compression, but for more than what we see 🔮`  
-M.S. @ POSTECH EE (22.09--24.06)  
-**Keywords:** Data Compression, Model Bias, Visual-Language Model  
+M.S. @ POSTECH EE (22.09--24.08): "Neural image compression with text-guided encoding for both pixel-level and perceptual fidelity"  
+**Expertise.** Multimodal data compression  
+**Next step.** (TBD)
 [webpage](https://hagyeonglee.github.io), [mail](mailto:hagyeonglee@postech.ac.kr), [twitter](https://twitter.com/ha_gyeong_lee)  
 
 ####
@@ -39,10 +39,10 @@ M.S. @ POSTECH EE (22.09--24.06)
 {{< figure src="/images/members/Jiwoon.jpg" alt="." width="100" height="100" >}}  
 </div>  
 
-`Efficient ML in the Wild 🐊`  
-M.S. @ POSTECH EE (22.03--24.02)  
-**Keywords:** Model Merging, Federated Learning, Knowledge Distillation  
-[webpage](/docs/people/member/jiwoon/), [mail](mailto:jwlee9702@postech.ac.kr)  
+M.S. @ POSTECH EE (22.03--24.02): "Semi-ensemble: A simple approach to over-parameterized model interpolation"  
+**Expertise** Model Merging, federated Learning and knowledge distillation  
+**Next step.** FASOO
+[mail](mailto:jwlee9702@postech.ac.kr)  
 
 ####
 ---
@@ -52,10 +52,10 @@ M.S. @ POSTECH EE (22.03--24.02)
 {{< figure src="/images/members/Junwon1.jpg" alt="." width="100" height="100" >}}  
 </div>  
 
-`Blazing-Fast Neural Field Generation 🔥`  
-M.S. @ POSTECH EE (22.03--24.02)  
-**Keywords:** Neural Field, Training Efficiency, Implicit Bias of SGD  
-[webpage](/docs/people/member/junwon/), [mail](mailto:junwon.seo@postech.ac.kr)  
+M.S. @ POSTECH EE (22.03--24.02): "In search of a data transformation that accelerates neural field training"  
+**Expertise.** Fast training of neural fields  
+**Next step.** LivsMed (전문연구요원)  
+[mail](mailto:junwon.seo@postech.ac.kr)  
 
 ######
 ---
