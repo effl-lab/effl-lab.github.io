@@ -28,7 +28,7 @@ M.S. @ POSTECH EE (22.03--24.08): "The role of masking for efficient supervised 
 
 M.S. @ POSTECH EE (22.09--24.08): "Neural image compression with text-guided encoding for both pixel-level and perceptual fidelity"  
 **Expertise.** Multimodal data compression  
-**Next step.** (TBD)
+**Next step.** (TBD)  
 [webpage](https://hagyeonglee.github.io), [mail](mailto:hagyeonglee@postech.ac.kr), [twitter](https://twitter.com/ha_gyeong_lee)  
 
 ####
