@@ -38,7 +38,7 @@ M.S.+Ph.D. @ POSTECH EE (24.02--)
 {{< figure src="/images/members/taesun.jpeg" alt="." width="100" height="100" >}} 
 </div>
 
-`Understanding Training Dynamics of Neural Fields`
+`Understanding Training Dynamics of Neural Fields`  
 M.S.+Ph.D. @ POSTECH AI (24.09--)  
 **Keywords:** Neural Fields, Learning Dynamics
 
@@ -132,9 +132,10 @@ POSTECH EE (24.09--)
 ### **Seunghyun Kim**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/seunghyun.JPG" alt="." width="100" height="100" >}} 
-</div>
-`Low-Bit Training LLM`
-POSTECH EE (24.09--)
+</div>  
+    
+`Low-Bit Training LLM`  
+POSTECH EE (24.09--)  
 **Keywords:** LLM, Quantization  
 
 ####
