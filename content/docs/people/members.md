@@ -42,7 +42,7 @@ M.S.+Ph.D. @ POSTECH EE (24.02--)
 M.S.+Ph.D. @ POSTECH AI (24.09--)  
 **Keywords:** Neural Fields, Learning Dynamics
 
-#####
+###
 
 ---
 ## **M.S. track**
@@ -138,7 +138,7 @@ POSTECH EE (24.09--)
 POSTECH EE (24.09--)  
 **Keywords:** LLM, Quantization  
 
-#####
+###
 
 ---
 ## **Staff**
