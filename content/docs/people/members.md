@@ -130,8 +130,14 @@ POSTECH EE (24.09--)
 (More information soon)
 
 ### **Seunghyun Kim**
-POSTECH EE (24.09--)  
-(More information soon)
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+{{< figure src="/images/members/seunghyun.JPG" alt="." width="100" height="100" >}} 
+</div>
+`Low-Bit Training LLM`
+POSTECH EE (24.09--)
+**Keywords:** LLM, Quantization  
+
+####
 
 ---
 ## **Staff**
