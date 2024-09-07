@@ -100,7 +100,7 @@ POSTECH AI (24.02--)
 
 ### **Jiyun Bae**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Jiyun.jpg" alt="." width="100" height="100" >}} 
+{{< figure src="/images/members/jiyun2.jpg" alt="." width="100" height="100" >}} 
 </div>  
  
 
