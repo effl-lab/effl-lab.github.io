@@ -126,8 +126,13 @@ POSTECH AI (24.02--)
 ####
 
 ### **Jegwang Ryu**
+<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
+{{< figure src="/images/members/jegwang.JPG" alt="." width="100" height="100" >}} 
+</div>  
+
+`Weight Space Compressing`  
 POSTECH EE (24.09--)  
-(More information soon)
+**Keywords:** Efficient LLM, Masked Modeling  
 
 ### **Seunghyun Kim**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
