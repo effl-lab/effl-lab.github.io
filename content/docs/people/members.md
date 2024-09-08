@@ -127,7 +127,7 @@ POSTECH AI (24.02--)
 
 ### **Jegwang Ryu**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Jegwang.jpg" alt="." width="100" height="100" >}} 
+{{< figure src="/images/members/jegwang.jpg" alt="." width="100" height="100" >}} 
 </div>  
 
 `Weight Space Compressing`  
