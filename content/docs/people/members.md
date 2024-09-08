@@ -130,11 +130,9 @@ POSTECH AI (24.02--)
 {{< figure src="/images/members/Jegwang.jpg" alt="." width="100" height="100" >}} 
 </div>  
 
-
 `Weight Space Compressing`  
 POSTECH EE (24.09--)  
-**Keywords:** Efficient LLM, Accelerated Training  
-
+**Keywords:** Efficient LLM, Accelerated Training <br>
 
 ####
 
