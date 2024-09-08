@@ -132,10 +132,10 @@ POSTECH AI (24.02--)
 
 `Weight Space Compressing`  
 POSTECH EE (24.09--)  
-**Keywords:** Efficient LLM, Accelerated Training
+**Keywords:** Efficient LLM, Accelerated Training <br>
 [mail](mailto:jegwang.ryu@postech.ac.kr)
 
-####
+####  
 
 ### **Seunghyun Kim**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
