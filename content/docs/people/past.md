@@ -70,7 +70,7 @@ Quantizing Diffusion Model
 **Sangbeom Ha** (Summer '23--Spring '24)  
 Large-Scale Model Quantization  
 
-**Inkwan Hwang** (Fall '23--Summer '24)  
+**Inkwan Hwang** (Fall '23--Summer '24; now at 🫡)  
 Large-Scale Model Pruning  
 [webpage](https://inkwanhwang.github.io)
 
@@ -80,7 +80,7 @@ Training and Inference Efficiency for Neural Fields
 **Minhee Lee** (Winter '23)  
 Speculative Decoding
 
-**Jegwang Ryu** (Summer '23, Winter '23--Spring '24; Now at EffL)  
+**Jegwang Ryu** (Summer '23, Spring '24; Now at EffL)  
 Accelerated Training by Masking
 
 **Seunghyun Kim** (Spring '24; Now at EffL)  
@@ -98,13 +98,13 @@ Properties of Data Augmentation
 **Minjae Park** (Winter '23; now at EffL)  
 Faster State-Space Models
 
-**Minyoung Kang** (Fall '23--Winter '23)  
+**Minyoung Kang** (Fall--Winter '23)  
 Neural Cellular Automata  
 
 **Yousung Roh** (Fall '23--Winter '23)  
 Byte-Processing Neural Networks  
 
-**Jiyun Bae** (Summer '23--Fall '23; now at EffL)  
+**Jiyun Bae** (Summer--Fall '23; now at EffL)  
 Visual Prompt Tuning  
 
 **Sangyoon Lee** (Summaer--Fall '23; now at EffL)  
