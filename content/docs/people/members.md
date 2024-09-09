@@ -130,7 +130,7 @@ POSTECH AI (24.02--)
 {{< figure src="/images/members/jegwang.jpg" alt="." width="100" height="100" >}} 
 </div>  
 
-`Weight Space Compressing`  
+`Compression in the Neural Network Weight Space`  
 POSTECH EE (24.09--)  
 **Keywords:** Efficient LLM, Accelerated Training <br>
 [mail](mailto:jegwang.ryu@postech.ac.kr)
@@ -142,7 +142,7 @@ POSTECH EE (24.09--)
 {{< figure src="/images/members/seunghyun.JPG" alt="." width="100" height="100" >}} 
 </div>  
     
-`Low-Bit Training LLM`  
+`Low-precision Training of LLM`  
 POSTECH EE (24.09--)  
 **Keywords:** LLM, Quantization  
 
