@@ -25,9 +25,36 @@ Safety & Robustness on Vision Tasks
 **Hyeontae Jeong** (Fall '24--)  
 Efficient Learning of Language Models
 
-### **Waitlist (Summer '24--)**
+<!--
+**Sangbeom Ha** (Summer '23--)  
+Large-Scale Model Quantization  
+
+**Inkwan Hwang** (Fall '23--)  
+Large-Scale Model Pruning  
+[webpage](https://inkwanhwang.github.io)
+
+**Taesun Yeom** (Winter '23--)  
+Training and Inference Efficiency for Neural Fields
+
+**Minhee Lee** (Winter '23--)  
+Speculative Decoding
+
+**Jegwang Ryu** (Summer '23 -> Samsung -> Winter '23--)  
+Accelerated Training by Masking
+
+**Seunghyun Kim** (Spring '24--)  
+Efficient RAG LLM  
+
+**Wonjun Cho** (Spring '24--)  
+Model Compression
+
+**Subeom Heo** (Spring '24--)  
+Accelerating Video Diffusion Models
+-->
 
 <!--
+### **Waitlist (Winter '24--)**
+
 **Seoyun Jeong** (Summer '24--)  
 Language Modeling Basics  
 
