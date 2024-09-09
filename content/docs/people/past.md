@@ -61,6 +61,37 @@ M.S. @ POSTECH EE (22.03--24.02): "In search of a data transformation that accel
 ---
 
 ### **Past Interns**
+**Seoyun Jeong** (Summer '24)  
+Collaborative Decoding with Compressed Models 
+
+**Yewon Hwang** (Summer '24)  
+Quantizing Diffusion Model
+
+**Sangbeom Ha** (Summer '23--Spring '24)  
+Large-Scale Model Quantization  
+
+**Inkwan Hwang** (Fall '23--Summer '24)  
+Large-Scale Model Pruning  
+[webpage](https://inkwanhwang.github.io)
+
+**Taesun Yeom** (Winter '23--Spring '24; Now at EffL)  
+Training and Inference Efficiency for Neural Fields
+
+**Minhee Lee** (Winter '23)  
+Speculative Decoding
+
+**Jegwang Ryu** (Summer '23, Winter '23--Spring '24; Now at EffL)  
+Accelerated Training by Masking
+
+**Seunghyun Kim** (Spring '24; Now at EffL)  
+Efficient RAG LLM  
+
+**Wonjun Cho** (Spring '24)  
+Model Compression
+
+**Subeom Heo** (Spring--Summer '24)  
+Accelerating Video Diffusion Models
+
 **Jeonghyun Choi** (Winter '23)  
 Properties of Data Augmentation
 
@@ -78,9 +109,6 @@ Visual Prompt Tuning
 
 **Sangyoon Lee** (Summaer--Fall '23; now at EffL)  
 Fast Neural Field Generation  
-
-**Jegwang Ryu** (Summer '23; now at Samsung)  
-Test-time Training with Masked Modeling  
 
 **Dohyun Kim** (Summer '23; now at 🫡)  
 Zeroth Order Optimization  
