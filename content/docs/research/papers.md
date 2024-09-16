@@ -16,12 +16,13 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 [**The Role of Masking for Efficient Supervised Knowledge Distillation of Vision Transformers**](https://arxiv.org/abs/2302.10494)  
 Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee  
 **ECCV 2024** (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 `Oral` `🥉`)  
+[[project page](https://maskedkd.github.io/), [code](https://github.com/effl-lab/MaskedKD)]  
 
 
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
 Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, and Jaeho Lee  
 **ICML 2024**  
-
+[[project page](https://taco-nic.github.io/), [code](https://github.com/effl-lab/TACO)]  
 
 [**Hybrid Neural Representations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
 Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn  
@@ -70,6 +71,12 @@ arXiv 2406.17477
 [**Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**](https://arxiv.org/abs/2406.15524)  
 Sungbin Shin, Wonpyo Park, Jaeho Lee, and Namhoon Lee  
 arXiv 2406.15524  
+
+[**AudioBERT: Audio Knowledge Augmented Language Model**](https://arxiv.org/abs/2409.08199)  
+Hyunjong Ok, Suho Yoo, and Jaeho Lee  
+arXiv 2409.08199  
+[[code](https://github.com/HJ-Ok/AudioBERT), [dataset](https://github.com/HJ-Ok/AudioBERT/tree/main/dataset)]  
+
 
 ### **2023**
 [**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  
