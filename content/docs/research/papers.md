@@ -75,7 +75,7 @@ arXiv 2406.15524
 [**AudioBERT: Audio Knowledge Augmented Language Model**](https://arxiv.org/abs/2409.08199)  
 Hyunjong Ok, Suho Yoo, and Jaeho Lee  
 arXiv 2409.08199  
-[[code](https://github.com/HJ-Ok/AudioBERT), [dataset](https://github.com/HJ-Ok/AudioBERT/tree/main/dataset)]  
+[code](https://github.com/HJ-Ok/AudioBERT), [dataset](https://github.com/HJ-Ok/AudioBERT/tree/main/dataset)  
 
 
 ### **2023**
@@ -114,7 +114,7 @@ arXiv 2302.11187 (IPIU 2023)
 [**Scalable Neural Video Representations with Learnable Positional Features**](https://openreview.net/forum?id=OxfI-3i5M8g)  
 Subin Kim, Sihyun Yu, Jaeho Lee, and Jinwoo Shin  
 **NeurIPS 2022**   
-[[project page](https://subin-kim-cv.github.io/NVP/)]
+[project page](https://subin-kim-cv.github.io/NVP/)
 
 [**Meta-learning with Self-improving Momentum Targets**](https://openreview.net/forum?id=FCNMbF_TsKm)  
 Jihoon Tack, Jongjin Park, Hankook Lee, Jaeho Lee and Jinwoo Shin  
