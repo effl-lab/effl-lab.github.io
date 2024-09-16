@@ -16,13 +16,13 @@ Sometimes, we also submit to domain-specific venues that involve ML, e.g., Visio
 [**The Role of Masking for Efficient Supervised Knowledge Distillation of Vision Transformers**](https://arxiv.org/abs/2302.10494)  
 Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee  
 **ECCV 2024** (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 `Oral` `🥉`)  
-[[project page](https://maskedkd.github.io/), [code](https://github.com/effl-lab/MaskedKD)]  
+[project page](https://maskedkd.github.io/), [code](https://github.com/effl-lab/MaskedKD)  
 
 
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
 Hagyeong Lee<sup>1st</sup>, Minkyu Kim<sup>1st</sup>, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, and Jaeho Lee  
 **ICML 2024**  
-[[project page](https://taco-nic.github.io/), [code](https://github.com/effl-lab/TACO)]  
+[project page](https://taco-nic.github.io/), [code](https://github.com/effl-lab/TACO)  
 
 [**Hybrid Neural Representations for Spherical Data**](https://arxiv.org/abs/2402.05965)  
 Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn  
@@ -32,13 +32,13 @@ Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn
 [**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
 Junwon Seo<sup>1st</sup>, Sangyoon Lee<sup>1st</sup>, Kwang In Kim, and Jaeho Lee  
 **CVPR 2024** `Oral (top 0.78%)` (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
-[[code](https://github.com/effl-lab/DT4Neural-Field)] [[demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)]
+[code](https://github.com/effl-lab/DT4Neural-Field) [demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)
 
 
 [**Discovering and Mitigating Visual Biases through Keyword Explanation**](https://arxiv.org/abs/2301.11104)  
 Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
 **CVPR 2024** `Highlight (top 2.8%)` (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)  
-[[code](https://github.com/alinlab/b2t)]  
+[code](https://github.com/alinlab/b2t)  
 
 
 [**SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities**](https://arxiv.org/abs/2404.01914)  
@@ -81,7 +81,8 @@ arXiv 2409.08199
 ### **2023**
 [**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  
 Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz  
-**NeurIPS 2023** (ICLR 2023 Workshop: Neural Fields across Fields)
+**NeurIPS 2023** (ICLR 2023 Workshop: Neural Fields across Fields)  
+[code](https://github.com/jihoontack/GradNCP)  
 
 [**Modality-Agnostic Variational Compression of Implicit Neural Representations**](https://openreview.net/forum?id=bBXCCSoVQZ)  
 Jonathan R. Schwarz, Jihoon Tack, Yee Whye Teh, Jaeho Lee, and Jinwoo Shin  
