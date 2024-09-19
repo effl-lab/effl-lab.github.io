@@ -77,6 +77,11 @@ Hyunjong Ok, Suho Yoo, and Jaeho Lee
 arXiv 2409.08199  
 [code](https://github.com/HJ-Ok/AudioBERT), [dataset](https://github.com/HJ-Ok/AudioBERT/tree/main/dataset)  
 
+[**Constructing a Singing Style Captioning Dataset**](https://arxiv.org/abs/2409.09866)  
+Hyunjong Ok and Jaeho Lee  
+arXiv 2409.09866  
+[dataset](https://github.com/HJ-Ok/S2cap)
+
 
 ### **2023**
 [**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  
