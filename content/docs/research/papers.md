@@ -6,7 +6,7 @@ weight: 2
 ---
 
 
-We mainly target top-tier conferences in ML (NeurIPS/ICML/ICLR), CV (CVPR/ICCV/ECCV), NLP (ACL/EMNLP/NAACL), and speech (ICASSP/Interspeech).  
+We mainly target top-tier ML conferences, and other domain-specific venues that involve ML.  
 
 ---
 
