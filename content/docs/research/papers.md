@@ -6,12 +6,24 @@ weight: 2
 ---
 
 
-We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.  
+We mainly target top-tier conferences in ML (NeurIPS / ICML / ICLR), CV (CVPR/ICCV/ECCV), NLP (ACL/EMNLP/NAACL), and speech (ICASSP/Interspeech).  
 Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.  
 
 ---
 
 ### **2024**
+
+[**Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**](https://arxiv.org/abs/2406.18002)  
+Hyunjong Ok, Jegwang Ryu and Jaeho Lee  
+**EMNLP 2024**  
+
+[**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**](https://arxiv.org/abs/2406.12016)  
+Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee  
+**EMNLP 2024**  
+
+[**Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**](https://arxiv.org/abs/2406.15524)  
+Sungbin Shin, Wonpyo Park, Jaeho Lee, and Namhoon Lee  
+**EMNLP 2024** (Short)  
 
 [**The Role of Masking for Efficient Supervised Knowledge Distillation of Vision Transformers**](https://arxiv.org/abs/2302.10494)  
 Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee  
@@ -56,21 +68,9 @@ Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim
 **IEEE IoT Journal** (also at IEEE Communication Theory Workshop 2024)  
 
 
-[**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**](https://arxiv.org/abs/2406.12016)  
-Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee  
-arXiv 2406.12016  
-
-[**Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**](https://arxiv.org/abs/2406.18002)  
-Hyunjong Ok, Jegwang Ryu and Jaeho Lee  
-arXiv 2406.18002  
-
 [**Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**](https://arxiv.org/abs/2406.17477)  
 Yuji Byun and Jaeho Lee  
 arXiv 2406.17477  
-
-[**Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**](https://arxiv.org/abs/2406.15524)  
-Sungbin Shin, Wonpyo Park, Jaeho Lee, and Namhoon Lee  
-arXiv 2406.15524  
 
 [**AudioBERT: Audio Knowledge Augmented Language Model**](https://arxiv.org/abs/2409.08199)  
 Hyunjong Ok, Suho Yoo, and Jaeho Lee  
