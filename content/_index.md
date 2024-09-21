@@ -22,13 +22,8 @@ We develop theories, algorithms, and systems to make ML more efficient.
 ### **News**
 
 - (Sep 2024) Three papers accepted at EMNLP 2024 🇺🇸
+  - This year, EffL presented 9 papers top-tier AI conferences (2 CVPR, 2 ICML, 1 ECCV, 3 EMNLP). Luckily, none of the papers were rejected this year.
 - (Sep 2024) Received Gemma 2 Academic Program Credit Award from Google ($10,000) 💰
 - (Jul 2024) An undergrad intern (Inkwan) will be a Korean Presidential Science Fellow 💰
 - (Jul 2024) One paper accepted at ECCV 2024 🇮🇹
-- (Jun 2024) Seungwoo and Hagyeong defended their M.S. theses 🛡️
-- (May 2024) Two papers accepeted at ICML 2024 🇦🇹
-- (Mar 2024) One paper accepted at NAACL 2024 🇲🇽
-- (Mar 2024) One paper accepted at IEEE S&P 2024
-- (Feb 2024) Two papers accepted at CVPR 2024 🇺🇸 (1 oral, 1 highlight) 
-- (Feb 2024) Junwon and Jiwoon earned their M.S. degrees 🎓  
 	[more](/olds/)
