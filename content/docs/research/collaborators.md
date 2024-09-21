@@ -7,7 +7,7 @@ weight: 3
 
 Our recent industry collaborators include:
 - [Samsung Advanced Institute of Technology](https://www.sait.samsung.co.kr/): ICML 2024, TMLR 2023
-- [Google](https://research.google/): As a visiting faculty researcher, and as a student intern
+- [Google](https://research.google/): EMNLP 2024; as a visiting faculty researcher, and as a student intern
 - [DeepMind](https://deepmind.google/): ICML 2023
 - [NAVER](https://navercorp.com/): NAACL 2024
 - [Krafton](https://www.krafton.com/): CVPR 2024
