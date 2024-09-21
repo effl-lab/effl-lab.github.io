@@ -27,4 +27,5 @@ We develop theories, algorithms, and systems to make ML more efficient.
 - (Sep 2024) Received Gemma 2 Academic Program Credit Award from Google ($10,000) 💰
 - (Jul 2024) An undergrad intern (Inkwan) will be a Korean Presidential Science Fellow 💰
 - (Jul 2024) One paper accepted at ECCV 2024 🇮🇹
-	[more](/olds/)
+
+ [more](/olds/)
