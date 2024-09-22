@@ -40,7 +40,8 @@ M.S.+Ph.D. @ POSTECH EE (24.02--)
 
 `Understanding Training Dynamics of Neural Fields`  
 M.S.+Ph.D. @ POSTECH AI (24.09--)  
-**Keywords:** Neural Fields, Learning Dynamics
+**Keywords:** Neural Fields, Learning Dynamics  
+[Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ)
 
 ###
 
@@ -133,7 +134,7 @@ POSTECH AI (24.02--)
 `Compression in the Neural Network Weight Space`  
 POSTECH EE (24.09--)  
 **Keywords:** Efficient LLM, Accelerated Training <br>
-[mail](mailto:jegwang.ryu@postech.ac.kr)
+[mail](mailto:jegwang.ryu@postech.ac.kr) [Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=QLsG1YMAAAAJ)
 
 ####  
 
