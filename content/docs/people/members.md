@@ -122,7 +122,7 @@ Academic Team Lead @ EffL
 `Advancing Audio Technologies for Multimodal Intelligence 🔈`  
 POSTECH AI (24.02--)  
 **Keywords:** Efficient LLM, Multi-modal learning, Audio Technologies  
-[webpage](/docs/people/member/hyunjong/), [mail](mailto:minjae0047@postech.ac.kr)
+[webpage](https://hj-ok.github.io/), [mail](mailto:minjae0047@postech.ac.kr)
 
 ####
 
@@ -134,7 +134,7 @@ POSTECH AI (24.02--)
 `Compression in the Neural Network Weight Space`  
 POSTECH EE (24.09--)  
 **Keywords:** Efficient LLM, Accelerated Training <br>
-[mail](mailto:jegwang.ryu@postech.ac.kr) [Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=QLsG1YMAAAAJ)
+[Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=QLsG1YMAAAAJ), [mail](mailto:jegwang.ryu@postech.ac.kr)
 
 ####  
 
