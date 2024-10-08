@@ -81,6 +81,10 @@ Hyunjong Ok and Jaeho Lee
 arXiv 2409.09866  
 [dataset](https://github.com/HJ-Ok/S2cap)
 
+[**Fast Training of Sinusoidal Neural Fields via Scaling Initialization**](https://arxiv.org/abs/2410.04779)
+Taesun Yeom, Sangyoon Lee, and Jaeho Lee  
+arXiv 2410.04779  
+
 
 ### **2023**
 [**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  
