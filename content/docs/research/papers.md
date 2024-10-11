@@ -69,7 +69,7 @@ Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim
 
 [**Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**](https://arxiv.org/abs/2406.17477)  
 Yuji Byun and Jaeho Lee  
-arXiv 2406.17477  
+**NeurIPS 2024 Workshop**: Adaptive Foundation Models  
 
 [**AudioBERT: Audio Knowledge Augmented Language Model**](https://arxiv.org/abs/2409.08199)  
 Hyunjong Ok, Suho Yoo, and Jaeho Lee  
