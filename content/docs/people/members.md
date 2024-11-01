@@ -33,11 +33,12 @@ M.S.+Ph.D. @ POSTECH EE (24.02--)
 
 ####
 
-### **Taesun Yeom**
+
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/taesun.jpeg" alt="." width="100" height="100" >}} 
 </div>
 
+### **Taesun Yeom**
 `Understanding Training Dynamics of Neural Fields`  
 M.S.+Ph.D. @ POSTECH AI (24.09--)  
 **Keywords:** Neural Fields, Learning Dynamics  
