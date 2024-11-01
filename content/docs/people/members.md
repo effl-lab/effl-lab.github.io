@@ -23,7 +23,7 @@ Visiting Researcher @ [Google](https://research.google) (23.09--)
 
 ###
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/minjae.png" alt="." height="120" >}} 
+{{< figure src="/images/members/minjae.png" alt="." height="80" >}} 
 </div>  
 
 #### **Minjae Park**
@@ -34,7 +34,7 @@ M.S.+Ph.D. @ POSTECH EE (24.02--)
 
 ###
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/taesun.jpeg" alt="." height="120" >}} 
+{{< figure src="/images/members/taesun.jpeg" alt="." height="80" >}} 
 </div>
 
 #### **Taesun Yeom**
