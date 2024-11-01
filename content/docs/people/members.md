@@ -21,19 +21,18 @@ Visiting Researcher @ [Google](https://research.google) (23.09--)
 ---
 ## **Ph.D. track**
 
-### 
+### **Minjae Park**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/minjae.png" alt="." width="100" height="100" >}} 
 </div>  
 
-**Minjae Park**
 `Accelerating Large-Scale Models for Videos 🎥`  
 M.S.+Ph.D. @ POSTECH EE (24.02--)  
 **Keywords:** State-Space Models, Model Compression  
 [webpage](/docs/people/member/minjae/), [mail](mailto:minjae0047@postech.ac.kr)
 
 ####
-
+<!--
 ### **Taesun Yeom**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/taesun.jpeg" alt="." width="100" height="100" >}} 
@@ -43,6 +42,20 @@ M.S.+Ph.D. @ POSTECH EE (24.02--)
 M.S.+Ph.D. @ POSTECH AI (24.09--)  
 **Keywords:** Neural Fields, Learning Dynamics  
 [Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ)
+-->
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="margin-right: 20px;">
+        {{< figure src="/images/members/taesun.jpeg" alt="Taesun Yeom" width="100" height="100" >}}
+    </div>
+    <div>
+        ### Taesun Yeom
+        `Understanding Training Dynamics of Neural Fields`  
+        M.S.+Ph.D. @ POSTECH AI (24.09--)  
+        **Keywords:** Neural Fields, Learning Dynamics  
+        [Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ)
+    </div>
+</div>
 
 ###
 
