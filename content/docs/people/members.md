@@ -21,22 +21,23 @@ Visiting Researcher @ [Google](https://research.google) (23.09--)
 ---
 ## **Ph.D. track**
 
+###
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/minjae.png" alt="." height="120" >}} 
 </div>  
 
-### **Minjae Park**
+#### **Minjae Park**
 `Accelerating Large-Scale Models for Videos 🎥`  
 M.S.+Ph.D. @ POSTECH EE (24.02--)  
 **Keywords:** State-Space Models, Model Compression  
 [webpage](/docs/people/member/minjae/), [mail](mailto:minjae0047@postech.ac.kr)
 
-####
+###
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/taesun.jpeg" alt="." height="120" >}} 
 </div>
 
-### **Taesun Yeom**
+#### **Taesun Yeom**
 `Understanding Training Dynamics of Neural Fields`  
 M.S.+Ph.D. @ POSTECH AI (24.09--)  
 **Keywords:** Neural Fields, Learning Dynamics  
