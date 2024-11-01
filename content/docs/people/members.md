@@ -21,11 +21,12 @@ Visiting Researcher @ [Google](https://research.google) (23.09--)
 ---
 ## **Ph.D. track**
 
-### **Minjae Park**
+### 
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/minjae.png" alt="." width="100" height="100" >}} 
 </div>  
 
+**Minjae Park**
 `Accelerating Large-Scale Models for Videos 🎥`  
 M.S.+Ph.D. @ POSTECH EE (24.02--)  
 **Keywords:** State-Space Models, Model Compression  
