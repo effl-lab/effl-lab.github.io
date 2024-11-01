@@ -20,7 +20,7 @@ Visiting Researcher @ [Google](https://research.google) (23.09--)
 ###
 ---
 ## **Ph.D. track**
-
+<!--
 ###
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/minjae.png" alt="." height="80" >}} 
@@ -42,8 +42,8 @@ M.S.+Ph.D. @ POSTECH EE (24.02--)
 M.S.+Ph.D. @ POSTECH AI (24.09--)  
 **Keywords:** Neural Fields, Learning Dynamics  
 [Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ)
+-->
 
-<!--
 ### **Minjae Park**
 <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
 {{< figure src="/images/members/minjae.png" alt="." width="100" height="100" >}} 
@@ -65,7 +65,6 @@ M.S.+Ph.D. @ POSTECH EE (24.02--)
 M.S.+Ph.D. @ POSTECH AI (24.09--)  
 **Keywords:** Neural Fields, Learning Dynamics  
 [Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ)
--->
 
 ###
 
