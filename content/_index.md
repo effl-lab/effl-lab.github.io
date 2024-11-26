@@ -20,7 +20,7 @@ We develop theories, algorithms, and systems to make ML more efficient.
 **Join us?** Apply through POSTECH EE or GSAI. For details, see [here](/docs/how-to-join/graduate/).
 
 ### **News**
-
+- (Nov 2024) Hyunjong has won outstanding paper award at KAIA fall conference for his work, AudioBERT 🏆
 - (Sep 2024) Three papers accepted at EMNLP 2024 🇺🇸
 - (Sep 2024) Received Gemma 2 Academic Program Credit Award from Google ($10,000) 💰
 - (Jul 2024) An undergrad intern (Inkwan) will be a Korean Presidential Science Fellow 💰
