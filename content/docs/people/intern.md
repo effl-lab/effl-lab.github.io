@@ -52,8 +52,10 @@ Model Compression
 Accelerating Video Diffusion Models
 -->
 
+### **Waitlist (Winter '25--)**
+Suho Yoo, Yoonjoo Nam, Taehyuk Ha, Yewon Kim, Gwanjoong Kim, Minjun Kang, Youna Shin.
+
 <!--
-### **Waitlist (Winter '24--)**
 
 **Seoyun Jeong** (Summer '24--)  
 Language Modeling Basics  
