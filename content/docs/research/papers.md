@@ -22,11 +22,11 @@ Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, and Jaeho Lee
 
 [**Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization**](https://arxiv.org/abs/2406.15524)  
 Sungbin Shin, Wonpyo Park, Jaeho Lee, and Namhoon Lee  
-**EMNLP 2024** (Short)  
+**EMNLP 2024**  
 
 [**The Role of Masking for Efficient Supervised Knowledge Distillation of Vision Transformers**](https://arxiv.org/abs/2302.10494)  
 Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee  
-**ECCV 2024** (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 `Oral` `🥉`)  
+**ECCV 2024** (ICLR 2023 Sparstiy Workshop, Oustanding paper award (🥉) @ IPIU 2023)  
 [project page](https://maskedkd.github.io/), [code](https://github.com/effl-lab/MaskedKD)  
 
 
@@ -42,13 +42,13 @@ Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn
 
 [**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
 Junwon Seo<sup>1st</sup>, Sangyoon Lee<sup>1st</sup>, Kwang In Kim, and Jaeho Lee  
-**CVPR 2024** `Oral (top 0.78%)` (NeurIPS 2023 Workshop: Attributing Model Behavior at Scale)  
+**CVPR 2024** `Oral (top 0.78%)` (NeurIPS 2023 ATTRIB Workshop)  
 [code](https://github.com/effl-lab/DT4Neural-Field) [demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)
 
 
 [**Discovering and Mitigating Visual Biases through Keyword Explanation**](https://arxiv.org/abs/2301.11104)  
 Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
-**CVPR 2024** `Highlight (top 2.8%)` (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)  
+**CVPR 2024** `Highlight (top 2.8%)` (ICML 2023 SCIS Workshop)  
 [code](https://github.com/alinlab/b2t)  
 
 
@@ -64,7 +64,7 @@ Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul O
 
 [**Attention-aware Semantic Communications for Collaborative Inference**](https://arxiv.org/abs/2404.07217)  
 Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
-**IEEE IoT Journal** (also at IEEE Communication Theory Workshop 2024)  
+**IEEE IoT Journal** (IEEE Communication Theory Workshop 2024)  
 
 
 [**Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**](https://arxiv.org/abs/2406.17477)  
@@ -89,24 +89,24 @@ arXiv 2410.04779
 ### **2023**
 [**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  
 Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz  
-**NeurIPS 2023** (ICLR 2023 Workshop: Neural Fields across Fields)  
+**NeurIPS 2023** (ICLR 2023 Neural Fields Workshop)  
 [code](https://github.com/jihoontack/GradNCP)  
 
 [**Modality-Agnostic Variational Compression of Implicit Neural Representations**](https://openreview.net/forum?id=bBXCCSoVQZ)  
 Jonathan R. Schwarz, Jihoon Tack, Yee Whye Teh, Jaeho Lee, and Jinwoo Shin  
-**ICML 2023** (ICLR 2023 Workshop: Neural Fields across Fields)
+**ICML 2023** (ICLR 2023 Neural Fields Workshop)
 
 [**Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling**](https://openreview.net/forum?id=VV4zJwLwI7)  
 Junhyun Nam, Sangwoo Mo, Jaeho Lee, and Jinwoo Shin  
-**TMLR 2023** (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)
+**TMLR 2023** (ICML SCIS 2023 Workshop)
 
 [**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://unireps.org)  
 Jiwoon Lee and Jaeho Lee  
-**NeurIPS 2023 Workshop**: Unifying Representations in Neural Models
+**NeurIPS 2023 Workshop**: UniReps
 
 [**On the Effectiveness of Sharpness-aware Minimization with Large Mini-batches**](https://icml.cc/virtual/2023/25899)  
 Jinseok Chung, Seonghwan Park, Jaeho Lee, and Namhoon Lee  
-**ICML 2023 Workshop**: High-Dimensional Learning Dynamics
+**ICML 2023 Workshop**: HDLD
 
 [**Communication-Efficient Split Learning via Adaptive Feature-wise Compression**](https://arxiv.org/abs/2307.10805)  
 Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
