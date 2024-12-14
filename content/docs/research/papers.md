@@ -26,7 +26,7 @@ Sungbin Shin, Wonpyo Park, Jaeho Lee, and Namhoon Lee
 
 [**The Role of Masking for Efficient Supervised Knowledge Distillation of Vision Transformers**](https://arxiv.org/abs/2302.10494)  
 Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee  
-**ECCV 2024** (ICLR 2023 Sparstiy Workshop, Oustanding paper award (🥉) @ IPIU 2023)  
+**ECCV 2024** (ICLR 2023 Sparsity Workshop, Oustanding paper award (🥉) @ IPIU 2023)  
 [project page](https://maskedkd.github.io/), [code](https://github.com/effl-lab/MaskedKD)  
 
 
