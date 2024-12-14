@@ -20,8 +20,8 @@ We develop theories, algorithms, and systems to make ML more efficient.
 **Join us?** Apply through POSTECH EE or GSAI. For details, see [here](/docs/how-to-join/graduate/).
 
 ### **News**
-- (Nov 2024) Yuji has won the award of Chief-of-Staff of ROK Air Force in the MAICON (military AI competition) 🏆
-- (Nov 2024) Hyunjong has won outstanding paper award at KAIA fall conference for his work, AudioBERT 🏆
+- (Nov 2024) Yuji won the award of Chief-of-Staff of ROKAF in the MAICON (military AI competition) 🏆
+- (Nov 2024) Hyunjong won outstanding paper award at KAIA fall conference for his work, AudioBERT 🏆
 - (Nov 2024) Jaeho gave a talk at Google APAC 🌏
 - (Sep 2024) Three papers accepted at EMNLP 2024 🇺🇸
 - (Sep 2024) Received Gemma 2 Academic Program Credit Award from Google ($10,000) 💰
