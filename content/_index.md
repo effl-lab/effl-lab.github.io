@@ -22,6 +22,7 @@ We develop theories, algorithms, and systems to make ML more efficient.
 ### **News**
 - (Nov 2024) Yuji has won the award of Chief-of-Staff of ROK Air Force in the MAICON (military AI competition) 🏆
 - (Nov 2024) Hyunjong has won outstanding paper award at KAIA fall conference for his work, AudioBERT 🏆
+- (Nov 2024) Jaeho gave a talk at Google APAC 🌏
 - (Sep 2024) Three papers accepted at EMNLP 2024 🇺🇸
 - (Sep 2024) Received Gemma 2 Academic Program Credit Award from Google ($10,000) 💰
 - (Jul 2024) An undergrad intern (Inkwan) will be a Korean Presidential Science Fellow 💰
