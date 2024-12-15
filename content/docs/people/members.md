@@ -7,170 +7,137 @@ weight: 1
 
 ## **Principal Investigator**
 
-### **Jaeho Lee**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;" >
-    {{< figure src="/images/members/Jaeho.jpg" alt="." width="100" height="100" >}}  
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Jaeho.jpg" alt="Jaeho Lee" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jaeho Lee</strong></h3>
+    Assistant Professor @ <a href="https://ee.postech.ac.kr">POSTECH EE</a> (22.03--)<br>
+    Principal Investigator @ <a href="https://effl.postech.ac.kr">EffL</a> (22.03--)<br>
+    Visiting Researcher @ <a href="https://research.google">Google</a> (23.09--)<br>
+    <a href="https://jaeho-lee.github.io">webpage</a>, <a href="mailto:jaeho.lee@postech.ac.kr">mail</a>, <a href="https://twitter.com/jaeho_lee_">twitter</a>
+  </div>
 </div>
 
-Assistant Professor @ [POSTECH EE](https://ee.postech.ac.kr) (22.03--)  
-Principal Investigator @ [EffL](https://effl.postech.ac.kr) (22.03--)  
-Visiting Researcher @ [Google](https://research.google) (23.09--)  
-[webpage](https://jaeho-lee.github.io), [mail](mailto:jaeho.lee@postech.ac.kr), [twitter](https://twitter.com/jaeho_lee_) 
-
-###
 ---
+
 ## **Ph.D. track**
-<!--
-###
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/minjae.png" alt="." height="80" >}} 
-</div>  
 
-#### **Minjae Park**
-`Accelerating Large-Scale Models for Videos 🎥`  
-M.S.+Ph.D. @ POSTECH EE (24.02--)  
-**Keywords:** State-Space Models, Model Compression  
-[webpage](/docs/people/member/minjae/), [mail](mailto:minjae0047@postech.ac.kr)
-
-###
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/taesun.jpeg" alt="." height="80" >}} 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/minjae.png" alt="Minjae Park" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minjae Park</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Accelerating Large-Scale Models for Videos 🎥</code><br>
+    M.S.+Ph.D. @ POSTECH EE (24.02--)<br>
+    <strong>Keywords:</strong> State-Space Models, Model Compression<br>
+    <a href="/docs/people/member/minjae/">webpage</a>, <a href="mailto:minjae0047@postech.ac.kr">mail</a>
+  </div>
 </div>
 
-#### **Taesun Yeom**
-`Understanding Training Dynamics of Neural Fields`  
-M.S.+Ph.D. @ POSTECH AI (24.09--)  
-**Keywords:** Neural Fields, Learning Dynamics  
-[Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ)
--->
-
-### **Minjae Park**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/minjae.png" alt="." width="100" height="100" >}} 
-</div>  
-
-`Accelerating Large-Scale Models for Videos 🎥`  
-M.S.+Ph.D. @ POSTECH EE (24.02--)  
-**Keywords:** State-Space Models, Model Compression  
-[webpage](/docs/people/member/minjae/), [mail](mailto:minjae0047@postech.ac.kr)
-
-####
-
-### **Taesun Yeom**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/taesun.jpeg" alt="." width="100" height="100" >}} 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/taesun.jpeg" alt="Taesun Yeom" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Taesun Yeom</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Understanding Training Dynamics of Neural Fields</code><br>
+    M.S.+Ph.D. @ POSTECH AI (24.09--)<br>
+    <strong>Keywords:</strong> Neural Fields, Learning Dynamics<br>
+    <a href="https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ">Google Scholar</a>
+  </div>
 </div>
-
-`Understanding Training Dynamics of Neural Fields`  
-M.S.+Ph.D. @ POSTECH AI (24.09--)  
-**Keywords:** Neural Fields, Learning Dynamics  
-[Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ)
-
-###
 
 ---
 ## **M.S. track**
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Minkyu.jpg" alt="Minkyu Kim" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minkyu Kim</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Harnessing Language Models for Multimodal Tasks 🏞️🎙️</code><br>
+    POSTECH AI (23.03--)<br>
+    <strong>Keywords:</strong> Multimodal learning, Image processing, Audio captioning<br>
+    <a href="https://minguinho26.github.io">webpage</a>, <a href="mailto:minkyu.kim@postech.ac.kr">mail</a>,
+    <a href="https://velog.io/@minkyu4506/posts">blog</a>, <a href="https://taco-nic.github.io">recent project</a>,
+    <a href="https://x.com/minguinho_zeze">twitter</a>
+  </div>
+</div>
 
-### **Minkyu Kim**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Minkyu.jpg" alt="." width="100" height="100" >}}
-</div>   
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Yuji.jpg" alt="Yu Ji Byun" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Yu Ji Byun</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Completing High-Resolution Videos with Low Resources 📹</code><br>
+    POSTECH Defense Science (23.03--)<br>
+    Captain @ ROKMC<br>
+    <strong>Keywords:</strong> High-res Videos, Image Inpainting, Computer Vision<br>
+    <a href="/docs/people/member/yuji/">webpage</a>, <a href="mailto:yujibyun@postech.ac.kr">mail</a>
+  </div>
+</div>
 
-`Harnessing Language Models for Multimodal Tasks 🏞️🎙️`  
-POSTECH AI (23.03--)  
-**Keywords:** Multimodal learning, Image processing, Audio captioning <br>
-[webpage](https://minguinho26.github.io/), [mail](mailto:minkyu.kim@postech.ac.kr), [blog](https://velog.io/@minkyu4506/posts), [recent project](https://taco-nic.github.io), [twitter](https://x.com/minguinho_zeze)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Juyun.jpg" alt="Juyun Wee" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Juyun Wee</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Compressing Large Language Models 🍀</code><br>
+    POSTECH EE (23.09--)<br>
+    Office Team Lead @ EffL<br>
+    <strong>Keywords:</strong> LLM Compression, Model Pruning, Model Efficiency<br>
+    <a href="/docs/people/member/juyun/">webpage</a>, <a href="mailto:jywee@postech.ac.kr">mail</a>
+  </div>
+</div>
 
-####
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/sangyoon2.jpg" alt="Sangyoon Lee" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Sangyoon Lee</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Hyperefficient Neural Fields ⚡️</code><br>
+    POSTECH AI (24.02--)<br>
+    <strong>Keywords:</strong> Fast Neural Fields, Editable Neural Fields, Neural Compression<br>
+    <a href="/docs/people/member/sangyoon/">webpage</a>, <a href="mailto:sangyoon.lee@postech.ac.kr">mail</a>
+  </div>
+</div>
 
-### **Yu Ji Byun**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Yuji.jpg" alt="." width="100" height="100" >}} 
-</div>  
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/jiyun2.jpg" alt="Jiyun Bae" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jiyun Bae</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Data-dependent Visual Prompts 🕶️</code><br>
+    POSTECH AI (24.02--)<br>
+    Academic Team Lead @ EffL<br>
+    <strong>Keywords:</strong> Visual Prompts, Black-box models, LLMs, Fairness<br>
+    <a href="/docs/people/member/jiyunbae/">webpage</a>, <a href="mailto:jiyun.bae@postech.ac.kr">mail</a>
+  </div>
+</div>
 
-`Completing High-Resolution Videos with Low Resources 📹`  
-POSTECH Defense Science (23.03--)  
-Captain @ ROKMC  
-**Keywords:** High-res Videos, Image Inpainting, Computer Vision  
-[mail](mailto:yujibyun@postech.ac.kr),  [webpage](/docs/people/member/yuji/)
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/hyunjong.JPG" alt="Hyunjong Ok" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Hyunjong Ok</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Advancing Audio Technologies for Multimodal Intelligence 🔈</code><br>
+    POSTECH AI (24.02--)<br>
+    <strong>Keywords:</strong> Efficient LLM, Multi-modal learning, Audio Technologies<br>
+    <a href="https://hj-ok.github.io">webpage</a>, <a href="mailto:minjae0047@postech.ac.kr">mail</a>
+  </div>
+</div>
 
-####
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/jegwang.jpg" alt="Jegwang Ryu" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jegwang Ryu</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Compression in the Neural Network Weight Space</code><br>
+    POSTECH EE (24.09--)<br>
+    <strong>Keywords:</strong> Efficient LLM, Accelerated Training<br>
+    <a href="https://scholar.google.co.kr/citations?hl=ko&user=QLsG1YMAAAAJ">Google Scholar</a>, <a href="mailto:jegwang.ryu@postech.ac.kr">mail</a>
+  </div>
+</div>
 
-### **Juyun Wee**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Juyun.jpg" alt="." width="100" height="100" >}}  
-</div>  
-
-`Compressing Large Language Models 🍀`  
-POSTECH EE (23.09--)  
-Office Team Lead @ EffL  
-**Keywords:** LLM Compression, Model Pruning, Model Efficiency  
-[webpage](/docs/people/member/juyun/), [mail](mailto:jywee@postech.ac.kr)  
-
-####
-
-### **Sangyoon Lee**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/sangyoon2.jpg" alt="." width="100" height="100" >}} 
-</div>  
-
-`Hyperefficient Neural Fields ⚡️`  
-POSTECH AI (24.02--)  
-**Keywords:** Fast Neural Fields, Editable Neural Fields, Neural Compression  
-[webpage](/docs/people/member/sangyoon/), [mail](mailto:sangyoon.lee@postech.ac.kr)
-
-####
-
-### **Jiyun Bae**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/jiyun2.jpg" alt="." width="100" height="100" >}} 
-</div>  
- 
-
-`Data-dependent Visual Prompts 🕶️`  
-POSTECH AI (24.02--)  
-Academic Team Lead @ EffL  
-**Keywords:** Visual Prompts, Black-box models, LLMs, Fairness  
-[webpage](/docs/people/member/jiyunbae/), [mail](mailto:jiyun.bae@postech.ac.kr)
-
-####
-
-### **Hyunjong Ok**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/hyunjong.JPG" alt="." width="100" height="100" >}} 
-</div>  
-
-
-`Advancing Audio Technologies for Multimodal Intelligence 🔈`  
-POSTECH AI (24.02--)  
-**Keywords:** Efficient LLM, Multi-modal learning, Audio Technologies  
-[webpage](https://hj-ok.github.io/), [mail](mailto:minjae0047@postech.ac.kr)
-
-####
-
-### **Jegwang Ryu**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/jegwang.jpg" alt="." width="100" height="100" >}} 
-</div>  
-
-`Compression in the Neural Network Weight Space`  
-POSTECH EE (24.09--)  
-**Keywords:** Efficient LLM, Accelerated Training <br>
-[Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=QLsG1YMAAAAJ), [mail](mailto:jegwang.ryu@postech.ac.kr)
-
-####  
-
-### **Seunghyun Kim**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/seunghyun.JPG" alt="." width="100" height="100" >}} 
-</div>  
-    
-`Low-precision Training of LLM`  
-POSTECH EE (24.09--)  
-**Keywords:** LLM, Quantization  
-
-###
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/seunghyun.JPG" alt="Seunghyun Kim" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Seunghyun Kim</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Low-precision Training of LLM</code><br>
+    POSTECH EE (24.09--)<br>
+    <strong>Keywords:</strong> LLM, Quantization<br>
+  </div>
+</div>
 
 ---
 ## **Staff**
