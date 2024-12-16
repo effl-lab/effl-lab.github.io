@@ -23,6 +23,17 @@ weight: 1
 ## **Ph.D. track**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/sangyoon2.jpg" alt="Sangyoon Lee" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Sangyoon Lee</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Hyperefficient Neural Fields ⚡️</code><br>
+    POSTECH AI (24.02--)<br>
+    <strong>Keywords:</strong> Fast Neural Fields, Editable Neural Fields, Neural Compression<br>
+    <a href="/docs/people/member/sangyoon/">webpage</a>, <a href="mailto:sangyoon.lee@postech.ac.kr">mail</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/minjae.png" alt="Minjae Park" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minjae Park</strong></h3>
@@ -81,17 +92,6 @@ weight: 1
     Office Team Lead @ EffL<br>
     <strong>Keywords:</strong> LLM Compression, Model Pruning, Model Efficiency<br>
     <a href="/docs/people/member/juyun/">webpage</a>, <a href="mailto:jywee@postech.ac.kr">mail</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/members/sangyoon2.jpg" alt="Sangyoon Lee" style="width: 120px; margin-right: 20px;">
-  <div>
-    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Sangyoon Lee</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Hyperefficient Neural Fields ⚡️</code><br>
-    POSTECH AI (24.02--)<br>
-    <strong>Keywords:</strong> Fast Neural Fields, Editable Neural Fields, Neural Compression<br>
-    <a href="/docs/people/member/sangyoon/">webpage</a>, <a href="mailto:sangyoon.lee@postech.ac.kr">mail</a>
   </div>
 </div>
 
