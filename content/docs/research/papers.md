@@ -73,7 +73,7 @@ Yuji Byun and Jaeho Lee
 
 [**AudioBERT: Audio Knowledge Augmented Language Model**](https://arxiv.org/abs/2409.08199)  
 Hyunjong Ok, Suho Yoo, and Jaeho Lee  
-arXiv 2409.08199  
+arXiv 2409.08199 (Outstanding paper award 🏆 @ JKAIA 2024)  
 [code](https://github.com/HJ-Ok/AudioBERT), [dataset](https://github.com/HJ-Ok/AudioBERT/tree/main/dataset)  
 
 [**Constructing a Singing Style Captioning Dataset**](https://arxiv.org/abs/2409.09866)  
