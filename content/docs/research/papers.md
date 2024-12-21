@@ -9,6 +9,12 @@ weight: 2
 We mainly target top-tier ML conferences, and other domain-specific venues that involve ML.  
 
 ---
+### **2025**
+[**AudioBERT: Audio Knowledge Augmented Language Model**](https://arxiv.org/abs/2409.08199)  
+Hyunjong Ok, Suho Yoo, and Jaeho Lee  
+ICASSP 2025 (Outstanding paper award 🏆 @ JKAIA 2024)  
+[code](https://github.com/HJ-Ok/AudioBERT), [dataset](https://github.com/HJ-Ok/AudioBERT/tree/main/dataset)  
+
 
 ### **2024**
 
@@ -71,10 +77,6 @@ Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim
 Yuji Byun and Jaeho Lee  
 **NeurIPS 2024 Workshop**: Adaptive Foundation Models  
 
-[**AudioBERT: Audio Knowledge Augmented Language Model**](https://arxiv.org/abs/2409.08199)  
-Hyunjong Ok, Suho Yoo, and Jaeho Lee  
-arXiv 2409.08199 (Outstanding paper award 🏆 @ JKAIA 2024)  
-[code](https://github.com/HJ-Ok/AudioBERT), [dataset](https://github.com/HJ-Ok/AudioBERT/tree/main/dataset)  
 
 [**Constructing a Singing Style Captioning Dataset**](https://arxiv.org/abs/2409.09866)  
 Hyunjong Ok and Jaeho Lee  
