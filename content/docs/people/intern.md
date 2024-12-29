@@ -53,7 +53,7 @@ Accelerating Video Diffusion Models
 -->
 
 ### **Waitlist (Winter '25--)**
-Suho Yoo, Yoonjoo Nam, Taehyuk Ha, Yewon Kim, Gwanjoong Kim, Minjun Kang, Youna Shin.
+Suho Yoo, Yoonjoo Nam, Taehyuk Ha, Gwanjoong Kim, Minjun Kang, Youna Shin.
 
 <!--
 
