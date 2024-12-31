@@ -15,6 +15,9 @@ Hyunjong Ok, Suho Yoo, and Jaeho Lee
 **ICASSP 2025** (Outstanding paper award 🏆 @ JKAIA 2024)  
 [code](https://github.com/HJ-Ok/AudioBERT), [dataset](https://github.com/HJ-Ok/AudioBERT/tree/main/dataset)  
 
+[**Communication-Efficient Split Learning via Adaptive Feature-wise Compression**](https://arxiv.org/abs/2307.10805)  
+Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
+**IEEE TNNLS**  
 
 ### **2024**
 
@@ -109,10 +112,6 @@ Jiwoon Lee and Jaeho Lee
 [**On the Effectiveness of Sharpness-aware Minimization with Large Mini-batches**](https://icml.cc/virtual/2023/25899)  
 Jinseok Chung, Seonghwan Park, Jaeho Lee, and Namhoon Lee  
 **ICML 2023 Workshop**: HDLD
-
-[**Communication-Efficient Split Learning via Adaptive Feature-wise Compression**](https://arxiv.org/abs/2307.10805)  
-Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
-arXiv 2307.10805
 
 [**Debiased Distillation by Transplanting the Last Layer**](https://arxiv.org/abs/2302.11187)  
 Jiwoon Lee and Jaeho Lee  
