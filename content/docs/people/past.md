@@ -8,56 +8,56 @@ weight: 3
 ### **Alumni**
 ---
 
-### **Seungwoo Son**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-    {{< figure src="/images/members/Seungwoo.jpg" alt="." width="100" height="100" >}}  
-</div>  
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Seungwoo.jpg" alt="Seungwoo Son" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Seungwoo Son</strong></h3>
+    M.S. @ POSTECH EE (22.03--24.08): "The role of masking for efficient supervised knowledge distillation of vision transformers"<br>
+    <strong>Expertise.</strong> Model compression of large transformers, using quantization and distillation<br>
+    <strong>Next step.</strong> Samsung Research<br>
+    <a href="https://www.linkedin.com/in/seungwoo-son-057511323">linkedin</a>, <a href="mailto:swson32@gmail.com">mail</a>
+  </div>
+</div>
 
-M.S. @ POSTECH EE (22.03--24.08): "The role of masking for efficient supervised knowledge distillation of vision transformers"  
-**Expertise.** Model compression of large transformers, using quantization and distillation  
-**Next step.** Samsung Research  
-[linkedin](https://www.linkedin.com/in/seungwoo-son-057511323), [mail](mailto:swson32@gmail.com)
-
-####
 ---
 
-### **Hagyeong Lee**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/hagyeong0.jpg" alt="." width="100" height="100" >}}  
-</div>  
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/hagyeong0.jpg" alt="Hagyeong Lee" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Hagyeong Lee</strong></h3>
+    M.S. @ POSTECH EE (22.09--24.08): "Neural image compression with text-guided encoding for both pixel-level and perceptual fidelity"<br>
+    <strong>Expertise.</strong> Multimodal data compression<br>
+    <strong>Next step.</strong> (TBD)<br>
+    <a href="https://hagyeonglee.github.io">webpage</a>, <a href="mailto:hagyeonglee@postech.ac.kr">mail</a>, <a href="https://twitter.com/ha_gyeong_lee">twitter</a>
+  </div>
+</div>
 
-M.S. @ POSTECH EE (22.09--24.08): "Neural image compression with text-guided encoding for both pixel-level and perceptual fidelity"  
-**Expertise.** Multimodal data compression  
-**Next step.** KBSI (한국기초과학지원연구원)  
-[webpage](https://hagyeonglee.github.io), [mail](mailto:hagyeonglee@postech.ac.kr), [twitter](https://twitter.com/ha_gyeong_lee)  
-
-####
 ---
 
-### **Jiwoon Lee**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Jiwoon.jpg" alt="." width="100" height="100" >}}  
-</div>  
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Jiwoon.jpg" alt="Jiwoon Lee" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jiwoon Lee</strong></h3>
+    M.S. @ POSTECH EE (22.03--24.02): "Semi-ensemble: A simple approach to over-parameterized model interpolation"<br>
+    <strong>Expertise.</strong> Model Merging, federated Learning and knowledge distillation<br>
+    <strong>Next step.</strong> FASOO<br>
+    <a href="mailto:jwlee9702@postech.ac.kr">mail</a>
+  </div>
+</div>
 
-M.S. @ POSTECH EE (22.03--24.02): "Semi-ensemble: A simple approach to over-parameterized model interpolation"  
-**Expertise** Model Merging, federated Learning and knowledge distillation  
-**Next step.** FASOO  
-[mail](mailto:jwlee9702@postech.ac.kr)  
-
-####
 ---
 
-### **Junwon Seo**
-<div style="float: left; margin-right: 20px; margin-bottom: 20px;">
-{{< figure src="/images/members/Junwon1.jpg" alt="." width="100" height="100" >}}  
-</div>  
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Junwon1.jpg" alt="Junwon Seo" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Junwon Seo</strong></h3>
+    M.S. @ POSTECH EE (22.03--24.02): "In search of a data transformation that accelerates neural field training"<br>
+    <strong>Expertise.</strong> Fast training of neural fields<br>
+    <strong>Next step.</strong> LivsMed (전문연구요원)<br>
+    <a href="mailto:junwon.seo@postech.ac.kr">mail</a>
+  </div>
+</div>
 
-M.S. @ POSTECH EE (22.03--24.02): "In search of a data transformation that accelerates neural field training"  
-**Expertise.** Fast training of neural fields  
-**Next step.** LivsMed (전문연구요원)  
-[mail](mailto:junwon.seo@postech.ac.kr)  
-
-######
 ---
 
 ### **Past Interns**
