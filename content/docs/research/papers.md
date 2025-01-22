@@ -10,6 +10,14 @@ We mainly target top-tier ML conferences, and other domain-specific venues that 
 
 ---
 ### **2025**
+[**Fast Training of Sinusoidal Neural Fields via Scaling Initialization**](https://openreview.net/forum?id=Sr5XaZzirA)  
+Taesun Yeom, Sangyoon Lee, and Jaeho Lee  
+**ICLR 2025**  
+
+[**ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models**](https://openreview.net/forum?id=2OegVbwvY2)  
+Seonghwan Park, Jaehyeon Jeong, Yongjun Kim, Jaeho Lee, and Namhoon Lee  
+**ICLR 2025**  
+
 [**AudioBERT: Audio Knowledge Augmented Language Model**](https://arxiv.org/abs/2409.08199)  
 Hyunjong Ok, Suho Yoo, and Jaeho Lee  
 **ICASSP 2025** (Outstanding paper award 🏆 @ JKAIA 2024)  
@@ -85,10 +93,6 @@ Yuji Byun and Jaeho Lee
 Hyunjong Ok and Jaeho Lee  
 arXiv 2409.09866  
 [dataset](https://github.com/HJ-Ok/S2cap)
-
-[**Fast Training of Sinusoidal Neural Fields via Scaling Initialization**](https://arxiv.org/abs/2410.04779)  
-Taesun Yeom, Sangyoon Lee, and Jaeho Lee  
-arXiv 2410.04779  
 
 
 ### **2023**
