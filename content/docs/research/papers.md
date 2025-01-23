@@ -10,6 +10,10 @@ We mainly target top-tier ML conferences, and other domain-specific venues that 
 
 ---
 ### **2025**
+[**Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**](https://arxiv.org/abs/2406.17477)  
+Yuji Byun and Jaeho Lee  
+**NAACL 2025** (NeurIPS 2024 AFM Workshop)  
+
 [**Fast Training of Sinusoidal Neural Fields via Scaling Initialization**](https://openreview.net/forum?id=Sr5XaZzirA)  
 Taesun Yeom, Sangyoon Lee, and Jaeho Lee  
 **ICLR 2025**  
@@ -84,11 +88,6 @@ Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim
 **IEEE IoT Journal** (IEEE Communication Theory Workshop 2024)  
 
 
-[**Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**](https://arxiv.org/abs/2406.17477)  
-Yuji Byun and Jaeho Lee  
-**NeurIPS 2024 Workshop**: Adaptive Foundation Models  
-
-
 [**Constructing a Singing Style Captioning Dataset**](https://arxiv.org/abs/2409.09866)  
 Hyunjong Ok and Jaeho Lee  
 arXiv 2409.09866  
@@ -107,7 +106,7 @@ Jonathan R. Schwarz, Jihoon Tack, Yee Whye Teh, Jaeho Lee, and Jinwoo Shin
 
 [**Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling**](https://openreview.net/forum?id=VV4zJwLwI7)  
 Junhyun Nam, Sangwoo Mo, Jaeho Lee, and Jinwoo Shin  
-**TMLR 2023** (ICML SCIS 2023 Workshop)
+**TMLR 2023** (ICML 2023 SCIS Workshop)
 
 [**Semi-Ensemble: A Simple Approach to Over-Parameterize Model Interpolation**](https://unireps.org)  
 Jiwoon Lee and Jaeho Lee  
