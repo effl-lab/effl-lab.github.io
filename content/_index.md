@@ -20,10 +20,11 @@ We develop theories, algorithms, and systems to make ML more efficient.
 **Join us?** Apply through POSTECH EE or GSAI. For details, see [here](/docs/how-to-join/graduate/).
 
 ### **News**
+- (Jan 2025) One paper accepted at NAACL 2025 🇺🇸
 - (Jan 2025) Two papers accepted at ICLR 2025 🇸🇬
+- (Dec 2024) One paper accepted at ICASSP 2025 🇮🇳
 - In 2024: 2 ICML, 2 CVPR, 1 ECCV, 3 EMNLP, 1 NAACL, 1 S&P, 1 journal, and 4 awards. Congrats!
 - (Dec 2024) Seungwoo and Hagyeong won the best M.S. dissertation award from EE@POSTECH 🎓
-- (Dec 2024) One paper accepted at ICASSP 2025 🇮🇳
 - (Dec 2024) Yuji defended 🛡️
 - (Nov 2024) Yuji won the award of Chief-of-Staff of ROKAF in the MAICON (military AI competition) 🏆
 - (Nov 2024) Hyunjong won outstanding paper award at KAIA fall conference for his work, AudioBERT 🏆
