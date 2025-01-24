@@ -23,7 +23,7 @@ Seonghwan Park, Jaehyeon Jeong, Yongjun Kim, Jaeho Lee, and Namhoon Lee
 **ICLR 2025**  
 
 [**AudioBERT: Audio Knowledge Augmented Language Model**](https://arxiv.org/abs/2409.08199)  
-Hyunjong Ok,<sup>`*`</sup> Suho Yoo,<sup>`*`</sup> and Jaeho Lee  
+Hyunjong Ok,<sup>\*</sup> Suho Yoo,<sup>\*</sup> and Jaeho Lee  
 **ICASSP 2025** (Outstanding paper award 🏆 @ JKAIA 2024)  
 [code](https://github.com/HJ-Ok/AudioBERT), [dataset](https://github.com/HJ-Ok/AudioBERT/tree/main/dataset)  
 
