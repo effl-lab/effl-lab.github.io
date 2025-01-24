@@ -15,7 +15,7 @@ Yuji Byun and Jaeho Lee
 **NAACL 2025** (NeurIPS 2024 AFM Workshop)  
 
 [**Fast Training of Sinusoidal Neural Fields via Scaling Initialization**](https://openreview.net/forum?id=Sr5XaZzirA)  
-Taesun Yeom<sup>\*</sup>, Sangyoon Lee<sup>\*</sup>, and Jaeho Lee  
+Taesun Yeom,<sup>\*</sup> Sangyoon Lee,<sup>\*</sup> and Jaeho Lee  
 **ICLR 2025**  
 
 [**ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models**](https://openreview.net/forum?id=2OegVbwvY2)  
@@ -23,7 +23,7 @@ Seonghwan Park, Jaehyeon Jeong, Yongjun Kim, Jaeho Lee, and Namhoon Lee
 **ICLR 2025**  
 
 [**AudioBERT: Audio Knowledge Augmented Language Model**](https://arxiv.org/abs/2409.08199)  
-Hyunjong Ok<sup>\*</sup>, Suho Yoo<sup>\*</sup>, and Jaeho Lee  
+Hyunjong Ok,<sup>\*</sup> Suho Yoo,<sup>\*</sup> and Jaeho Lee  
 **ICASSP 2025** (Outstanding paper award 🏆 @ JKAIA 2024)  
 [code](https://github.com/HJ-Ok/AudioBERT), [dataset](https://github.com/HJ-Ok/AudioBERT/tree/main/dataset)  
 
@@ -52,7 +52,7 @@ Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee
 
 
 [**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**](https://arxiv.org/abs/2403.02944)  
-Hagyeong Lee<sup>\*</sup>, Minkyu Kim<sup>\*</sup>, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, and Jaeho Lee  
+Hagyeong Lee,<sup>\*</sup> Minkyu Kim,<sup>\*</sup> Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, and Jaeho Lee  
 **ICML 2024**  
 [project page](https://taco-nic.github.io/), [code](https://github.com/effl-lab/TACO)  
 
@@ -62,13 +62,13 @@ Hyomin Kim, Yunhui Jang, Jaeho Lee, and Sungsoo Ahn
 
 
 [**In Search of a Data Transformation that Accelerates Neural Field Training**](https://arxiv.org/abs/2311.17094)  
-Junwon Seo<sup>\*</sup>, Sangyoon Lee<sup>\*</sup>, Kwang In Kim, and Jaeho Lee  
+Junwon Seo,<sup>\*</sup> Sangyoon Lee,<sup>\*</sup> Kwang In Kim, and Jaeho Lee  
 **CVPR 2024** `Oral (top 0.78%)` (NeurIPS 2023 ATTRIB Workshop)  
 [code](https://github.com/effl-lab/DT4Neural-Field) [demo](https://huggingface.co/spaces/lyunm1206/Interactive_Loss_Landscapes)
 
 
 [**Discovering and Mitigating Visual Biases through Keyword Explanation**](https://arxiv.org/abs/2301.11104)  
-Younghyun Kim<sup>\*</sup>, Sangwoo Mo<sup>\*</sup>, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
+Younghyun Kim,<sup>\*</sup> Sangwoo Mo,<sup>\*</sup> Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin  
 **CVPR 2024** `Highlight (top 2.8%)` (ICML 2023 SCIS Workshop)  
 [code](https://github.com/alinlab/b2t)  
 
@@ -84,7 +84,7 @@ Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul O
 
 
 [**Attention-aware Semantic Communications for Collaborative Inference**](https://arxiv.org/abs/2404.07217)  
-Jiwoong Im, Nayoung Kwon, Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
+Jiwoong Im,<sup>\*</sup> Nayoung Kwon,<sup>\*</sup> Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
 **IEEE IoT Journal** (IEEE Communication Theory Workshop 2024)  
 
 
@@ -182,7 +182,7 @@ Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, Jaeho Lee, and Jinwoo Shin
 **NeurIPS 2020**
 
 [**Lookahead: A Far-sighted Alternative of Magnitude-based Pruning**](https://openreview.net/forum?id=ryl3ygHYDB)  
-Sejun Park<sup>\*</sup>, Jaeho Lee<sup>\*</sup>, Sangwoo Mo, and Jinwoo Shin  
+Sejun Park,<sup>\*</sup> Jaeho Lee,<sup>\*</sup> Sangwoo Mo, and Jinwoo Shin  
 **ICLR 2020**
 
 ### **Pre-2020**
