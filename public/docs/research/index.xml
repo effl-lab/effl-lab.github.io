@@ -12,8 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/research/focus/</guid>
-      <description>The long-term goal of EffL is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.
-As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.
+      <description>Our long-term goal is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.
+As the first step, we focus on various facets of Efficient ML, which helps us make AI equally accessible to everyone.
 In particular, we work on three dimensions:
 Inference. We develop fast, low-resource methods to serve massive multimodal AI, e.g., Model Compression Parallel Decoding Batch Scheduling Training. We resolve the compute / memory bottlenecks for training large-scale models, e.</description>
     </item>
@@ -24,12 +24,15 @@ Inference. We develop fast, low-resource methods to serve massive multimodal AI,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
-      <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
-Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
-2024 # The Role of Masking for Efficient Supervised Knowledge Distillation of Vision Transformers
-Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee
-ECCV 2024 (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 Oral 🥉)
-Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity</description>
+      <description>We mainly target top-tier ML conferences, and other domain-specific venues that involve ML.
+2025 # Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication
+Yuji Byun and Jaeho Lee
+NAACL 2025 (NeurIPS 2024 AFM Workshop)
+Fast Training of Sinusoidal Neural Fields via Scaling Initialization
+Taesun Yeom,* Sangyoon Lee,* and Jaeho Lee
+ICLR 2025
+ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models
+Seonghwan Park, Jaehyeon Jeong, Yongjun Kim, Jaeho Lee, and Namhoon Lee</description>
     </item>
     
     <item>
@@ -39,7 +42,7 @@ Neural Image Compression with Text-guided Encoding for both Pixel-level and Perc
       
       <guid>https://effl.postech.ac.kr/docs/research/collaborators/</guid>
       <description>Our recent industry collaborators include:
-Samsung Advanced Institute of Technology: ICML 2024, TMLR 2023 Google: As a visiting faculty researcher, and as a student intern DeepMind: ICML 2023 NAVER: NAACL 2024 Krafton: CVPR 2024 VPIX medical: (Private project) In addition, we have worked with universities abroad:
+Samsung Advanced Institute of Technology: ICML 2024, TMLR 2023 Google: EMNLP 2024; as a visiting faculty researcher, and as a student intern DeepMind: ICML 2023 NAVER: NAACL 2024 Krafton: CVPR 2024 VPIX medical: (Private project) In addition, we have worked with universities abroad:
 University College London: NeurIPS 2023, ICML 2023 University of Michigan: CVPR 2024 </description>
     </item>
     

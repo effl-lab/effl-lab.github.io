@@ -32,8 +32,8 @@ Infrastructure Team Lead @ EffL</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/research/focus/</guid>
-      <description>The long-term goal of EffL is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.
-As the first step, we are focusing on various facets of Efficient ML, which could help us make AI equally accessible to anybody on Earth, with no extreme carbon emission.
+      <description>Our long-term goal is to make AI more responsible&amp;ndash;accessible, sustainable, and righteous.
+As the first step, we focus on various facets of Efficient ML, which helps us make AI equally accessible to everyone.
 In particular, we work on three dimensions:
 Inference. We develop fast, low-resource methods to serve massive multimodal AI, e.g., Model Compression Parallel Decoding Batch Scheduling Training. We resolve the compute / memory bottlenecks for training large-scale models, e.</description>
     </item>
@@ -57,17 +57,16 @@ patiently lead their own research agenda, maintain the highest level of academic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/people/members/</guid>
-      <description>Jaeho Lee # Assistant Professor @ POSTECH EE (22.03&amp;ndash;)
-Principal Investigator @ EffL (22.03&amp;ndash;)
-Visiting Researcher @ Google (23.09&amp;ndash;)
-webpage, mail, twitter
-# Seungwoo Son # Compress Gigantic Transformers, but Efficiently 🤑
-Graduate Student @ POSTECH EE (22.03&amp;ndash;)
-Student Intern @ Google
-Keywords: Large Language Models, Model Compression
-webpage, mail
-Hagyeong Lee # Data Compression, but for more than what we see 🔮
-Graduate Student @ POSTECH EE (22.09&amp;ndash;)</description>
+      <description>Principal Investigator # Jaeho Lee Assistant Professor @ POSTECH EE (22.03--)
+Principal Investigator @ EffL (22.03--)
+Visiting Researcher @ Google (23.09--)
+webpage, mail, twitter Ph.D. track # Sangyoon Lee Hyperefficient Neural Fields ⚡️
+POSTECH AI (24.02--)
+Keywords: Fast Neural Fields, Editable Neural Fields, Neural Compression
+webpage, mail Minjae Park Accelerating Large-Scale Models for Videos 🎥
+M.S.+Ph.D. @ POSTECH EE (24.02--)
+Keywords: State-Space Models, Model Compression
+webpage, mail Hyunjong Ok Advancing Audio Technologies for Multimodal Intelligence 🔈</description>
     </item>
     
     <item>
@@ -76,23 +75,19 @@ Graduate Student @ POSTECH EE (22.09&amp;ndash;)</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/people/intern/</guid>
-      <description>Current Interns # Sangbeom Ha (Summer &amp;lsquo;23&amp;ndash;)
-Large-Scale Model Quantization
-Inkwan Hwang (Fall &amp;lsquo;23&amp;ndash;)
-Large-Scale Model Pruning
-webpage
-Taesun Yeom (Winter &amp;lsquo;23&amp;ndash;)
-Training and Inference Efficiency for Neural Fields
-Minhee Lee (Winter &amp;lsquo;23&amp;ndash;)
-Speculative Decoding
-Jegwang Ryu (Summer &amp;lsquo;23 &amp;ndash;&amp;gt; Samsung &amp;ndash;&amp;gt; Winter &amp;lsquo;23&amp;ndash;)
-Accelerated Training by Masking
-Seunghyun Kim (Spring &amp;lsquo;24&amp;ndash;)
-Efficient RAG LLM
-Wonjun Cho (Spring &amp;lsquo;24&amp;ndash;)
+      <description>Current Interns # Deokyeong Lee (Fall &amp;lsquo;24&amp;ndash;)
+Contrastive Decoding with Hallucination
+Suho Yoo (Summer &amp;lsquo;24&amp;ndash;)
 Model Compression
-Subeom Heo (Spring &amp;lsquo;24&amp;ndash;)
-Accelerating Video Diffusion Models</description>
+Jaejin Kim (Fall &amp;lsquo;24&amp;ndash;)
+Speculative Decoding of LLMs
+Taehyeok Ha (Fall &amp;lsquo;24&amp;ndash;)
+Efficient Inference for LLM
+Yoonjoo Nam (Summer &amp;lsquo;24&amp;ndash;)
+Safety &amp;amp; Robustness on Vision Tasks
+Hyeontae Jeong (Fall &amp;lsquo;24&amp;ndash;)
+Efficient Learning of Language Models
+Waitlist (Winter &amp;lsquo;25&amp;ndash;) # Suho Yoo, Yoonjoo Nam, Taehyuk Ha, Gwanjoong Kim, Minjun Kang, Youna Shin, Deokyoung Lee, Hyeontae Jeong, Jinho Kim</description>
     </item>
     
     <item>
@@ -113,12 +108,15 @@ Educational background, e.g., the courses you took. Research interests and exper
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/research/papers/</guid>
-      <description>We mainly target top-tier ML conferences, e.g., NeurIPS / ICML / ICLR.
-Sometimes, we also submit to domain-specific venues that involve ML, e.g., Vision/Language/Speech.
-2024 # The Role of Masking for Efficient Supervised Knowledge Distillation of Vision Transformers
-Seungwoo Son, Jegwang Ryu, Namhoon Lee, and Jaeho Lee
-ECCV 2024 (ICLR 2023 workshop: Sparsity in Neural Networks, IPIU 2023 Oral 🥉)
-Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity</description>
+      <description>We mainly target top-tier ML conferences, and other domain-specific venues that involve ML.
+2025 # Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication
+Yuji Byun and Jaeho Lee
+NAACL 2025 (NeurIPS 2024 AFM Workshop)
+Fast Training of Sinusoidal Neural Fields via Scaling Initialization
+Taesun Yeom,* Sangyoon Lee,* and Jaeho Lee
+ICLR 2025
+ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models
+Seonghwan Park, Jaehyeon Jeong, Yongjun Kim, Jaeho Lee, and Namhoon Lee</description>
     </item>
     
     <item>
@@ -127,17 +125,13 @@ Neural Image Compression with Text-guided Encoding for both Pixel-level and Perc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/docs/people/past/</guid>
-      <description>Past Graduate Students # Jiwoon Lee # Efficient ML in the Wild 🐊
-M.S. @ POSTECH EE (22.03&amp;ndash;24.02)
-Keywords: Model Merging, Federated Learning, Knowledge Distillation
-webpage, mail
-Junwon Seo # Blazing-Fast Neural Field Generation 🔥
-M.S. @ POSTECH EE (22.03&amp;ndash;24.02)
-Keywords: Neural Field, Training Efficiency, Implicit Bias of SGD
-webpage, mail
-# Past Interns # Jeonghyun Choi (Winter &amp;lsquo;23)
-Properties of Data Augmentation
-Minjae Park (Winter &amp;lsquo;23; now at EffL)</description>
+      <description>Alumni # Seungwoo Son M.S. @ POSTECH EE (22.03--24.08): &#34;The role of masking for efficient supervised knowledge distillation of vision transformers&#34;
+Expertise. Model compression of large transformers, using quantization and distillation
+Next step. Samsung Research
+linkedin, mail Hagyeong Lee M.S. @ POSTECH EE (22.09--24.08): &#34;Neural image compression with text-guided encoding for both pixel-level and perceptual fidelity&#34;
+Expertise. Multimodal data compression
+Next step. KBSI (한국기초과학지원연구원)
+webpage, mail, twitter Jiwoon Lee M.</description>
     </item>
     
     <item>
@@ -147,23 +141,17 @@ Minjae Park (Winter &amp;lsquo;23; now at EffL)</description>
       
       <guid>https://effl.postech.ac.kr/docs/research/collaborators/</guid>
       <description>Our recent industry collaborators include:
-Samsung Advanced Institute of Technology: ICML 2024, TMLR 2023 Google: As a visiting faculty researcher, and as a student intern DeepMind: ICML 2023 NAVER: NAACL 2024 Krafton: CVPR 2024 VPIX medical: (Private project) In addition, we have worked with universities abroad:
+Samsung Advanced Institute of Technology: ICML 2024, TMLR 2023 Google: EMNLP 2024; as a visiting faculty researcher, and as a student intern DeepMind: ICML 2023 NAVER: NAACL 2024 Krafton: CVPR 2024 VPIX medical: (Private project) In addition, we have worked with universities abroad:
 University College London: NeurIPS 2023, ICML 2023 University of Michigan: CVPR 2024 </description>
     </item>
     
     <item>
-      <title>Old News</title>
+      <title>Past news</title>
       <link>https://effl.postech.ac.kr/olds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://effl.postech.ac.kr/olds/</guid>
-      <description>News # ICML 2024 Two papers will be presented at ICML 2024 🎊.
-A new text-guided image compression algorithm (led by Hagyeong and Minkyu, in collaboration with SAIT).
-A mesh-based neural field architecture for spherical data.
-(2024.05.02)
-CVPR 2024 Two papers will be presented at CVPR 2024 🎊.
-An intriguing way to accelerate neural field training (Oral, led by Junwon and Sangyoon).
-A way to characterize visual biases in the form of text keywords (Highlight, collaboration with UMich and KAIST).</description>
+      <description>Past news # 2024 # (Sep) Three papers accepted at EMNLP 2024 🇺🇸 (Sep) Received Gemma 2 Academic Program Credit Award from Google ($10,000) 💰 (Jul) An undergrad intern (Inkwan) will be a Korean Presidential Science Fellow 💰 (Jul) One paper accepted at ECCV 2024 🇮🇹 (Jun) Seungwoo and Hagyeong defended their M.S. theses 🛡️ (May) Two papers accepted at ICML 2024 🇦🇹 (Mar) One paper accepted at NAACL 2024 🇲🇽 (Mar) One paper accepted at IEEE S&amp;amp;P 2024 (Feb) Two papers accepted at CVPR 2024 🇺🇸 (1 oral, 1 highlight) (Feb) Junwon and Jiwoon earned their M.</description>
     </item>
     
     <item>
