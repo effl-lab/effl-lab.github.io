@@ -31,6 +31,10 @@ Hyunjong Ok,<sup>\*</sup> Suho Yoo,<sup>\*</sup> and Jaeho Lee
 Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
 **IEEE TNNLS**  
 
+[**Prompt-based Depth Pruning of Large Language Models**](https://arxiv.org/abs/2502.04348)  
+Juyun Wee,<sup>\*</sup> Minjae Park,<sup>\*</sup> and Jaeho Lee  
+arXiv 2502.04348  
+
 ### **2024**
 
 [**Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**](https://arxiv.org/abs/2406.18002)  
