@@ -88,7 +88,7 @@ Jiwoong Im,<sup>\*</sup> Nayoung Kwon,<sup>\*</sup> Taewoo Park, Jiheon Woo, Jae
 **IEEE IoT Journal** (IEEE Communication Theory Workshop 2024)  
 
 
-[**Constructing a Singing Style Captioning Dataset**](https://arxiv.org/abs/2409.09866)  
+[**S2Cap: A Benchmark and a Baseline for Singing Style Captioning**](https://arxiv.org/abs/2409.09866)  
 Hyunjong Ok and Jaeho Lee  
 arXiv 2409.09866  
 [dataset](https://github.com/HJ-Ok/S2cap)
