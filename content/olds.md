@@ -8,6 +8,11 @@ bookToc: false
 ## **Past news**
 
 ### **2024**
+- (Dec) Seungwoo and Hagyeong won the best M.S. dissertation award from EE@POSTECH 🎓
+- (Dec) Yuji defended 🛡️
+- (Nov) Yuji won the award of Chief-of-Staff of ROKAF in the MAICON (military AI competition) 🏆
+- (Nov) Hyunjong won outstanding paper award at KAIA fall conference for his work, AudioBERT 🏆
+- (Nov) Jaeho gave a talk at Google APAC 🌏
 - (Sep) Three papers accepted at EMNLP 2024 🇺🇸
 - (Sep) Received Gemma 2 Academic Program Credit Award from Google ($10,000) 💰
 - (Jul) An undergrad intern (Inkwan) will be a Korean Presidential Science Fellow 💰
