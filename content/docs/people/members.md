@@ -67,7 +67,7 @@ weight: 1
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/members/Hyenjun.jpg" alt="Hyenjun Kim" style="width: 120px; margin-right: 20px;">
+  <img src="/images/members/Hyeonjun.jpg" alt="Hyeonjun Kim" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Hyeonjun Kim</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Learning Vision Language Models with Many Applications</code><br>
