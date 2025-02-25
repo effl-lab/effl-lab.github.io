@@ -6,7 +6,17 @@ weight: 3
 ---
 
 ### **Alumni**
----
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Yuji.jpg" alt="Yu Ji Byun" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Yu Ji Byun</strong></h3>
+    POSTECH Defense Science (23.03--25.02): "Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication"<br>
+    <strong>Expertise.</strong> Federated Learning, High-res Videos<br>
+    <strong>Next step.</strong> ROKMC<br>
+    <a href="/docs/people/member/yuji/">webpage</a>, <a href="mailto:yujibyun@postech.ac.kr">mail</a>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/Seungwoo.jpg" alt="Seungwoo Son" style="width: 120px; margin-right: 20px;">
@@ -19,8 +29,6 @@ weight: 3
   </div>
 </div>
 
----
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/hagyeong0.jpg" alt="Hagyeong Lee" style="width: 120px; margin-right: 20px;">
   <div>
@@ -32,20 +40,16 @@ weight: 3
   </div>
 </div>
 
----
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/Jiwoon.jpg" alt="Jiwoon Lee" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jiwoon Lee</strong></h3>
     M.S. @ POSTECH EE (22.03--24.02): "Semi-ensemble: A simple approach to over-parameterized model interpolation"<br>
-    <strong>Expertise.</strong> Model Merging, federated Learning, and knowledge distillation<br>
+    <strong>Expertise.</strong> Model Merging, federated learning, and knowledge distillation<br>
     <strong>Next step.</strong> FASOO<br>
     <a href="mailto:jwlee9702@postech.ac.kr">mail</a>
   </div>
 </div>
-
----
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/Junwon1.jpg" alt="Junwon Seo" style="width: 120px; margin-right: 20px;">
