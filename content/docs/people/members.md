@@ -94,18 +94,6 @@ weight: 1
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/members/Yuji.jpg" alt="Yu Ji Byun" style="width: 120px; margin-right: 20px;">
-  <div>
-    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Yu Ji Byun</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Completing High-Resolution Videos with Low Resources 📹</code><br>
-    POSTECH Defense Science (23.03--)<br>
-    Captain @ ROKMC<br>
-    <strong>Keywords:</strong> High-res Videos, Image Inpainting, Computer Vision<br>
-    <a href="/docs/people/member/yuji/">webpage</a>, <a href="mailto:yujibyun@postech.ac.kr">mail</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/Juyun.jpg" alt="Juyun Wee" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Juyun Wee</strong></h3>
