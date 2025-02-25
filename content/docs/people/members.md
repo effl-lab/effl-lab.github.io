@@ -27,7 +27,7 @@ weight: 1
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Sangyoon Lee</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Hyperefficient Neural Fields ⚡️</code><br>
-    POSTECH AI (24.02--)<br>
+    M.S.+Ph.D. @ POSTECH AI (24.02--)<br>
     <strong>Keywords:</strong> Fast Neural Fields, Editable Neural Fields, Neural Compression<br>
     <a href="/docs/people/member/sangyoon/">webpage</a>, <a href="mailto:sangyoon.lee@postech.ac.kr">mail</a>
   </div>
@@ -49,7 +49,7 @@ weight: 1
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Hyunjong Ok</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Advancing Audio Technologies for Multimodal Intelligence 🔈</code><br>
-    POSTECH AI (24.02--)<br>
+    M.S.+Ph.D. @ POSTECH AI (24.02--)<br>
     <strong>Keywords:</strong> Efficient LLM, Multi-modal learning, Audio Technologies<br>
     <a href="https://hj-ok.github.io">webpage</a>, <a href="mailto:minjae0047@postech.ac.kr">mail</a>
   </div>
@@ -63,6 +63,17 @@ weight: 1
     M.S.+Ph.D. @ POSTECH AI (24.09--)<br>
     <strong>Keywords:</strong> Neural Fields, Learning Dynamics<br>
     <a href="https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ">Google Scholar</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Hyenjun.jpg" alt="Hyenjun Kim" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Hyeonjun Kim</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Learning Vision Language Models with Many Applications</code><br>
+    M.S.+Ph.D. @ POSTECH AI (25.02--)<br>
+    <strong>Keywords:</strong> Multimodal Learning, Model Efficiency<br>
+    <a href="mailto:kim.hyeonjun@postech.ac.kr">mail</a>
   </div>
 </div>
 
@@ -136,6 +147,17 @@ weight: 1
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Low-precision Training of LLM</code><br>
     POSTECH EE (24.09--)<br>
     <strong>Keywords:</strong> LLM, Quantization<br>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Minhee.jpeg" alt="Minhee Lee" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minhee Lee</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Compressing Large Language Models</code><br>
+    POSTECH AI (25.02--)<br>
+    <strong>Keywords:</strong> LLM pruning, Speculative decoding<br>
+    <a href="https://github.com/MoOo2mini">webpage</a>, <a href="mailto:mhlee02@postech.ac.kr">mail</a>
   </div>
 </div>
 
