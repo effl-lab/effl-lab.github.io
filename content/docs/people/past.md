@@ -5,7 +5,7 @@ bookToc: false
 weight: 3
 ---
 
-### **Alumni**
+## **Alumni**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/Yuji.jpg" alt="Yu Ji Byun" style="width: 120px; margin-right: 20px;">
@@ -116,7 +116,7 @@ M.S. @ POSTECH EE (22.03--24.02): "In search of a data transformation that accel
 ######
 --- -->
 
-### **Past Interns**
+## **Past Interns**
 **Seoyun Jeong** (Summer '24)  
 Collaborative Decoding with Compressed Models 
 
