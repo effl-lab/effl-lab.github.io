@@ -31,6 +31,10 @@ Hyunjong Ok,<sup>\*</sup> Suho Yoo,<sup>\*</sup> and Jaeho Lee
 Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
 **IEEE TNNLS**  
 
+[**On the Internal Representations of Graph Metanetworks**](https://openreview.net/forum?id=WAyD9ZPuk6)  
+Taesun Yeom and Jaeho Lee  
+**ICLR 2025 Workshop**: Weight Space Learning  
+
 [**Prompt-based Depth Pruning of Large Language Models**](https://arxiv.org/abs/2502.04348)  
 Juyun Wee,<sup>\*</sup> Minjae Park,<sup>\*</sup> and Jaeho Lee  
 arXiv 2502.04348  
