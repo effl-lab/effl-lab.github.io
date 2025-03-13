@@ -73,7 +73,7 @@ weight: 1
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Learning Vision Language Models with Many Applications</code><br>
     M.S.+Ph.D. @ POSTECH AI (25.02--)<br>
     <strong>Keywords:</strong> Multimodal Learning, Model Efficiency<br>
-    <a href="mailto:kim.hyeonjun@postech.ac.kr">mail</a>
+    <a href="mailto:kim.hyeonjun@postech.ac.kr">mail</a>, <a href="https://www.linkedin.com/in/현준-김-6443a0311/">linkedin</a>
   </div>
 </div>
 
