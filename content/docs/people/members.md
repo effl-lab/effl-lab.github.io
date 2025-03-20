@@ -139,7 +139,7 @@ weight: 1
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/members/Minhee.jpeg" alt="Minhee Lee" style="width: 120px; margin-right: 20px;">
+  <img src="/images/members/Minhee2.jpg" alt="Minhee Lee" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minhee Lee</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Compressing Large Language Models</code><br>
