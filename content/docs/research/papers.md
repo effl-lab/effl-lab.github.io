@@ -39,6 +39,10 @@ Taesun Yeom and Jaeho Lee
 Juyun Wee,<sup>\*</sup> Minjae Park,<sup>\*</sup> and Jaeho Lee  
 arXiv 2502.04348  
 
+[**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**](https://www.arxiv.org/abs/2503.16853)  
+Suho Yoo,<sup>\*</sup> Hyunjong Ok,<sup>\*</sup> and Jaeho Lee  
+arXiv 2503.16853  
+
 ### **2024**
 
 [**Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**](https://arxiv.org/abs/2406.18002)  
