@@ -29,7 +29,7 @@ weight: 1
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Hyperefficient Neural Fields ⚡️</code><br>
     M.S.+Ph.D. @ POSTECH AI (24.02--)<br>
     <strong>Keywords:</strong> Fast Neural Fields, Editable Neural Fields, Neural Compression<br>
-    <a href="/docs/people/member/sangyoon/">webpage</a>, <a href="mailto:sangyoon.lee@postech.ac.kr">mail</a>
+    <a href="https://sangyoon-lee99.github.io">webpage</a>, <a href="mailto:sangyoon.lee@postech.ac.kr">mail</a>
   </div>
 </div>
 
