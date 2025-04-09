@@ -13,7 +13,7 @@ We mainly target top-tier ML conferences, and other domain-specific venues that 
 
 - **Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**  
   Yuji Byun and Jaeho Lee  
-  *NAACL 2025 (NeurIPS 2024 AFM Workshop)* [[paper](https://arxiv.org/abs/2406.17477)]
+  *NAACL 2025* (NeurIPS 2024 AFM Workshop) [[paper](https://arxiv.org/abs/2406.17477)]
 
 - **Fast Training of Sinusoidal Neural Fields via Scaling Initialization**  
   Taesun Yeom,<sup>\*</sup> Sangyoon Lee,<sup>\*</sup> and Jaeho Lee  
@@ -33,15 +33,15 @@ We mainly target top-tier ML conferences, and other domain-specific venues that 
 
 - **On the Internal Representations of Graph Metanetworks**  
   Taesun Yeom and Jaeho Lee  
-  *ICLR 2025 Workshop: Weight Space Learning* [[paper](https://openreview.net/forum?id=WAyD9ZPuk6)]
+  *ICLR 2025 Workshop*: Weight Space Learning [[paper](https://openreview.net/forum?id=WAyD9ZPuk6)]
 
 - **Prompt-based Depth Pruning of Large Language Models**  
   Juyun Wee,<sup>\*</sup> Minjae Park,<sup>\*</sup> and Jaeho Lee  
-  *arXiv 2502.04348* [[paper](https://arxiv.org/abs/2502.04348)]
+  arXiv 2502.04348 [[paper](https://arxiv.org/abs/2502.04348)]
 
 - **Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**  
   Suho Yoo,<sup>\*</sup> Hyunjong Ok,<sup>\*</sup> and Jaeho Lee  
-  *arXiv 2503.16853* [[paper](https://www.arxiv.org/abs/2503.16853)]
+  arXiv 2503.16853 [[paper](https://www.arxiv.org/abs/2503.16853)]
 
 ### **2024**
 
@@ -91,7 +91,7 @@ We mainly target top-tier ML conferences, and other domain-specific venues that 
 
 - **S2Cap: A Benchmark and a Baseline for Singing Style Captioning**  
   Hyunjong Ok and Jaeho Lee  
-  *arXiv 2409.09866* [[paper](https://arxiv.org/abs/2409.09866)] [[dataset](https://github.com/HJ-Ok/S2cap)]
+  arXiv 2409.09866 [[paper](https://arxiv.org/abs/2409.09866)] [[dataset](https://github.com/HJ-Ok/S2cap)]
 
 
 ### **2023**
@@ -118,7 +118,7 @@ We mainly target top-tier ML conferences, and other domain-specific venues that 
 
 - **Debiased Distillation by Transplanting the Last Layer**  
   Jiwoon Lee and Jaeho Lee  
-  *arXiv 2302.11187* (IPIU 2023) [[paper](https://arxiv.org/abs/2302.11187)]
+  arXiv 2302.11187 (IPIU 2023) [[paper](https://arxiv.org/abs/2302.11187)]
 
 
 ### **2022**
@@ -137,7 +137,7 @@ We mainly target top-tier ML conferences, and other domain-specific venues that 
 
 - **Zero-shot Blind Image Denoising via Implicit Neural Representations**  
   Chaewon Kim, Jaeho Lee, and Jinwoo Shin  
-  *arXiv 2204.02405* [[paper](https://arxiv.org/abs/2204.02405)]
+  arXiv 2204.02405 [[paper](https://arxiv.org/abs/2204.02405)]
 
 
 ### **2021**
