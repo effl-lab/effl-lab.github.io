@@ -20,6 +20,7 @@ We develop theories, algorithms, and systems to make ML more efficient.
 **Join us?** Apply through POSTECH EE or GSAI. For details, see [here](/docs/how-to-join/graduate/).
 
 ### **News**
+- (May 2025) One paper accepted at ICML 2025 🇨🇦
 - (Apr 2025) Jaeho will serve as an Area Chair for NeurIPS 2025
 - (Feb 2025) Jaeho will participate in EU-KR Horizon Researchers Forum on AI 🇧🇪
 - (Feb 2025) Jaeho will serve as an Area Chair for ACL RR
