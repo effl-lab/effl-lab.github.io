@@ -39,6 +39,10 @@ Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon
 Taesun Yeom and Jaeho Lee  
 **ICLR 2025 Workshop**: Weight Space Learning  
 
+[**Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**](https://arxiv.org/abs/2503.23439)  
+Hyunjong Ok, Suho Yoo, and Jaeho Lee  
+arxiv 2503.23439  
+
 [**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**](https://www.arxiv.org/abs/2503.16853)  
 Suho Yoo,<sup>\*</sup> Hyunjong Ok,<sup>\*</sup> and Jaeho Lee  
 arXiv 2503.16853  
