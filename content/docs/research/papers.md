@@ -10,6 +10,10 @@ We mainly target top-tier ML conferences, and other domain-specific venues that 
 
 ---
 ### **2025**
+[**Prompt-based Depth Pruning of Large Language Models**](https://arxiv.org/abs/2502.04348)  
+Juyun Wee,<sup>\*</sup> Minjae Park,<sup>\*</sup> and Jaeho Lee  
+**ICML 2025**  
+
 [**Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication**](https://arxiv.org/abs/2406.17477)  
 Yuji Byun and Jaeho Lee  
 **NAACL 2025** (NeurIPS 2024 AFM Workshop)  
@@ -34,10 +38,6 @@ Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon
 [**On the Internal Representations of Graph Metanetworks**](https://openreview.net/forum?id=WAyD9ZPuk6)  
 Taesun Yeom and Jaeho Lee  
 **ICLR 2025 Workshop**: Weight Space Learning  
-
-[**Prompt-based Depth Pruning of Large Language Models**](https://arxiv.org/abs/2502.04348)  
-Juyun Wee,<sup>\*</sup> Minjae Park,<sup>\*</sup> and Jaeho Lee  
-arXiv 2502.04348  
 
 [**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**](https://www.arxiv.org/abs/2503.16853)  
 Suho Yoo,<sup>\*</sup> Hyunjong Ok,<sup>\*</sup> and Jaeho Lee  
