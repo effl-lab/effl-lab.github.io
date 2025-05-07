@@ -5,4 +5,4 @@ bookToc: false
 bookHidden: true
 ---
 
-<meta http-equiv="refresh" content="0; url='https://sangyoonlee99.github.io'" />
+<meta http-equiv="refresh" content="0; url='https://sangyoon-lee99.github.io'" />
