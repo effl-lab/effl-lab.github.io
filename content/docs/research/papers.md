@@ -10,6 +10,10 @@ We mainly target top-tier ML conferences, and other domain-specific venues that 
 
 ---
 ### **2025**
+[**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**](https://www.arxiv.org/abs/2503.16853)  
+Suho Yoo,<sup>\*</sup> Hyunjong Ok,<sup>\*</sup> and Jaeho Lee  
+**ACL Findings 2025**  
+
 [**Prompt-based Depth Pruning of Large Language Models**](https://arxiv.org/abs/2502.04348)  
 Juyun Wee,<sup>\*</sup> Minjae Park,<sup>\*</sup> and Jaeho Lee  
 **ICML 2025**  
@@ -43,9 +47,6 @@ Taesun Yeom and Jaeho Lee
 Hyunjong Ok, Suho Yoo, and Jaeho Lee  
 arxiv 2503.23439  
 
-[**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**](https://www.arxiv.org/abs/2503.16853)  
-Suho Yoo,<sup>\*</sup> Hyunjong Ok,<sup>\*</sup> and Jaeho Lee  
-arXiv 2503.16853  
 
 ### **2024**
 
