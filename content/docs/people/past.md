@@ -35,7 +35,7 @@ weight: 3
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Hagyeong Lee</strong></h3>
     M.S. @ POSTECH EE (22.09--24.08): "Neural image compression with text-guided encoding for both pixel-level and perceptual fidelity"<br>
     <strong>Expertise.</strong> Multimodal data compression<br>
-    <strong>Next step.</strong> KBSI (한국기초과학지원연구원)<br>
+    <strong>Next step.</strong> KBSI (한국기초과학지원연구원), and then to Samsung AI Center<br>
     <a href="https://hagyeonglee.github.io">webpage</a>, <a href="mailto:hagyeonglee@postech.ac.kr">mail</a>, <a href="https://twitter.com/ha_gyeong_lee">twitter</a>
   </div>
 </div>
