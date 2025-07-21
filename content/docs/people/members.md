@@ -1,4 +1,4 @@
----
+c---
 title: Members 
 type: docs
 bookToc: false
@@ -14,7 +14,7 @@ weight: 1
     Assistant Professor @ <a href="https://ee.postech.ac.kr">POSTECH EE</a> (22.03--)<br>
     Principal Investigator @ <a href="https://effl.postech.ac.kr">EffL</a> (22.03--)<br>
     Visiting Researcher @ <a href="https://research.google">Google</a> (23.09--)<br>
-    <a href="https://jaeho-lee.github.io">webpage</a>, <a href="mailto:jaeho.lee@postech.ac.kr">mail</a>, <a href="https://twitter.com/jaeho_lee_">twitter</a>
+    <a href="https://jaeho-lee.github.io">webpage</a>, <a href="mailto:jaeho.lee@postech.ac.kr">mail</a>, <a href="https://twitter.com/jaeho_lee_">X</a>
   </div>
 </div>
 
@@ -67,6 +67,18 @@ weight: 1
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/yongjun.jpg" alt="Yongjun Kim" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Yongjun Kim</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Derivative-free optimization</code><br>
+    M.S.+Ph.D. @ POSTECH AI (24.09--)<br>
+    <strong>Keywords:</strong> Zeroth-order optimization, Large language model<br>
+    <a href="mailto:yongjun.kim@postech.ac.kr">mail</a>, <a href="https://x.com/kyjhtwt">X</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/Hyeonjun.jpg" alt="Hyeonjun Kim" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Hyeonjun Kim</strong></h3>
@@ -89,7 +101,7 @@ weight: 1
     <strong>Keywords:</strong> Multimodal learning, Image processing, Audio captioning<br>
     <a href="https://minguinho26.github.io">webpage</a>, <a href="mailto:minkyu.kim@postech.ac.kr">mail</a>,
     <a href="https://velog.io/@minkyu4506/posts">blog</a>, <a href="https://taco-nic.github.io">recent project</a>,
-    <a href="https://x.com/minguinho_zeze">twitter</a>
+    <a href="https://x.com/minguinho_zeze">X</a>
   </div>
 </div>
 
