@@ -71,7 +71,7 @@ weight: 1
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Yongjun Kim</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Derivative-free optimization</code><br>
-    M.S.+Ph.D. @ POSTECH CSE (24.09--)<br>
+    M.S.+Ph.D. @ POSTECH AI (24.09--)<br>
     <strong>Keywords:</strong> Zeroth-order optimization, Large language model<br>
     <a href="mailto:yongjun.kim@postech.ac.kr">mail</a>, <a href="https://x.com/kyjhtwt">X</a>
   </div>
