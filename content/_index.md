@@ -20,6 +20,8 @@ We develop theories, algorithms, and systems to make ML more efficient.
 **Join us?** Apply through POSTECH EE or GSAI. For details, see [here](/docs/how-to-join/graduate/).
 
 ### **News**
+- (Aug 2025) EffL participates in [K-AI project](https://n.news.naver.com/mnews/article/421/0008410332) with NAVER
+- (Aug 2025) Hyunjong won outstanding paper award at CKAIA 🇰🇷
 - (May 2025) One paper accepted at ACL Findings 2025 🇦🇹
 - (May 2025) One paper accepted at ICML 2025 🇨🇦
 - (Apr 2025) Jaeho will serve as an Area Chair for NeurIPS 2025
