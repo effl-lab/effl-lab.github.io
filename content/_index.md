@@ -21,6 +21,7 @@ We develop theories, algorithms, and systems to make ML more efficient.
 
 ### **News**
 - (Aug 2025) EffL participates in [K-AI project](https://n.news.naver.com/mnews/article/421/0008410332) with NAVER 🇰🇷
+- (Aug 2025) One paper accepted at CIKM 2025 🇰🇷
 - (Aug 2025) Hyunjong won outstanding paper award at CKAIA 🇰🇷
 - (May 2025) One paper accepted at ACL Findings 2025 🇦🇹
 - (May 2025) One paper accepted at ICML 2025 🇨🇦
