@@ -10,6 +10,11 @@ We mainly target top-tier ML conferences, and other domain-specific venues that 
 
 ---
 ### **2025**
+[**S2Cap: A Benchmark and a Baseline for Singing Style Captioning**](https://arxiv.org/abs/2409.09866)  
+Hyunjong Ok and Jaeho Lee  
+**CIKM 2025**  
+[dataset](https://github.com/HJ-Ok/S2cap)
+
 [**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**](https://www.arxiv.org/abs/2503.16853)  
 Suho Yoo,<sup>\*</sup> Hyunjong Ok,<sup>\*</sup> and Jaeho Lee  
 **ACL Findings 2025**  
@@ -104,11 +109,6 @@ Youngsik Yoon, Jinhwan Nam, Hyojeong Yun, Jaeho Lee, Dongwoo Kim, and Jungseul O
 Jiwoong Im,<sup>\*</sup> Nayoung Kwon,<sup>\*</sup> Taewoo Park, Jiheon Woo, Jaeho Lee, and Yongjune Kim  
 **IEEE IoT Journal** (IEEE Communication Theory Workshop 2024)  
 
-
-[**S2Cap: A Benchmark and a Baseline for Singing Style Captioning**](https://arxiv.org/abs/2409.09866)  
-Hyunjong Ok and Jaeho Lee  
-arXiv 2409.09866  
-[dataset](https://github.com/HJ-Ok/S2cap)
 
 
 ### **2023**
