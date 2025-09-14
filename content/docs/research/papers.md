@@ -52,6 +52,10 @@ Taesun Yeom and Jaeho Lee
 Hyunjong Ok, Suho Yoo, and Jaeho Lee  
 arxiv 2503.23439  
 
+**IterQuant: Iterative Quantization Framework for Mixed-Precision LLM Compression**  
+Hyungyo Jeong, Jiwoo Kim, Hyeokjun Kwon, Jaeho Lee, and Youngjoo Lee  
+in submission
+
 
 ### **2024**
 
