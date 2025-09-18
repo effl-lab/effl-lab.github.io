@@ -52,6 +52,10 @@ Taesun Yeom and Jaeho Lee
 Hyunjong Ok, Suho Yoo, and Jaeho Lee  
 arxiv 2503.23439  
 
+**AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**
+Hyunjong Ok, Suho Yoo, Hyeonjun Kim, and Jaeho Lee
+under review
+
 ### **2024**
 
 [**Decoding with Limited Teacher Supervision Requires Understanding When to Trust the Teacher**](https://arxiv.org/abs/2406.18002)  
