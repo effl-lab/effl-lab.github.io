@@ -52,9 +52,17 @@ Taesun Yeom and Jaeho Lee
 Hyunjong Ok, Suho Yoo, and Jaeho Lee  
 arxiv 2503.23439  
 
-**AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**  
+[**AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**](https://arxiv.org/abs/2509.17641)  
 Hyunjong Ok, Suho Yoo, Hyeonjun Kim, and Jaeho Lee  
-under review
+arXiv 2509.17641  
+
+**Neural Weight Compression for Language Models**  
+Jegwang Ryu, Minkyu Kim, Seungjun Shin, Hee Min Choi, Dokwan Oh, and Jaeho Lee  
+under review  
+
+**Post-training quantization of vision encoders needs prefixing registers**  
+Seunghyeon Kim, Jinho Kim, Taesun Yeom, Wonpyo Park, Kyuyeun Kim, and Jaeho Lee  
+under review  
 
 ### **2024**
 
