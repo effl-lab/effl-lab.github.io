@@ -56,7 +56,7 @@ arxiv 2503.23439
 Hyunjong Ok, Suho Yoo, Hyeonjun Kim, and Jaeho Lee  
 arXiv 2509.17641  
 
-**Neural Weight Compression for Language Models**  
+[**Neural Weight Compression for Language Models**](https://arxiv.org/abs/2510.11234)  
 Jegwang Ryu, Minkyu Kim, Seungjun Shin, Hee Min Choi, Dokwan Oh, and Jaeho Lee  
 under review  
 
