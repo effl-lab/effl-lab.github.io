@@ -58,11 +58,11 @@ arXiv 2509.17641
 
 [**Neural Weight Compression for Language Models**](https://arxiv.org/abs/2510.11234)  
 Jegwang Ryu, Minkyu Kim, Seungjun Shin, Hee Min Choi, Dokwan Oh, and Jaeho Lee  
-under review  
+arXiv 2510.11234  
 
 [**Post-training Quantization of Vision Encoders Needs Prefixing Registers**](https://arxiv.org/abs/2510.04547)  
 Seunghyeon Kim, Jinho Kim, Taesun Yeom, Wonpyo Park, Kyuyeun Kim, and Jaeho Lee  
-under review  
+arXiv 2510.04547  
 
 ### **2024**
 
