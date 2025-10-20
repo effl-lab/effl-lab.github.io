@@ -20,6 +20,8 @@ We develop theories, algorithms, and systems to make ML more efficient.
 **Join us?** Apply through POSTECH EE or GSAI. For details, see [here](/docs/how-to-join/graduate/).
 
 ### **News**
+- (Oct 2025) Jaeho will give a talk at [Global AI Frontiers Symposium](https://aifrontiers.kr/)
+- (Oct 2025) Jaeho has been selected as an outstanding young researcher by CICS
 - (Oct 2025) Sangyoon and Minjae will join NAVER AI Residency program, for [K-AI](https://n.news.naver.com/mnews/article/421/0008410332) 🇰🇷
 - (Sep 2025) Taesun and Minhee won National Research Grants for M.S. students 💰
 - (Sep 2025) Jaeho will serve as an Area Chair for ICLR 2026
