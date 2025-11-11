@@ -19,7 +19,8 @@ We develop theories, algorithms, and systems to make ML more efficient.
 
 **Join us?** Apply through POSTECH EE or GSAI. For details, see [here](/docs/how-to-join/graduate/).
 
-### **News**
+### **News**  
+- (Nov 2025) One paper accepted at DATE 2026 🇮🇹
 - (Oct 2025) Jaeho has been selected as one of the [Top Area Chairs](https://neurips.cc/Conferences/2025/ProgramCommittee) at NeurIPS 2025
 - (Oct 2025) Jaeho will give a talk at [Global AI Frontiers Symposium](https://aifrontiers.kr/)
 - (Oct 2025) Jaeho has been selected as an outstanding young researcher by CICS
