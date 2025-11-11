@@ -11,8 +11,8 @@ We mainly publish at ML conferences, but we also study its applications to vario
 
 Roughly, the mixture ratio is (as of 2025):
 - **Machine Learning** (ICLR/ICML/NeurIPS/...): 60%
-- **Language** (ACL/EMNLP/NAACL): 16%
-- **Vision** (CVPR/ICCV/ECCV): 11%
+- **Language** (ACL/EMNLP/NAACL/...): 16%
+- **Vision** (CVPR/ICCV/ECCV/...): 11%
 - **Speech & Audio** (ICASSP/InterSpeech/...): 5%
 - **Others** (Systems/Security/...): 8%
 
