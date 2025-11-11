@@ -5,10 +5,23 @@ bookToc: true
 weight: 2
 ---
 
+### **Disclaimer.**
 
-We mainly target top-tier ML conferences, and other domain-specific venues that involve ML.  
+We mainly publish at ML conferences, but we also study its applications to various domains, such as Vision, Language, Speech, or Systems.
+
+Roughly, the mixture ratio is (as of 2025):
+- **Machine Learning** (ICLR/ICML/NeurIPS/...): 60%
+- **Language** (ACL/EMNLP/NAACL): 16%
+- **Vision** (CVPR/ICCV/ECCV): 11%
+- **Speech & Audio** (ICASSP/InterSpeech/...): 5%
+- **Others** (Systems/Security/...): 8%
 
 ---
+### **2026**
+**IterQuant: Iterative Quantization Framework for Mixed-Precision LLM Compression**  
+Hyungyo Jeong, Jiwoo Kim, Hyeokjun Kwon, Jaeho Lee and Youngjoo Lee  
+**DATE 2026**
+
 ### **2025**
 [**S2Cap: A Benchmark and a Baseline for Singing Style Captioning**](https://arxiv.org/abs/2409.09866)  
 Hyunjong Ok and Jaeho Lee  
