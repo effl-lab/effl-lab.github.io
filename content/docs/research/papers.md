@@ -5,7 +5,7 @@ bookToc: true
 weight: 2
 ---
 
-### **Disclaimer.**
+### **Disclaimer**
 
 We mainly publish at ML conferences, but we also study its applications to various domains, such as Vision, Language, Speech, or Systems.
 
