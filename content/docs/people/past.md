@@ -8,6 +8,32 @@ weight: 3
 ## **Alumni**
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Minkyu.jpg" alt="Minkyu Kim" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minkyu Kim</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Harnessing Language Models for Multimodal Tasks 🏞️🎙️</code><br>
+    POSTECH AI (23.03--25.08)<br>
+    <strong>Keywords:</strong> Multimodal learning, Image processing, Audio captioning<br>
+    <a href="https://minguinho26.github.io">webpage</a>, <a href="mailto:minkyu.kim@postech.ac.kr">mail</a>,
+    <a href="https://velog.io/@minkyu4506/posts">blog</a>, <a href="https://taco-nic.github.io">recent project</a>,
+    <a href="https://x.com/minguinho_zeze">X</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Juyun.jpg" alt="Juyun Wee" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Juyun Wee</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Compressing Large Language Models 🍀</code><br>
+    POSTECH EE (23.09--25.08)<br>
+    Office Team Lead @ EffL<br>
+    <strong>Keywords:</strong> LLM Compression, Model Pruning, Model Efficiency<br>
+    <a href="/docs/people/member/juyun/">webpage</a>, <a href="mailto:jywee@postech.ac.kr">mail</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/Yuji.jpg" alt="Yu Ji Byun" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Yu Ji Byun</strong></h3>
