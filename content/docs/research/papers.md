@@ -17,6 +17,28 @@ Roughly, the mixture ratio is (as of 2025):
 - **Others** (Systems/Security/...): 8%
 
 ---
+### **Preprints**
+[**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**](https://arxiv.org/abs/2511.21397)  
+Jiyun Bae, Hyunjong Ok, Sangwoo Mo, and Jaeho Lee  
+arXiv 2511.21397  
+
+[**Neural Weight Compression for Language Models**](https://arxiv.org/abs/2510.11234)  
+Jegwang Ryu, Minkyu Kim, Seungjun Shin, Hee Min Choi, Dokwan Oh, and Jaeho Lee  
+arXiv 2510.11234  
+
+[**Post-training Quantization of Vision Encoders Needs Prefixing Registers**](https://arxiv.org/abs/2510.04547)  
+Seunghyeon Kim, Jinho Kim, Taesun Yeom, Wonpyo Park, Kyuyeun Kim, and Jaeho Lee  
+arXiv 2510.04547  
+
+[**Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**](https://arxiv.org/abs/2503.23439)  
+Hyunjong Ok, Suho Yoo, and Jaeho Lee  
+arxiv 2503.23439  
+
+[**AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**](https://arxiv.org/abs/2509.17641)  
+Hyunjong Ok, Suho Yoo, Hyeonjun Kim, and Jaeho Lee  
+arXiv 2509.17641  
+
+
 ### **2026**
 **IterQuant: Iterative Quantization Framework for Mixed-Precision LLM Compression**  
 Hyungyo Jeong, Jiwoo Kim, Hyeokjun Kwon, Jaeho Lee and Youngjoo Lee  
@@ -61,21 +83,6 @@ Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon
 Taesun Yeom and Jaeho Lee  
 **ICLR 2025 Workshop**: Weight Space Learning  
 
-[**Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**](https://arxiv.org/abs/2503.23439)  
-Hyunjong Ok, Suho Yoo, and Jaeho Lee  
-arxiv 2503.23439  
-
-[**AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**](https://arxiv.org/abs/2509.17641)  
-Hyunjong Ok, Suho Yoo, Hyeonjun Kim, and Jaeho Lee  
-arXiv 2509.17641  
-
-[**Neural Weight Compression for Language Models**](https://arxiv.org/abs/2510.11234)  
-Jegwang Ryu, Minkyu Kim, Seungjun Shin, Hee Min Choi, Dokwan Oh, and Jaeho Lee  
-arXiv 2510.11234  
-
-[**Post-training Quantization of Vision Encoders Needs Prefixing Registers**](https://arxiv.org/abs/2510.04547)  
-Seunghyeon Kim, Jinho Kim, Taesun Yeom, Wonpyo Park, Kyuyeun Kim, and Jaeho Lee  
-arXiv 2510.04547  
 
 ### **2024**
 
