@@ -34,12 +34,12 @@ arXiv 2510.04547
 Hyunjong Ok, Suho Yoo, and Jaeho Lee  
 arxiv 2503.23439  
 
-[**AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**](https://arxiv.org/abs/2509.17641)  
-Hyunjong Ok, Suho Yoo, Hyeonjun Kim, and Jaeho Lee  
-arXiv 2509.17641  
-
 
 ### **2026**
+[**AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**](https://arxiv.org/abs/2509.17641)  
+Hyunjong Ok, Suho Yoo, Hyeonjun Kim, and Jaeho Lee  
+**ICASSP 2026**  
+
 **IterQuant: Iterative Quantization Framework for Mixed-Precision LLM Compression**  
 Hyungyo Jeong, Jiwoo Kim, Hyeokjun Kwon, Jaeho Lee and Youngjoo Lee  
 **DATE 2026**
