@@ -45,7 +45,7 @@ Hyungyo Jeong, Jiwoo Kim, Hyeokjun Kwon, Jaeho Lee and Youngjoo Lee
 **DATE 2026**
 
 ### **2025**
-[**S2Cap: A Benchmark and a Baseline for Singing Style Captioning**](https://arxiv.org/abs/2409.09866)  
+[**S2Cap: A Benchmark and a Baseline for Singing Style Captioning**](https://dl.acm.org/doi/10.1145/3746252.3761614)  
 Hyunjong Ok and Jaeho Lee  
 **CIKM 2025**  
 [dataset](https://github.com/HJ-Ok/S2cap)
