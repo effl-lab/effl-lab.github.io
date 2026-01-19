@@ -50,7 +50,7 @@ Hyunjong Ok and Jaeho Lee
 **CIKM 2025**  
 [dataset](https://github.com/HJ-Ok/S2cap)
 
-[**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**](https://www.arxiv.org/abs/2503.16853)  
+[**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**]([https://www.arxiv.org/abs/2503.16853](https://aclanthology.org/2025.findings-acl.730/))  
 Suho Yoo,<sup>\*</sup> Hyunjong Ok,<sup>\*</sup> and Jaeho Lee  
 **ACL Findings 2025**  
 
