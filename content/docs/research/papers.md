@@ -18,6 +18,10 @@ Roughly, the mixture ratio is (as of 2025):
 
 ---
 ### **Preprints**
+[**Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models**](https://arxiv.org/abs/2601.14152)  
+Hyunjong Ok and Jaeho Lee  
+arXiv 2601.14152  
+
 [**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**](https://arxiv.org/abs/2511.21397)  
 Jiyun Bae, Hyunjong Ok, Sangwoo Mo, and Jaeho Lee  
 arXiv 2511.21397  
