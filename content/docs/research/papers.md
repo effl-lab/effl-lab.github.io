@@ -18,6 +18,10 @@ Roughly, the mixture ratio is (as of 2025):
 
 ---
 ### **Preprints**
+[**Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization**](https://arxiv.org/abs/2602.00827)  
+Taesun Yeom, Taehyeok Ha, and Jaeho Lee
+arXiv 2602.00827  
+
 [**Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models**](https://arxiv.org/abs/2601.14152)  
 Hyunjong Ok and Jaeho Lee  
 arXiv 2601.14152  
