@@ -13,7 +13,8 @@ weight: 3
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minkyu Kim</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Harnessing Language Models for Multimodal Tasks 🏞️🎙️</code><br>
     POSTECH AI (23.03--25.08)<br>
-    <strong>Keywords:</strong> Multimodal learning, Image processing, Audio captioning<br>
+    <strong>Expertise.</strong> Data Compression, Multimodal AI<br>
+    <strong>Next step.</strong> AITRICS<br>
     <a href="https://minguinho26.github.io">webpage</a>, <a href="mailto:minkyu.kim@postech.ac.kr">mail</a>,
     <a href="https://velog.io/@minkyu4506/posts">blog</a>, <a href="https://taco-nic.github.io">recent project</a>,
     <a href="https://x.com/minguinho_zeze">X</a>
@@ -26,8 +27,8 @@ weight: 3
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Juyun Wee</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Compressing Large Language Models 🍀</code><br>
     POSTECH EE (23.09--25.08)<br>
-    Office Team Lead @ EffL<br>
-    <strong>Keywords:</strong> LLM Compression, Model Pruning, Model Efficiency<br>
+    <strong>Expertise.</strong> Model Compression, LLM<br>
+    <strong>Next step.</strong> SKT<br>
     <a href="/docs/people/member/juyun/">webpage</a>, <a href="mailto:jywee@postech.ac.kr">mail</a>
   </div>
 </div>
@@ -50,7 +51,7 @@ weight: 3
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Seungwoo Son</strong></h3>
     M.S. @ POSTECH EE (22.03--24.08): "The role of masking for efficient supervised knowledge distillation of vision transformers"<br>
     <strong>Expertise.</strong> Model compression of large transformers, using quantization and distillation<br>
-    <strong>Next step.</strong> Samsung Research<br>
+    <strong>Next step.</strong> Samsung Research, and then to Qualcomm<br>
     <a href="https://www.linkedin.com/in/seungwoo-son-057511323">linkedin</a>, <a href="mailto:swson32@gmail.com">mail</a>
   </div>
 </div>
@@ -72,7 +73,7 @@ weight: 3
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jiwoon Lee</strong></h3>
     M.S. @ POSTECH EE (22.03--24.02): "Semi-ensemble: A simple approach to over-parameterized model interpolation"<br>
     <strong>Expertise.</strong> Model Merging, federated learning, and knowledge distillation<br>
-    <strong>Next step.</strong> FASOO<br>
+    <strong>Next step.</strong> Fasoo<br>
     <a href="mailto:jwlee9702@postech.ac.kr">mail</a>
   </div>
 </div>
