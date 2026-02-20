@@ -11,8 +11,7 @@ weight: 3
   <img src="/images/members/Minkyu.jpg" alt="Minkyu Kim" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minkyu Kim</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Harnessing Language Models for Multimodal Tasks 🏞️🎙️</code><br>
-    POSTECH AI (23.03--25.08)<br>
+    POSTECH AI (23.03--25.08): "Image Coding for Machine with Robustness under Group Shifts"<br>
     <strong>Expertise.</strong> Data Compression, Multimodal AI<br>
     <strong>Next step.</strong> AITRICS<br>
     <a href="https://minguinho26.github.io">webpage</a>, <a href="mailto:minkyu.kim@postech.ac.kr">mail</a>,
@@ -25,8 +24,7 @@ weight: 3
   <img src="/images/members/Juyun.jpg" alt="Juyun Wee" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Juyun Wee</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Compressing Large Language Models 🍀</code><br>
-    POSTECH EE (23.09--25.08)<br>
+    POSTECH EE (23.09--25.08): "Prompt-based depth pruning of large language models"<br>
     <strong>Expertise.</strong> Model Compression, LLM<br>
     <strong>Next step.</strong> SKT<br>
     <a href="/docs/people/member/juyun/">webpage</a>, <a href="mailto:jywee@postech.ac.kr">mail</a>
