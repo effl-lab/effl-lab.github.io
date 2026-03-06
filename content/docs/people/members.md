@@ -133,6 +133,7 @@ weight: 1
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Efficient Vision Encoder📸</code><br>
     POSTECH EE (24.09--)<br>
     <strong>Keywords:</strong> Quantization, VLM, Vision Encoder<br>
+    <a href="mailto:shkim0418@postech.ac.kr">mail</a>
   </div>
 </div>
 
