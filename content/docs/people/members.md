@@ -60,7 +60,7 @@ weight: 1
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jiyun Bae</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Data-dependent Visual Prompts 🕶️</code><br>
-    POSTECH AI (24.02--)<br>
+    Ph.D. @ POSTECH AI (26.02--)<br>
     Academic Team Lead @ EffL<br>
     <strong>Keywords:</strong> Visual Prompts, Black-box models, LLMs, Fairness<br>
     <a href="/docs/people/member/jiyunbae/">webpage</a>, <a href="mailto:jiyun.bae@postech.ac.kr">mail</a>
@@ -98,6 +98,17 @@ weight: 1
     M.S.+Ph.D. @ POSTECH AI (25.02--)<br>
     <strong>Keywords:</strong> Multimodal Learning, Model Efficiency<br>
     <a href="mailto:kim.hyeonjun@postech.ac.kr">mail</a>, <a href="https://www.linkedin.com/in/현준-김-6443a0311/">webpage</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/Sangbeom2.jpg" alt="Sangbeom Ha" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Sangbeom Ha</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;"> Efficient Robot Inference </code><br>
+    M.S.+Ph.D. @ POSTECH AI (26.02--)<br>
+    <strong>Keywords:</strong> VLA Caching<br>
   </div>
 </div>
 
