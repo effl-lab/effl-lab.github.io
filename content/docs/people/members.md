@@ -56,6 +56,18 @@ weight: 1
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/members/jiyun2.jpg" alt="Jiyun Bae" style="width: 120px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jiyun Bae</strong></h3>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Data-dependent Visual Prompts 🕶️</code><br>
+    POSTECH AI (24.02--)<br>
+    Academic Team Lead @ EffL<br>
+    <strong>Keywords:</strong> Visual Prompts, Black-box models, LLMs, Fairness<br>
+    <a href="/docs/people/member/jiyunbae/">webpage</a>, <a href="mailto:jiyun.bae@postech.ac.kr">mail</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/taesun.jpeg" alt="Taesun Yeom" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Taesun Yeom</strong></h3>
@@ -91,18 +103,6 @@ weight: 1
 
 ---
 ## **M.S. track**
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/members/jiyun2.jpg" alt="Jiyun Bae" style="width: 120px; margin-right: 20px;">
-  <div>
-    <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jiyun Bae</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Data-dependent Visual Prompts 🕶️</code><br>
-    POSTECH AI (24.02--)<br>
-    Academic Team Lead @ EffL<br>
-    <strong>Keywords:</strong> Visual Prompts, Black-box models, LLMs, Fairness<br>
-    <a href="/docs/people/member/jiyunbae/">webpage</a>, <a href="mailto:jiyun.bae@postech.ac.kr">mail</a>
-  </div>
-</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/members/jegwang.jpg" alt="Jegwang Ryu" style="width: 120px; margin-right: 20px;">
