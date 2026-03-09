@@ -152,8 +152,8 @@ weight: 1
   <img src="/images/members/Minsu.jpg" alt="Minsu Lee" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minsu Lee</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Efficient image enhancement in extreme adverse conditions 🌌</code><br>
-    POSTECH AI (25.02--)<br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Efficient Image Enhancement in Extreme Adverse Conditions 🌌</code><br>
+    POSTECH AI (26.03--)<br>
     <strong>Keywords:</strong> Computer Vision, Denoising<br>
   </div>
 </div>
