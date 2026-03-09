@@ -71,7 +71,7 @@ weight: 1
   <img src="/images/members/taesun.jpeg" alt="Taesun Yeom" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Taesun Yeom</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Understanding Training Dynamics of Neural Fields📝</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Understanding Training Dynamics of Neural Fields 📝</code><br>
     M.S.+Ph.D. @ POSTECH AI (24.09--)<br>
     <strong>Keywords:</strong> Neural Fields, Learning Dynamics<br>
     <a href="https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ">Google Scholar</a>
@@ -82,7 +82,7 @@ weight: 1
   <img src="/images/members/yongjun.jpg" alt="Yongjun Kim" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Yongjun Kim</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Efficient Reasoning💭</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Efficient Reasoning 💭</code><br>
     M.S.+Ph.D. @ POSTECH AI (24.09--)<br>
     <strong>Keywords:</strong> Large language model, Test-time scaling<br>
     <a href="mailto:yongjun.kim@postech.ac.kr">mail</a>, <a href="https://x.com/kyjhtwt">X</a>
@@ -94,7 +94,7 @@ weight: 1
   <img src="/images/members/Hyeonjun.jpg" alt="Hyeonjun Kim" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Hyeonjun Kim</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Learning Vision Language Models with Many Applications🤖</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Learning Vision Language Models with Many Applications 🤖</code><br>
     M.S.+Ph.D. @ POSTECH AI (25.02--)<br>
     <strong>Keywords:</strong> Multimodal Learning, Model Efficiency<br>
     <a href="mailto:kim.hyeonjun@postech.ac.kr">mail</a>, <a href="https://www.linkedin.com/in/현준-김-6443a0311/">linked in</a>
@@ -106,7 +106,7 @@ weight: 1
   <img src="/images/members/Sangbeom2.jpg" alt="Sangbeom Ha" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Sangbeom Ha</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;"> Efficient Vision-Language-Action Models for Robotic Intelligence🤖</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;"> Efficient Vision-Language-Action Models for Robotic Intelligence 🤖</code><br>
     M.S.+Ph.D. @ POSTECH AI (26.02--)<br>
     <strong>Keywords:</strong> Vision-Language-Action (VLA), Model Efficiency, On-device Robotics<br>
   </div>
@@ -119,7 +119,7 @@ weight: 1
   <img src="/images/members/jegwang.jpg" alt="Jegwang Ryu" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jegwang Ryu</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Compression in the Neural Network Weight Space💾</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Compression in the Neural Network Weight Space 💾</code><br>
     POSTECH EE (24.09--)<br>
     <strong>Keywords:</strong> Efficient LLM, Accelerated Training<br>
     <a href="https://scholar.google.co.kr/citations?hl=ko&user=QLsG1YMAAAAJ">Google Scholar</a>, <a href="mailto:jegwang.ryu@postech.ac.kr">mail</a>
@@ -130,7 +130,7 @@ weight: 1
   <img src="/images/members/seunghyun.JPG" alt="Seunghyun Kim" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Seunghyun Kim</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Efficient Vision Encoder📸</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Efficient Vision Encoder 📸</code><br>
     POSTECH EE (24.09--)<br>
     <strong>Keywords:</strong> Quantization, VLM, Vision Encoder<br>
     <a href="mailto:shkim0418@postech.ac.kr">mail</a>
@@ -141,7 +141,7 @@ weight: 1
   <img src="/images/members/Minhee2.jpg" alt="Minhee Lee" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minhee Lee</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Video Understanding🎥</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Video Understanding 🎥</code><br>
     POSTECH AI (25.02--)<br>
     <strong>Keywords:</strong> Diffusion Language Model<br>
     <a href="https://github.com/MoOo2mini">webpage</a>, <a href="mailto:mhlee02@postech.ac.kr">mail</a>
@@ -152,7 +152,7 @@ weight: 1
   <img src="/images/members/Minsu.jpg" alt="Minsu Lee" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minsu Lee</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Efficient image enhancement in extreme adverse conditions🌌</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Efficient image enhancement in extreme adverse conditions 🌌</code><br>
     POSTECH AI (25.02--)<br>
     <strong>Keywords:</strong> Computer Vision, Denoising<br>
   </div>
@@ -162,5 +162,5 @@ weight: 1
 ## **Staff**
 
 ### **Seung-Ah Song**
-Administrative Staff @ EffL (22.03--)  
+Administrative Staff 👩🏻‍💼 @ EffL (22.03--)  
 [mail](mailto:tmddk@postech.ac.kr)
