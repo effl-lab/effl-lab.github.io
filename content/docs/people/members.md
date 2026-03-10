@@ -39,7 +39,7 @@ weight: 1
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minjae Park</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Accelerating Large-Scale Models ⚙️</code><br>
     M.S.+Ph.D. @ POSTECH EE (24.02--)<br>
-    <strong>Keywords:</strong> Data Pruning, Efficient Model<br>
+    <strong>Keywords:</strong> Data Pruning, Efficient Model, Knowledge Distillation<br>
     <a href="/docs/people/member/minjae/">webpage</a>, <a href="mailto:minjae0047@postech.ac.kr">mail</a>
   </div>
 </div>
