@@ -34,12 +34,12 @@ weight: 1
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/members/minjae.png" alt="Minjae Park" style="width: 120px; margin-right: 20px;">
+  <img src="/images/members/Minjae2" alt="Minjae Park" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minjae Park</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Accelerating Large-Scale Models for Videos 🎥</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Accelerating Large-Scale Models ⚙️</code><br>
     M.S.+Ph.D. @ POSTECH EE (24.02--)<br>
-    <strong>Keywords:</strong> State-Space Models, Model Compression<br>
+    <strong>Keywords:</strong> Data Pruning, Efficient Model<br>
     <a href="/docs/people/member/minjae/">webpage</a>, <a href="mailto:minjae0047@postech.ac.kr">mail</a>
   </div>
 </div>
@@ -50,13 +50,13 @@ weight: 1
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Hyunjong Ok</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Advancing Audio Technologies for Multimodal Intelligence 🔈</code><br>
     M.S.+Ph.D. @ POSTECH AI (24.02--)<br>
-    <strong>Keywords:</strong> Efficient LLM, Multi-modal learning, Audio Technologies<br>
-    <a href="https://hj-ok.github.io">webpage</a>, <a href="mailto:minjae0047@postech.ac.kr">mail</a>
+    <strong>Keywords:</strong> Efficient LLM, Multi-modal Learning, Audio Technologies<br>
+    <a href="https://hj-ok.github.io">webpage</a>, <a href="mailto:r7play@postech.ac.kr">mail</a>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/members/jiyun2.jpg" alt="Jiyun Bae" style="width: 120px; margin-right: 20px;">
+  <img src="/images/members/Jiyun3.jpg" alt="Jiyun Bae" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jiyun Bae</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Data-dependent Visual Prompts 🕶️</code><br>
@@ -71,9 +71,9 @@ weight: 1
   <img src="/images/members/taesun.jpeg" alt="Taesun Yeom" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Taesun Yeom</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Understanding Training Dynamics of Neural Fields 📝</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Theoretical Understanding of Deep Learning 📝</code><br>
     M.S.+Ph.D. @ POSTECH AI (24.09--)<br>
-    <strong>Keywords:</strong> Neural Fields, Learning Dynamics<br>
+    <strong>Keywords:</strong> Implicit Bias, Learning Dynamics, Generalization <br>
     <a href="https://scholar.google.co.kr/citations?hl=ko&user=JobmaFQAAAAJ">Google Scholar</a>
   </div>
 </div>
@@ -96,7 +96,7 @@ weight: 1
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Hyeonjun Kim</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Learning Vision Language Models with Many Applications 🤖</code><br>
     M.S.+Ph.D. @ POSTECH AI (25.02--)<br>
-    <strong>Keywords:</strong> Multimodal Learning, Model Efficiency<br>
+    <strong>Keywords:</strong> Multimodal Learning, Model Efficiency, Vision-Language-Action Model (VLA) <br>
     <a href="mailto:kim.hyeonjun@postech.ac.kr">mail</a>, <a href="https://www.linkedin.com/in/현준-김-6443a0311/">linked in</a>
   </div>
 </div>
@@ -143,7 +143,7 @@ weight: 1
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minhee Lee</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Video Understanding 🎥</code><br>
     POSTECH AI (25.02--)<br>
-    <strong>Keywords:</strong> Diffusion Language Model<br>
+    <strong>Keywords:</strong> Diffusion Transformer, Diffusion Language Model <br>
     <a href="https://github.com/MoOo2mini">webpage</a>, <a href="mailto:mhlee02@postech.ac.kr">mail</a>
   </div>
 </div>
