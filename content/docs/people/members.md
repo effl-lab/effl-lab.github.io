@@ -34,7 +34,7 @@ weight: 1
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/members/Minjae2" alt="Minjae Park" style="width: 120px; margin-right: 20px;">
+  <img src="/images/members/Minjae2.JPG" alt="Minjae Park" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Minjae Park</strong></h3>
     <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Accelerating Large-Scale Models ⚙️</code><br>
