@@ -59,10 +59,10 @@ weight: 1
   <img src="/images/members/Jiyun3.jpg" alt="Jiyun Bae" style="width: 120px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 5px; margin-bottom: 10px;"><strong>Jiyun Bae</strong></h3>
-    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Data-dependent Visual Prompts 🕶️</code><br>
+    <code style="background-color: #f4f4f4; color: black; padding: 2px 6px; border-radius: 4px;">Robustness of Reasoning Vision-Language Models 🕶️</code><br>
     Ph.D. @ POSTECH AI (26.02--)<br>
     Academic Team Lead @ EffL<br>
-    <strong>Keywords:</strong> Visual Prompts, Black-box models, LLMs, Fairness<br>
+    <strong>Keywords:</strong> Vision-language Model, Trustworthy, Robustness<br>
     <a href="/docs/people/member/jiyunbae/">webpage</a>, <a href="mailto:jiyun.bae@postech.ac.kr">mail</a>
   </div>
 </div>
