@@ -29,7 +29,11 @@ Seoul Women University (SWU)
 
 Pohang University of Science and Technology (POSTECH)
 
-- (2024.02 ~ Present) M.S. candidate in Graduate School of AI
+- (2024.02 ~ 2026. 02.) M.S. in Graduate School of AI
+
+Pohang University of Science and Technology (POSTECH)
+
+- (2026.02 ~ Present) Ph.D. student in Graduate School of AI
 
 <br>
 
