@@ -7,6 +7,22 @@ weight: 2
 
 ### **Current Interns**  
 
+**Taehyeok Ha** (Fall '24--)
+Deep Learning Theory
+
+**Andikawati P. Widjaja** (Winter '26--)
+Prompt Engineering for Inference Optimization
+
+**Jonggil Hwang** (Winter '26--)
+Efficient Perception
+
+**Haneul Kim** (Spring '26--)
+LLM, KV Cache Compression
+
+**Junhyeok Lee** (Spring '26--)
+Visual Token Compression for VLMs
+
+<!--
 **Deokyeong Lee** (Fall '24--)  
 Contrastive Decoding with Hallucination  
 
@@ -24,36 +40,12 @@ Safety & Robustness on Vision Tasks
 
 **Hyeontae Jeong** (Fall '24--)  
 Efficient Learning of Language Models
-
-<!--
-**Sangbeom Ha** (Summer '23--)  
-Large-Scale Model Quantization  
-
-**Inkwan Hwang** (Fall '23--)  
-Large-Scale Model Pruning  
-[webpage](https://inkwanhwang.github.io)
-
-**Taesun Yeom** (Winter '23--)  
-Training and Inference Efficiency for Neural Fields
-
-**Minhee Lee** (Winter '23--)  
-Speculative Decoding
-
-**Jegwang Ryu** (Summer '23 -> Samsung -> Winter '23--)  
-Accelerated Training by Masking
-
-**Seunghyun Kim** (Spring '24--)  
-Efficient RAG LLM  
-
-**Wonjun Cho** (Spring '24--)  
-Model Compression
-
-**Subeom Heo** (Spring '24--)  
-Accelerating Video Diffusion Models
 -->
 
+<!--
 ### **Waitlist (Winter '25--)**
 Suho Yoo, Yoonjoo Nam, Taehyuk Ha, Gwanjoong Kim, Minjun Kang, Youna Shin, Deokyoung Lee, Hyeontae Jeong, Jinho Kim
+-->
 
 <!--
 
