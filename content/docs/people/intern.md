@@ -10,10 +10,10 @@ weight: 2
 **Taehyeok Ha** (Fall '24--)
 Deep Learning Theory
 
-**Andikawati P. Widjaja** (Winter '26--)
+**Andikawati P. Widjaja** (Winter '25--)
 Prompt Engineering for Inference Optimization
 
-**Jonggil Hwang** (Winter '26--)
+**Jonggil Hwang** (Winter '25--)
 Efficient Perception
 
 **Haneul Kim** (Spring '26--)
