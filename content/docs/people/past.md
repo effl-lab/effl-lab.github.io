@@ -146,7 +146,7 @@ M.S. @ POSTECH EE (22.03--24.02): "In search of a data transformation that accel
 **Deokyeong Lee** (Fall '24--Summer '25)  
 Contrastive Decoding with Hallucination  
 
-**Suho Yoo** (Summer '24--Winter '24)  
+**Suho Yoo** (Summer '24--Winter '24; Now at Kaist)  
 Model Compression
 
 **Jaejin Kim** (Fall '24--Winter '24)  
