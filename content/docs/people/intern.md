@@ -22,6 +22,9 @@ LLM, KV Cache Compression
 **Junhyeok Lee** (Spring '26--)
 Visual Token Compression for VLMs
 
+**Deokyeong Lee** (Fall '24--)  
+Contrastive Decoding with Hallucination  
+
 <!--
 **Deokyeong Lee** (Fall '24--)  
 Contrastive Decoding with Hallucination  
