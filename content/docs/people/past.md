@@ -142,6 +142,22 @@ M.S. @ POSTECH EE (22.03--24.02): "In search of a data transformation that accel
 --- -->
 
 ## **Past Interns**
+
+**Deokyeong Lee** (Fall '24--Summer '25)  
+Contrastive Decoding with Hallucination  
+
+**Suho Yoo** (Summer '24--Winter '24)  
+Model Compression
+
+**Jaejin Kim** (Fall '24--Winter '24)  
+Speculative Decoding of LLMs
+
+**Yoonjoo Nam** (Summer '24--Summer '25)  
+Safety & Robustness on Vision Tasks
+
+**Hyeontae Jeong** (Fall '24)  
+Efficient Learning of Language Models
+
 **Seoyun Jeong** (Summer '24)  
 Collaborative Decoding with Compressed Models 
 
