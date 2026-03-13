@@ -21,7 +21,7 @@ We develop theories, algorithms, and systems to make ML more efficient.
 
 ### **News**  
 - (Feb 2026) Jaeho will serve as an Action Editor for TMLR
-- (Jan 2026) One paper accepted at ICASSP 2026 🇪🇸
+- (Jan 2026) One paper accepted at ICASSP 2026 as an Oral presentation 🇪🇸
 - (Nov 2025) One paper accepted at DATE 2026 🇮🇹
 - (Oct 2025) Jaeho has been selected as one of the [Top Area Chairs](https://neurips.cc/Conferences/2025/ProgramCommittee) at NeurIPS 2025
 - (Oct 2025) Jaeho will give a talk at [Global AI Frontiers Symposium](https://aifrontiers.kr/)
